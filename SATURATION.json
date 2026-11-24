@@ -734,6 +734,18 @@
       "new_entries": 0,
       "upgrades": 8,
       "remaining_backlog": 6
+    },
+    {
+      "round": 62,
+      "date": "2026-11-24",
+      "methods": [
+        "深度缺口：U09 余下案例与 U11 全部流程仍为 L1",
+        "批量升级：11 条一次性升至 L2"
+      ],
+      "gaps_found": 11,
+      "new_entries": 0,
+      "upgrades": 11,
+      "remaining_backlog": 4
     }
   ]
 }

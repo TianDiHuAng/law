@@ -1018,6 +1018,24 @@
         "L3": 3
       },
       "notes": "R61：批量升级 8 个经典案例至 L2（许霆、昆山反杀、于欢、腾讯诉360、乔丹商标、快播、指导案例23号、Donoghue v Stevenson）。"
+    },
+    {
+      "round": 62,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 11,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 184,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 379,
+      "levels": {
+        "L1": 105,
+        "L2": 271,
+        "L3": 3
+      },
+      "notes": "R62：批量升级 5 个英美经典案例（Carlill、Salomon、Marbury、Brown、Miranda）与 6 条流程页（民事、刑事、行政、仲裁、复议、执行）至 L2。"
     }
   ]
 }
