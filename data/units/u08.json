@@ -1,0 +1,873 @@
+{
+  "unit_id": "u08",
+  "title": "比较法与国际法",
+  "subtitle": "普通法、大陆法、欧盟法与国际规则",
+  "order": 8,
+  "entries": [
+    {
+      "id": "comp-common-law",
+      "title": "英国普通法的形成",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "英国",
+      "era": "中世纪（1066—15世纪）",
+      "definition": "普通法是诺曼征服后由王室法院通过巡回审判逐步形成、适用于全英格兰的判例法体系，以令状制度与陪审制度为重要基础。",
+      "summary": "普通法的发展经历了亨利二世司法改革、巡回法官判例积累与布莱克顿等法学家整理，最终形成独立于地方习惯与教会法的王室法律体系。",
+      "related": [
+        "comp-equity",
+        "comp-precedent",
+        "history-common-law-family"
+      ],
+      "sources": [
+        "src-wiki-english-law",
+        "src-wiki-common-law",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "普通法形成期的具体年份与关键判例需按英国法律史文献核对。",
+      "l2": {
+        "definition_source": "英国法律史通说；参考 Britannica “Common Law”条与《中国大百科全书·法学》（核对日期：2026-11-24）。",
+        "elements": [
+          "诺曼征服与王室司法",
+          "令状制度",
+          "巡回审判",
+          "陪审团",
+          "判例积累"
+        ],
+        "conditions": [
+          "王室法院对案件具有管辖权",
+          "原告取得适当令状",
+          "法官依先前判例与地方习惯裁判"
+        ],
+        "effects": [
+          "形成适用于全英格兰的统一法律",
+          "判例成为主要法律渊源",
+          "程序先于权利，令状类型决定救济方式"
+        ],
+        "exceptions": [
+          "衡平法对普通法救济不足的补充",
+          "制定法可推翻或修改普通法规则"
+        ],
+        "cases": [
+          "case-donoghue"
+        ],
+        "controversies": [
+          {
+            "issue": "普通法是否完全源于英国本土习惯",
+            "views": [
+              {
+                "holder": "传统观点",
+                "basis": "普通法是英格兰固有习惯经王室法院整理而成"
+              },
+              {
+                "holder": "部分法律史学者",
+                "basis": "普通法深受罗马法与教会法影响，不能忽视欧陆渊源"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "衡平法",
+            "difference": "普通法注重形式与先例，衡平法以良心与公平为基础，补充普通法救济之不足"
+          },
+          {
+            "with": "大陆法",
+            "difference": "普通法以判例为主要渊源，大陆法以成文法典为主要渊源"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "普通法就是英国所有法律",
+            "correction": "英国法还包括衡平法、制定法与欧盟法残留影响（脱欧前）"
+          },
+          {
+            "claim": "普通法没有成文法",
+            "correction": "英国有大量制定法，普通法只是判例法部分"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "comp-equity",
+      "title": "衡平法",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "英国",
+      "era": "中世纪—1875年司法改革",
+      "definition": "衡平法是英国大法官法院发展起来的、以公平与良心为基础的法律体系，用于弥补普通法救济的不足，典型制度包括信托、禁令与特定履行。",
+      "summary": "1873—1875年英国司法改革后，普通法法院与衡平法法院合并，但衡平法规则仍作为独立法律原则继续适用。",
+      "related": [
+        "comp-common-law",
+        "comp-precedent"
+      ],
+      "sources": [
+        "src-wiki-equity-law",
+        "src-wiki-common-law",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "comp-precedent",
+      "title": "判例制度与遵循先例",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "英国/美国",
+      "era": "中世纪—当代",
+      "definition": "判例制度是以法院先前判决作为后续类似案件裁判依据的制度。遵循先例原则要求下级法院受上级法院判决约束，同级法院通常受自身或上级法院先例约束。",
+      "summary": "判例的核心是判决理由（ratio decidendi），附带意见（obiter dicta）不具有约束力但具有说服力。判例可被上级法院推翻或被制定法改变。",
+      "related": [
+        "comp-common-law",
+        "comp-equity",
+        "comp-us-constitution"
+      ],
+      "sources": [
+        "src-wiki-precedent",
+        "src-wiki-common-law",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "英国脱欧后判例法与欧盟法关系的具体变化需按英国官方资料核对。",
+      "l2": {
+        "definition_source": "英美法通说；参考 Britannica “Common Law”条与《中国大百科全书·法学》（核对日期：2026-11-24）。",
+        "elements": [
+          "法院层级",
+          "判决理由",
+          "附带意见",
+          "区别技术",
+          "推翻与规避"
+        ],
+        "conditions": [
+          "后续案件与先例在关键事实与法律问题上相似",
+          "先例由有约束力的法院作出",
+          "先例未被推翻或制定法改变"
+        ],
+        "effects": [
+          "法官应遵循有约束力的先例",
+          "当事人可依据先例预测裁判结果",
+          "法律通过判例逐步发展"
+        ],
+        "exceptions": [
+          "先例明显错误或与制定法冲突时可被推翻",
+          "事实不同的案件可依区别技术不适用先例"
+        ],
+        "cases": [
+          "case-donoghue",
+          "case-marbury"
+        ],
+        "controversies": [
+          {
+            "issue": "法官是否应严格遵循先例",
+            "views": [
+              {
+                "holder": "严格遵循说",
+                "basis": "先例保障法律确定性与可预测性"
+              },
+              {
+                "holder": "实用主义说（部分学者）",
+                "basis": "法官应在社会变迁中发展法律，必要时推翻过时先例"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "成文法",
+            "difference": "成文法由立法机关制定，判例法由法院在裁判中形成"
+          },
+          {
+            "with": "指导性案例",
+            "difference": "中国指导性案例“应当参照”，但不同于英美法上有约束力的先例"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "判例法国家没有成文法",
+            "correction": "英美法国家有大量成文法，判例法与成文法并存"
+          },
+          {
+            "claim": "任何判决都构成先例",
+            "correction": "只有具有约束力法院的判决理由才构成有约束力的先例"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "comp-us-constitution",
+      "title": "美国宪法与联邦制",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "美国",
+      "era": "1787年制宪—当代",
+      "definition": "美国宪法于1787年制定、1789年生效，确立联邦制、三权分立与制衡、联邦至上与基本权利保障。",
+      "summary": "美国宪法第七条正文与二十七条修正案共同构成现行宪法框架；1791年权利法案保障言论、宗教、正当程序与平等保护等权利。",
+      "related": [
+        "comp-judicial-review",
+        "comp-precedent",
+        "const-concept"
+      ],
+      "sources": [
+        "src-us-supreme-court",
+        "src-wiki-marbury",
+        "src-wiki-brown"
+      ],
+      "needs_verification": true,
+      "pending_notes": "美国宪法修正案的最新批准情况与重要判例需按官方文本核对。",
+      "l2": {
+        "definition_source": "《美利坚合众国宪法》原文及修正案；参考美国最高法院与国会官方文本（核对日期：2026-11-24）。",
+        "elements": [
+          "联邦制",
+          "三权分立",
+          "制衡机制",
+          "联邦至上条款",
+          "权利法案"
+        ],
+        "conditions": [
+          "联邦政府仅享有宪法明示或默示授予的权力",
+          "各州保留未授予联邦的权力",
+          "宪法修正须依第五条程序"
+        ],
+        "effects": [
+          "联邦法律与宪法优先于州法",
+          "总统、国会与最高法院相互制衡",
+          "公民基本权利受宪法保障"
+        ],
+        "exceptions": [
+          "第十修正案保留州权",
+          "战时或紧急状态下的权力扩张受司法审查限制"
+        ],
+        "cases": [
+          "case-marbury",
+          "case-brown",
+          "case-miranda"
+        ],
+        "controversies": [
+          {
+            "issue": "联邦权力与州权的边界",
+            "views": [
+              {
+                "holder": "联邦主义扩张说",
+                "basis": "必要与适当条款支持联邦广泛立法"
+              },
+              {
+                "holder": "州权保留说",
+                "basis": "第十修正案保留州警察权与地方自治"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "英国宪法",
+            "difference": "美国宪法为成文宪法，英国宪法主要由制定法、判例与宪法惯例构成"
+          },
+          {
+            "with": "邦联制",
+            "difference": "联邦制下联邦政府直接对公民行使权力，邦联制下中央权力来自各州"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "美国宪法从未修改",
+            "correction": "美国宪法有二十七条修正案，权利法案是其中前十项"
+          },
+          {
+            "claim": "美国总统可以随意废除法律",
+            "correction": "总统可否决法案，但国会可以三分之二多数推翻否决，法院可审查法律合宪性"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": 1787,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "comp-judicial-review",
+      "title": "美国司法审查",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "美国",
+      "era": "1803年—当代",
+      "definition": "司法审查是法院审查立法与行政行为是否符合宪法、并宣告违宪行为无效的权力。1803年马伯里诉麦迪逊案确立了联邦最高法院的司法审查权。",
+      "summary": "司法审查并非美国宪法明文规定，而是由马歇尔大法官在判决中论证确立，成为美国宪政体制的核心机制。",
+      "related": [
+        "comp-us-constitution",
+        "comp-precedent",
+        "const-review"
+      ],
+      "sources": [
+        "src-wiki-marbury",
+        "src-us-supreme-court",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "comp-german",
+      "title": "德国民法典（BGB）",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "德国",
+      "era": "1900年1月1日施行",
+      "definition": "德国民法典（Bürgerliches Gesetzbuch，BGB）于1896年颁布、1900年施行，分总则、债法、物权法、亲属法、继承法五编，是大陆法系最具影响力的民法典之一。",
+      "summary": "BGB以高度抽象的概念体系、法律行为理论与物权行为理论著称，对日本、中国等国的民法理论与立法产生重要影响。",
+      "related": [
+        "history-civil-law-family",
+        "civil-general",
+        "comp-french"
+      ],
+      "sources": [
+        "src-bgb",
+        "src-wiki-civil-law",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "comp-french",
+      "title": "法国民法典",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "法国",
+      "era": "1804年颁布",
+      "definition": "法国民法典（Code civil）于1804年颁布，是拿破仑时期民法典化的代表作，确立所有权绝对、契约自由与过错责任三大原则。",
+      "summary": "法国民法典以简明通俗的语言和公民权利本位著称，对欧洲、拉丁美洲与亚洲多国民法典产生深远影响。",
+      "related": [
+        "history-civil-law-family",
+        "history-roman",
+        "comp-german"
+      ],
+      "sources": [
+        "src-wiki-napoleonic-code",
+        "src-wiki-civil-law",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "comp-eu-law",
+      "title": "欧盟法体系",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "欧盟",
+      "era": "1957年—当代",
+      "definition": "欧盟法由条约（TEU、TFEU）、条例、指令、决定以及欧盟法院判例构成，具有直接效力与优先适用效力。",
+      "summary": "欧盟法在成员国国内适用时，成员国法院可通过初步裁决程序请求欧盟法院解释欧盟法；欧盟基本权利宪章具有条约同等效力。",
+      "related": [
+        "comp-eu-rights",
+        "intl-sources",
+        "comp-german"
+      ],
+      "sources": [
+        "src-wiki-eu-law",
+        "src-curia",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "comp-eu-rights",
+      "title": "欧盟基本权利宪章",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "欧盟",
+      "era": "2000年宣布，2009年生效",
+      "definition": "欧盟基本权利宪章将尊严、自由、平等、团结、公民权利与司法公正等权利集中规定，2009年《里斯本条约》后取得与条约同等的法律效力。",
+      "summary": "宪章适用于欧盟机构及执行欧盟法的成员国，英国与波兰曾获特定适用豁免（后续安排以欧盟官方文件为准）。",
+      "related": [
+        "comp-eu-law",
+        "intl-human-rights"
+      ],
+      "sources": [
+        "src-wiki-common-law",
+        "src-curia"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-sources",
+      "title": "国际公法渊源",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "国际",
+      "era": "国际法学·总论",
+      "definition": "国际公法渊源主要包括国际条约、国际习惯、一般法律原则，以及作为确定法律原则辅助资料的司法判例与公法学家学说。",
+      "summary": "《国际法院规约》第三十八条常被援引为国际法渊源的经典表述；条约与习惯法之间不存在固定效力等级，需依特别法、后法原则处理冲突。",
+      "related": [
+        "intl-treaty",
+        "intl-sovereignty",
+        "intl-human-rights"
+      ],
+      "sources": [
+        "src-icj",
+        "src-un-charter",
+        "src-un-treaty"
+      ],
+      "needs_verification": true,
+      "pending_notes": "《国际法院规约》第三十八条的适用与强行法清单需按国际法院判例与联合国文件核对。",
+      "l2": {
+        "definition_source": "《国际法院规约》第三十八条；参考联合国与国际法院官方资料（核对日期：2026-11-24）。",
+        "elements": [
+          "国际条约",
+          "国际习惯",
+          "一般法律原则",
+          "司法判例与学说（辅助资料）"
+        ],
+        "conditions": [
+          "条约须依法生效并对当事国产生拘束力",
+          "习惯须具备国家实践与法律确信",
+          "一般法律原则须为各国法律体系所承认"
+        ],
+        "effects": [
+          "条约对当事国具有拘束力，须善意履行",
+          "习惯法对未明确反对的国家具有约束力",
+          "国际法院依渊源裁判国家间争端"
+        ],
+        "exceptions": [
+          "强行法（jus cogens）优先于其他国际法规范",
+          "对持续反对者，习惯法规则可不适用"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "国际法是否具有真正的法律拘束力",
+            "views": [
+              {
+                "holder": "国际法有效说",
+                "basis": "国家通过条约、习惯与组织机制普遍遵守国际法"
+              },
+              {
+                "holder": "现实主义质疑说",
+                "basis": "缺乏中央强制执行机关，国际法常受强权政治影响"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "国内法",
+            "difference": "国际法主体主要是国家与国际组织，缺乏统一立法与强制执行机关"
+          },
+          {
+            "with": "国际私法",
+            "difference": "国际公法调整国家间关系，国际私法解决涉外民事关系的法律适用"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "国际法不是法",
+            "correction": "国际法是具有拘束力的法律体系，通过条约、习惯与组织机制实施"
+          },
+          {
+            "claim": "条约可以随意违反",
+            "correction": "条约必须善意履行，违反条约可能引发国家责任与反措施"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-treaty",
+      "title": "条约法",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "国际",
+      "era": "1969年《维也纳条约法公约》",
+      "definition": "条约法是规范条约的缔结、生效、保留、解释、修订、终止与无效的国际法规则，核心原则是“条约必须遵守”（pacta sunt servanda）。",
+      "summary": "1969年《维也纳条约法公约》是条约法的主要成文法源，但对其适用范围与部分条款存在争议；中国于1997年加入该公约。",
+      "related": [
+        "intl-sources",
+        "intl-sovereignty"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "中国对条约法公约的保留与适用情况需按外交部官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-sovereignty",
+      "title": "国家主权与豁免",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "国际",
+      "era": "国际法学·国家",
+      "definition": "国家主权是国家对内最高、对外独立的权力。国家豁免原则使一国法院原则上不得对另一国行使司法管辖，但存在限制豁免与例外。",
+      "summary": "现代国际法趋向限制豁免：商业活动、雇佣合同等私法行为可能不享有豁免；国家及其财产豁免的具体规则见《联合国国家及其财产管辖豁免公约》（尚未普遍生效）。",
+      "related": [
+        "intl-sources",
+        "intl-treaty"
+      ],
+      "sources": [
+        "src-icj",
+        "src-un-charter",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "国家豁免公约的生效状态与各国实践需按联合国资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-human-rights",
+      "title": "国际人权法",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "国际",
+      "era": "1948年《世界人权宣言》—当代",
+      "definition": "国际人权法由《世界人权宣言》《公民权利和政治权利国际公约》《经济、社会及文化权利国际公约》等文件及监督机制构成。",
+      "summary": "国际人权法确立人人享有固有尊严与平等权利，国家负有尊重、保护和实现人权的义务；个人来文与条约机构监督构成实施机制。",
+      "related": [
+        "intl-sources",
+        "const-rights",
+        "comp-eu-rights"
+      ],
+      "sources": [
+        "src-un-charter",
+        "src-un-treaty",
+        "src-ilo"
+      ],
+      "needs_verification": true,
+      "pending_notes": "各人权公约的批准状态与任择议定书需按联合国条约库核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-wto",
+      "title": "WTO规则",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "国际",
+      "era": "1995年成立",
+      "definition": "世界贸易组织（WTO）规则体系包括《关税与贸易总协定》（GATT）、《服务贸易总协定》（GATS）、《与贸易有关的知识产权协定》（TRIPS）及争端解决谅解。",
+      "summary": "WTO以最惠国待遇、国民待遇、关税减让、透明度与争端解决为核心，致力于促进贸易自由化与可预测性。",
+      "related": [
+        "intl-investment",
+        "intl-treaty"
+      ],
+      "sources": [
+        "src-wto",
+        "src-un-charter",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-investment",
+      "title": "国际投资法",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "国际",
+      "era": "1959年首个双边投资条约—当代",
+      "definition": "国际投资法主要调整外国投资者与东道国之间的投资关系，渊源包括双边投资条约、区域贸易协定投资章节、习惯国际法与国内法。",
+      "summary": "投资者与东道国争端解决（ISDS）常通过ICSID仲裁进行；投资保护标准包括公平公正待遇、征收补偿、保护与安全等。",
+      "related": [
+        "intl-wto",
+        "intl-treaty",
+        "proc-arbitration"
+      ],
+      "sources": [
+        "src-icsid",
+        "src-un-treaty",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-private",
+      "title": "国际私法（冲突法）",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "国际私法学·总论",
+      "definition": "国际私法是调整涉外民事关系的法律部门，核心问题是管辖权、法律适用与外国判决的承认与执行。",
+      "summary": "中国以《涉外民事关系法律适用法》为主要成文法源，采用最密切联系、意思自治、保护弱者等连结点确定准据法。",
+      "related": [
+        "intl-sources",
+        "intl-recognition"
+      ],
+      "sources": [
+        "src-law-civil-application",
+        "src-zgbk",
+        "src-un-treaty"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-recognition",
+      "title": "外国判决的承认与执行",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际私法学·司法协助",
+      "definition": "外国判决的承认与执行是内国法院依据条约或互惠原则，承认外国法院判决的效力并予以执行的制度。",
+      "summary": "2019年海牙《承认与执行外国民商事判决公约》试图建立统一规则，但其生效与适用范围以海牙会议官方资料为准。",
+      "related": [
+        "intl-private",
+        "proc-civil-enforcement"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "海牙判决公约的签署与生效状态需按海牙国际私法会议官网核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>关于 — 法律知识库</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<a class="skip" href="#main">跳到正文</a>
+<header class="site-header">
+  <div class="masthead">
+    <a class="brand" href="index.html"><span class="brand-mark">法</span><span class="brand-text"><strong>法律知识库</strong><small>体系 · 制度 · 经典案例</small></span></a>
+    <nav class="main-nav" aria-label="主导航"><a href="index.html" class="">首页</a><a href="units.html" class="">部门法</a><a href="index-all.html" class="">全部条目</a><a href="cases.html" class="">案例</a><a href="laws.html" class="">法律文本</a><a href="flows.html" class="">程序流程</a><a href="timeline.html" class="">时间线</a><a href="sources.html" class="">来源</a><a href="coverage.html" class="">覆盖</a><a href="about.html" class="active">关于</a></nav>
+  </div>
+</header>
+<main id="main" class="wrap">
+<div class="page-head"><p class="kicker">关于</p><h1>方法与边界</h1></div>
+<article class="prose">
+<section><h2>这是什么</h2><p>一个面向学习与查阅的法律知识库。它以中国大陆现行法为主，兼顾比较法与国际法；每个条目都标注辖区、类型与来源。它不是法律意见，也不能替代执业律师对具体案件的分析。</p></section>
+<section><h2>怎么做的</h2><ol><li>用四份权威大纲/目录取并集，形成 <code>scope.md</code>。</li><li>逐条建立来源，只有实际打开页面并核对标题的才标记 <code>verified=true</code>。</li><li>先用 <code>check.py</code> 校验字段、来源、日期、链接与 SVG，再生成站点。</li><li>L1 骨架覆盖全部条目；核心条目升 L2；少量核心条目升 L3。</li></ol></section>
+<section><h2>五层标注</h2><p>本库尽量区分：法律条文、司法解释、指导性案例、学说观点、实务经验。学说争议会列出各方理由，不替读者下结论。</p></section>
+<section><h2>待核实</h2><p>无法核实的案号、裁判日期、条文号与数字，统一写“待核实”。“待核实”不是装饰，而是提醒读者在引用前回到官方文本。</p></section>
+<section><h2>页脚声明</h2><p>本站内容仅供学习参考，不构成法律意见；法律会修订，具体问题请咨询执业律师或查阅官方现行文本。</p></section>
+</article>
+</main>
+<footer class="site-footer">
+  <p class="disclaimer">本站内容仅供学习参考，不构成法律意见；法律会修订，具体问题请咨询执业律师或查阅官方现行文本。</p>
+  <p class="meta">法律知识库 · 数据驱动静态站点 · 最后核对 2026-11-24 · <a href="about.html">方法与边界</a></p>
+</footer>
+</body>
+</html>

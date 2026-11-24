@@ -1,0 +1,902 @@
+{
+  "unit_id": "u06",
+  "title": "商法与社会法",
+  "subtitle": "公司、破产、证券与劳动保障",
+  "order": 6,
+  "entries": [
+    {
+      "id": "com-company",
+      "title": "公司法概论",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "中国",
+      "era": "商法·公司法（2024年7月1日施行修订法）",
+      "definition": "公司是依法设立的以营利为目的的企业法人，包括有限责任公司与股份有限公司。公司法规范公司的设立、组织机构、资本、股东权利与义务、合并分立、解散清算等。",
+      "summary": "2023年修订的公司法自2024年7月1日施行，强化股东出资责任、完善公司治理、优化营商环境，并加强对职工与债权人利益的保护。",
+      "related": [
+        "com-company-establish",
+        "com-company-governance",
+        "com-piercing"
+      ],
+      "sources": [
+        "src-law-company",
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "2023年修订公司法的配套司法解释与登记规则需按官方文本核对。",
+      "l2": {
+        "definition_source": "《中华人民共和国公司法》（版本：2023年12月29日修订，2024年7月1日施行，核对日期：2026-11-24）。",
+        "elements": [
+          "依法设立",
+          "以营利为目的",
+          "企业法人",
+          "有限责任或股份有限公司形式"
+        ],
+        "conditions": [
+          "股东符合法定人数",
+          "有符合公司章程规定的全体股东认缴的出资额",
+          "股东共同制定公司章程",
+          "有公司名称与组织机构",
+          "有公司住所"
+        ],
+        "effects": [
+          "公司具有独立法人人格",
+          "股东以认缴出资或认购股份为限承担责任",
+          "公司以其全部财产对公司债务承担责任"
+        ],
+        "exceptions": [
+          "法人人格否认情形下股东对公司债务承担连带责任",
+          "一人公司财产混同的举证责任倒置"
+        ],
+        "cases": [
+          "case-salomon"
+        ],
+        "controversies": [
+          {
+            "issue": "注册资本认缴制下股东出资加速到期",
+            "views": [
+              {
+                "holder": "2023年公司法立法取向",
+                "basis": "公司不能清偿到期债务时，公司或债权人可要求未届出资期限股东提前缴纳出资"
+              },
+              {
+                "holder": "部分学者",
+                "basis": "应严格限定加速到期条件，避免过度加重股东责任"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "合伙企业",
+            "difference": "合伙企业不具有法人资格，普通合伙人对企业债务承担无限连带责任"
+          },
+          {
+            "with": "个体工商户",
+            "difference": "个体工商户不是企业法人，经营者以个人或家庭财产承担经营责任"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "注册公司后股东责任无限",
+            "correction": "股东原则上以认缴出资为限承担有限责任，但滥用法人独立地位除外"
+          },
+          {
+            "claim": "注册资本越高越有实力",
+            "correction": "注册资本是认缴承诺，过高可能带来出资责任与债务风险"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": 2023,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-company-establish",
+      "title": "公司设立",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "商法·公司法",
+      "definition": "公司设立是发起人依照法定条件和程序组建公司并使其取得法人资格的行为，包括发起设立与募集设立。",
+      "summary": "设立登记是公司取得法人资格的必经程序；设立中的公司以自己名义从事活动的，责任承担依公司法与民法典规则处理。",
+      "related": [
+        "com-company",
+        "com-company-capital"
+      ],
+      "sources": [
+        "src-law-company",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-company-governance",
+      "title": "公司治理",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "商法·公司法",
+      "definition": "公司治理是规范股东会、董事会、监事会（审计委员会）与高级管理人员之间权责关系的制度安排。",
+      "summary": "2023年公司法允许公司按章程设置审计委员会替代监事会，强化董事、监事、高级管理人员的忠实义务与勤勉义务。",
+      "related": [
+        "com-company",
+        "com-piercing"
+      ],
+      "sources": [
+        "src-law-company",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "审计委员会替代监事会的具体适用条件需按2023年公司法核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-company-capital",
+      "title": "公司资本制度",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "商法·公司法",
+      "definition": "公司资本制度规范公司注册资本的认缴、实缴、增减与抽逃出资等问题，核心是资本确定、资本维持与资本不变原则。",
+      "summary": "2023年公司法规定有限责任公司股东认缴出资额应自公司成立之日起五年内缴足，并强化董事会对出资的核查催缴义务。",
+      "related": [
+        "com-company",
+        "com-piercing"
+      ],
+      "sources": [
+        "src-law-company",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-piercing",
+      "title": "法人人格否认",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "商法·公司法",
+      "definition": "法人人格否认又称“揭开公司面纱”，是股东滥用公司法人独立地位和股东有限责任，逃避债务，严重损害公司债权人利益时，法院判令股东对公司债务承担连带责任的制度。",
+      "summary": "人格否认不是对公司法人人格的永久否定，而是个案中的责任扩张，须严格把握适用条件。",
+      "related": [
+        "com-company",
+        "civil-legal-person"
+      ],
+      "sources": [
+        "src-law-company",
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-company-liquidation",
+      "title": "公司解散与清算",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "商法·公司法",
+      "definition": "公司解散是公司法人资格终止的原因，包括自愿解散、行政解散与司法解散；清算是对公司财产、债权债务进行清理并分配剩余财产的程序。",
+      "summary": "清算期间公司存续但不得开展与清算无关的经营活动；清算义务人未依法履行清算义务造成损失的，依法承担赔偿责任。",
+      "related": [
+        "com-company",
+        "com-bankruptcy"
+      ],
+      "sources": [
+        "src-law-company",
+        "src-law-bankruptcy",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-bill",
+      "title": "票据法",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "商法·票据法",
+      "definition": "票据法是规范汇票、本票、支票的签发、取得、转让、承兑、付款与追索等行为的法律，强调票据的无因性、要式性与流通性。",
+      "summary": "票据行为包括出票、背书、承兑、保证与付款；票据权利包括付款请求权与追索权。",
+      "related": [
+        "com-securities",
+        "civil-contract"
+      ],
+      "sources": [
+        "src-npc",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-bankruptcy",
+      "title": "企业破产法",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "中国",
+      "era": "商法·破产法（2007年施行）",
+      "definition": "企业破产法规范企业法人破产清算、重整与和解程序，公平清理债权债务，保护债权人和债务人的合法权益。",
+      "summary": "破产程序由法院受理，指定管理人接管债务人财产；担保物权人享有别除权，职工债权与税款等按法定顺序清偿。",
+      "related": [
+        "com-restructuring",
+        "com-company-liquidation",
+        "civil-security"
+      ],
+      "sources": [
+        "src-law-bankruptcy",
+        "src-law-company",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "破产法修订动态、关联企业实质合并破产规则需按司法解释核对。",
+      "l2": {
+        "definition_source": "《中华人民共和国企业破产法》第二条至第七条（版本：2006年通过，2007年6月1日施行，核对日期：2026-11-24）。",
+        "elements": [
+          "破产原因",
+          "破产申请",
+          "管理人",
+          "债权人会议",
+          "破产财产分配"
+        ],
+        "conditions": [
+          "企业法人不能清偿到期债务，并且资产不足以清偿全部债务或者明显缺乏清偿能力",
+          "由债权人或债务人依法提出申请",
+          "法院依法受理"
+        ],
+        "effects": [
+          "债务人财产由管理人接管",
+          "个别清偿原则上无效",
+          "债权按法定顺序公平受偿",
+          "重整成功可避免破产清算"
+        ],
+        "exceptions": [
+          "职工债权、社会保险费用与税款优先于普通破产债权",
+          "担保物权人就担保财产优先受偿"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "破产重整中债权人利益的保护",
+            "views": [
+              {
+                "holder": "重整优先说",
+                "basis": "重整有利于企业挽救与就业稳定，应给予债务人重生机会"
+              },
+              {
+                "holder": "债权人保护说（部分学者）",
+                "basis": "重整可能损害债权人利益，应强化债权人表决与信息披露"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "破产清算",
+            "difference": "清算终结法人资格，重整旨在挽救企业并恢复经营"
+          },
+          {
+            "with": "和解",
+            "difference": "和解是债务人与债权人会议达成协议，重整可涉及出资人权益调整与经营重组"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "破产就是逃债",
+            "correction": "破产是法定公平清偿程序，隐匿转移财产、虚假破产可能构成犯罪"
+          },
+          {
+            "claim": "破产只保护债务人",
+            "correction": "破产制度兼顾债权人公平受偿、债务人重生与职工权益保护"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-restructuring",
+      "title": "破产重整",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "商法·破产法",
+      "definition": "破产重整是对可能或已经发生破产原因但有挽救希望的企业，通过调整债务、经营与股权结构，使其恢复清偿能力的法律制度。",
+      "summary": "重整程序包括重整申请、管理人接管、债权人分组表决、重整计划批准与执行；法院可依法强制批准重整计划。",
+      "related": [
+        "com-bankruptcy",
+        "com-company-governance"
+      ],
+      "sources": [
+        "src-law-bankruptcy",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-securities",
+      "title": "证券法",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "商法·证券法",
+      "definition": "证券法规范证券发行与交易、信息披露、投资者保护、证券服务机构与监管等，核心是公开、公平、公正原则。",
+      "summary": "证券法确立注册制、信息披露、投资者适当性、内幕交易与操纵市场禁止等制度，并强化违法违规责任。",
+      "related": [
+        "com-disclosure",
+        "com-insider"
+      ],
+      "sources": [
+        "src-law-securities",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-disclosure",
+      "title": "信息披露制度",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "商法·证券法",
+      "definition": "信息披露制度要求发行人、上市公司依法真实、准确、完整、及时地披露影响证券价格和投资决策的重大信息。",
+      "summary": "信息披露是证券市场的基石，虚假陈述、重大遗漏与迟延披露可能引发行政责任、民事赔偿与刑事责任。",
+      "related": [
+        "com-securities",
+        "com-insider"
+      ],
+      "sources": [
+        "src-law-securities",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-insider",
+      "title": "内幕交易",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "商法·证券法",
+      "definition": "内幕交易是内幕信息知情人和非法获取内幕信息的人，在内幕信息公开前买卖相关证券，或者泄露该信息、建议他人买卖证券的行为。",
+      "summary": "内幕交易破坏市场公平，证券法禁止内幕交易并规定行政处罚；情节严重的可能构成内幕交易罪。",
+      "related": [
+        "com-securities",
+        "com-disclosure"
+      ],
+      "sources": [
+        "src-law-securities",
+        "src-wiki-criminal-law-cn",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-insurance",
+      "title": "保险法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "商法·保险法",
+      "definition": "保险法规范保险合同、保险公司、保险经营规则与保险监管，核心是最大诚信原则、保险利益原则与损失补偿原则。",
+      "summary": "保险合同包括财产保险与人身保险；保险人应依法履行说明义务，投保人应履行如实告知义务。",
+      "related": [
+        "civil-contract",
+        "com-securities"
+      ],
+      "sources": [
+        "src-npc",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "保险法最新修订与保险监管规定需按官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "labor-contract",
+      "title": "劳动合同",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "中国",
+      "era": "社会法·劳动法（2008年施行）",
+      "definition": "劳动合同是劳动者与用人单位确立劳动关系、明确双方权利和义务的协议。劳动合同法规定合同的订立、履行、变更、解除、终止及经济补偿等。",
+      "summary": "劳动合同法以保护劳动者合法权益为宗旨，规定书面合同、试用期限制、无固定期限合同、经济补偿与违法解除赔偿等制度。",
+      "related": [
+        "labor-working-hours",
+        "labor-wage",
+        "labor-dispute"
+      ],
+      "sources": [
+        "src-law-labor-contract",
+        "src-jd-labor",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "2023年以来各地最低工资、工时与劳动合同司法解释需按最新规定核对。",
+      "l2": {
+        "definition_source": "《中华人民共和国劳动合同法》（版本：2007年通过，2012年修正，2013年7月1日施行修正决定，核对日期：2026-11-24）。",
+        "elements": [
+          "用人单位",
+          "劳动者",
+          "劳动合同条款",
+          "合同期限",
+          "解除与终止"
+        ],
+        "conditions": [
+          "用人单位与劳动者建立劳动关系",
+          "订立书面劳动合同（自用工之日起一个月内）",
+          "合同内容不违反法律强制性规定"
+        ],
+        "effects": [
+          "双方按合同享有权利、履行义务",
+          "用人单位违法解除应支付赔偿金",
+          "劳动者依法享有社会保险与劳动保护"
+        ],
+        "exceptions": [
+          "非全日制用工可以订立口头协议",
+          "劳动者严重违反规章制度等情形下用人单位可依法解除"
+        ],
+        "cases": [
+          "case-guiding-23"
+        ],
+        "controversies": [
+          {
+            "issue": "无固定期限劳动合同是否妨碍用工灵活性",
+            "views": [
+              {
+                "holder": "立法说明",
+                "basis": "无固定期限合同不是“铁饭碗”，双方仍可依法解除"
+              },
+              {
+                "holder": "部分企业界观点",
+                "basis": "应增加用工灵活性，降低解除成本"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "劳务合同",
+            "difference": "劳动合同受劳动法调整，劳务合同受民法典合同编调整"
+          },
+          {
+            "with": "聘用合同",
+            "difference": "事业单位聘用合同适用人事管理特别规定，与劳动合同有交叉"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "试用期可以随意延长",
+            "correction": "试用期最长不得超过六个月，且同一用人单位与同一劳动者只能约定一次试用期"
+          },
+          {
+            "claim": "不签合同就没有劳动关系",
+            "correction": "事实劳动关系同样受劳动法保护，用人单位应承担未签书面合同的法律责任"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "labor-working-hours",
+      "title": "工时与休息休假",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "社会法·劳动法",
+      "definition": "工时制度规定劳动者每日、每周工作时间上限，中国实行劳动者每日工作不超过八小时、平均每周工作不超过四十四小时的工时制度。",
+      "summary": "用人单位安排加班须依法支付加班工资，并保障劳动者休息休假权利；特殊工时制度须经审批。",
+      "related": [
+        "labor-contract",
+        "labor-wage"
+      ],
+      "sources": [
+        "src-law-labor-contract",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "特殊工时审批与带薪年休假具体规定需按人社部文件核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "labor-wage",
+      "title": "工资制度",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "社会法·劳动法",
+      "definition": "工资制度规定工资分配原则、最低工资、工资支付、加班工资与欠薪保障等内容。工资应当以货币形式按月支付给劳动者本人。",
+      "summary": "用人单位不得克扣或无故拖欠工资；安排延长工作时间的，应依法支付不低于工资百分之一百五十的工资报酬。",
+      "related": [
+        "labor-contract",
+        "labor-working-hours"
+      ],
+      "sources": [
+        "src-law-labor-contract",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "labor-injury",
+      "title": "工伤保险",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "社会法·社会保险",
+      "definition": "工伤保险是劳动者因工作遭受事故伤害或患职业病，依法获得医疗救治、经济补偿与职业康复的社会保险制度。",
+      "summary": "用人单位应依法参加工伤保险；工伤认定由社会保险行政部门作出，劳动能力鉴定确定伤残等级，工伤保险基金支付相应待遇。",
+      "related": [
+        "labor-contract",
+        "social-insurance"
+      ],
+      "sources": [
+        "src-law-social-insurance",
+        "src-law-work-safety",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "labor-dispute",
+      "title": "劳动争议处理",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "社会法·劳动争议",
+      "definition": "劳动争议处理包括协商、调解、仲裁与诉讼。劳动争议仲裁是诉讼的前置程序，仲裁裁决对部分事项为终局裁决。",
+      "summary": "劳动争议处理坚持合法、公正、及时、着重调解原则，保护劳动者与用人单位双方合法权益。",
+      "related": [
+        "labor-contract",
+        "proc-arbitration"
+      ],
+      "sources": [
+        "src-law-labor-contract",
+        "src-jd-labor",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "social-insurance",
+      "title": "社会保险法",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "社会法·社会保险",
+      "definition": "社会保险法规范基本养老保险、基本医疗保险、工伤保险、失业保险与生育保险，建立覆盖全民的社会保障体系。",
+      "summary": "用人单位与劳动者依法缴纳社会保险费；社会保险基金实行专款专用，任何组织和个人不得侵占挪用。",
+      "related": [
+        "labor-injury",
+        "social-protection"
+      ],
+      "sources": [
+        "src-law-social-insurance",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "social-protection",
+      "title": "社会救助与社会保障",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "社会法·社会保障",
+      "definition": "社会救助是国家对因自然灾害、意外事故、疾病等原因陷入生活困难的家庭和个人给予物质帮助的制度，包括最低生活保障、特困人员供养、受灾人员救助等。",
+      "summary": "社会保障体系以社会保险为主体，社会救助、社会福利、社会优抚等共同构成多层次保障网络。",
+      "related": [
+        "social-insurance",
+        "labor-injury"
+      ],
+      "sources": [
+        "src-law-social-insurance",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "社会救助暂行办法与地方实施细则需按现行文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    }
+  ]
+}

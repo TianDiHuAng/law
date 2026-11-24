@@ -1,0 +1,554 @@
+{
+  "unit_id": "u05",
+  "title": "民事与行政程序",
+  "subtitle": "诉讼、证据、执行与仲裁的基础制度",
+  "order": 5,
+  "entries": [
+    {
+      "id": "proc-civil-principles",
+      "title": "民事诉讼基本原则",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民事诉讼法学·总论",
+      "definition": "民事诉讼基本原则是贯穿民事诉讼全过程的基本准则，包括平等原则、辩论原则、处分原则、诚实信用原则、检察监督原则等。",
+      "summary": "民事诉讼原则体现当事人意思自治与法院居中裁判的关系，是理解民事审判方式的基础。",
+      "related": [
+        "proc-civil-trial",
+        "proc-civil-party"
+      ],
+      "sources": [
+        "src-court-gongbao",
+        "src-jd-civil-procedure",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u05",
+      "unit_title": "民事与行政程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "proc-civil-jurisdiction",
+      "title": "民事管辖",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民事诉讼法学·管辖",
+      "definition": "民事管辖是人民法院之间受理第一审民事案件的分工与权限，包括级别管辖、地域管辖、移送管辖、指定管辖与管辖权异议。",
+      "summary": "合同纠纷由被告住所地或合同履行地法院管辖；侵权纠纷由侵权行为地或被告住所地法院管辖。协议管辖须符合法定条件。",
+      "related": [
+        "proc-civil-trial",
+        "proc-civil-party"
+      ],
+      "sources": [
+        "src-court-gongbao",
+        "src-jd-civil-procedure",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u05",
+      "unit_title": "民事与行政程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "proc-civil-party",
+      "title": "民事诉讼当事人",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民事诉讼法学·诉讼主体",
+      "definition": "民事诉讼当事人是因民事权利义务发生争议，以自己的名义参加诉讼并受法院裁判约束的人，包括原告、被告、共同诉讼人、第三人与诉讼代表人。",
+      "summary": "当事人制度解决诉讼主体资格与诉讼实施权问题；公益诉讼、代表人诉讼等特殊形式回应群体性纠纷。",
+      "related": [
+        "proc-civil-trial",
+        "proc-civil-principles"
+      ],
+      "sources": [
+        "src-court-gongbao",
+        "src-jd-civil-procedure",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u05",
+      "unit_title": "民事与行政程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "proc-civil-evidence",
+      "title": "民事证据",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "中国",
+      "era": "民事诉讼法学·证据",
+      "definition": "民事证据是能够证明民事案件事实的各种材料，包括当事人的陈述、书证、物证、视听资料、电子数据、证人证言、鉴定意见与勘验笔录。",
+      "summary": "民事诉讼实行“谁主张、谁举证”的一般规则，并对举证责任倒置、自认、证据交换与证明标准作出规定。",
+      "related": [
+        "proc-civil-trial",
+        "civil-tort",
+        "crim-evidence"
+      ],
+      "sources": [
+        "src-court-gongbao",
+        "src-jd-civil-procedure",
+        "src-jd-ip-evidence"
+      ],
+      "needs_verification": false,
+      "pending_notes": "电子数据、鉴定意见与举证时限的具体规则需按2023年民事诉讼法及司法解释核对。",
+      "l2": {
+        "definition_source": "《中华人民共和国民事诉讼法》第六十六条至第八十一条及最高人民法院民事诉讼法解释关于证据的规定（版本：2023年修正，核对日期：2026-11-24）。",
+        "elements": [
+          "证据种类法定",
+          "举证责任分配",
+          "证据交换与质证",
+          "证明标准"
+        ],
+        "conditions": [
+          "证据具有真实性、关联性与合法性",
+          "在举证期限内提交（法律另有规定除外）",
+          "经过庭审质证"
+        ],
+        "effects": [
+          "法院依据证据认定案件事实",
+          "举证不能的一方承担不利后果",
+          "伪造证据、妨害作证可能承担法律责任"
+        ],
+        "exceptions": [
+          "涉及国家秘密、商业秘密、个人隐私的证据不公开质证",
+          "当事人自认的事实一般无需举证"
+        ],
+        "cases": [
+          "case-3q"
+        ],
+        "controversies": [
+          {
+            "issue": "民事证明标准是否应区分一般事实与特殊事实",
+            "views": [
+              {
+                "holder": "高度盖然性通说",
+                "basis": "民事案件一般适用高度盖然性标准"
+              },
+              {
+                "holder": "分层标准说（部分学者）",
+                "basis": "对欺诈、胁迫等特殊事实应适用更高标准"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "刑事证据",
+            "difference": "民事证明标准为高度盖然性，刑事为排除合理怀疑"
+          },
+          {
+            "with": "证据能力",
+            "difference": "民事证据能力限制较少，主要关注真实性、关联性与合法性"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "谁起诉谁必须举证所有事实",
+            "correction": "存在举证责任倒置、自认与法院依职权调查等例外"
+          },
+          {
+            "claim": "微信聊天记录不能作为证据",
+            "correction": "电子数据属于法定证据种类，经查证属实可以作为认定事实的根据"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u05",
+      "unit_title": "民事与行政程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "proc-civil-trial",
+      "title": "民事审判程序",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "中国",
+      "era": "民事诉讼法学·审判程序",
+      "definition": "民事审判程序包括第一审普通程序、简易程序、第二审程序、审判监督程序与特别程序，是法院审理民事案件的基本流程。",
+      "summary": "民事审判围绕起诉与受理、庭前准备、法庭调查、法庭辩论、评议宣判等环节展开，强调当事人辩论与法院居中裁判。",
+      "related": [
+        "proc-civil-evidence",
+        "proc-civil-jurisdiction",
+        "proc-civil-retrial"
+      ],
+      "sources": [
+        "src-court-gongbao",
+        "src-jd-civil-procedure",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "2023年民事诉讼法修正后的程序细节需按现行文本核对。",
+      "l2": {
+        "definition_source": "《中华人民共和国民事诉讼法》第二编“审判程序”（版本：2023年修正，核对日期：2026-11-24）。",
+        "elements": [
+          "第一审普通程序",
+          "简易程序",
+          "第二审程序",
+          "审判监督程序",
+          "特别程序"
+        ],
+        "conditions": [
+          "原告与案件有直接利害关系",
+          "有明确的被告、具体的诉讼请求和事实理由",
+          "属于人民法院受理民事诉讼的范围与受诉法院管辖"
+        ],
+        "effects": [
+          "法院依法作出判决、裁定或调解书",
+          "生效裁判具有既判力与执行力",
+          "不服一审裁判可依法上诉"
+        ],
+        "exceptions": [
+          "小额诉讼程序适用法定标的额以下案件",
+          "特别程序适用于选民资格、宣告失踪死亡、认定财产无主等非讼案件"
+        ],
+        "cases": [
+          "case-3q"
+        ],
+        "controversies": [
+          {
+            "issue": "民事审判是否应加强职权主义",
+            "views": [
+              {
+                "holder": "当事人主义通说",
+                "basis": "民事诉讼应尊重处分权与辩论权，法院保持中立"
+              },
+              {
+                "holder": "协同主义（部分学者）",
+                "basis": "法院应积极释明与调查，促进实质公平"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "刑事审判",
+            "difference": "民事审判解决平等主体间民事争议，适用辩论原则与处分原则"
+          },
+          {
+            "with": "行政审判",
+            "difference": "民事审判审查民事权利义务，行政审判审查行政行为合法性"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "起诉后法院必须立即开庭",
+            "correction": "法院须先审查受理，并经过送达、举证、庭前准备等程序"
+          },
+          {
+            "claim": "调解书没有法律效力",
+            "correction": "调解书经双方当事人签收后即具有法律效力，可申请强制执行"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u05",
+      "unit_title": "民事与行政程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "proc-civil-enforcement",
+      "title": "民事执行",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民事诉讼法学·执行",
+      "definition": "民事执行是人民法院根据生效法律文书，运用国家强制力强制义务人履行义务，实现权利人权利的程序。",
+      "summary": "执行措施包括查询、冻结、划拨存款，查封、扣押、拍卖、变卖财产，限制高消费、纳入失信名单等；执行救济包括执行异议与执行异议之诉。",
+      "related": [
+        "proc-civil-trial",
+        "proc-arbitration"
+      ],
+      "sources": [
+        "src-court-gongbao",
+        "src-jd-civil-procedure",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u05",
+      "unit_title": "民事与行政程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "proc-civil-retrial",
+      "title": "审判监督程序",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民事诉讼法学·审判监督",
+      "definition": "审判监督程序是对已经发生法律效力的判决、裁定、调解书发现确有错误时，依法再次审理的程序，包括当事人申请再审、检察院抗诉与法院依职权再审。",
+      "summary": "再审程序是纠正生效裁判错误、维护司法公正的特别救济途径，申请再审须符合法定事由与期限。",
+      "related": [
+        "proc-civil-trial",
+        "proc-civil-enforcement"
+      ],
+      "sources": [
+        "src-court-gongbao",
+        "src-jd-civil-procedure",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u05",
+      "unit_title": "民事与行政程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "proc-arbitration",
+      "title": "仲裁制度",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "中国",
+      "era": "仲裁法学·仲裁基础",
+      "definition": "仲裁是当事人根据仲裁协议，将争议提交仲裁机构进行审理并作出裁决的争议解决方式。仲裁裁决具有终局性，可依法申请法院强制执行。",
+      "summary": "仲裁实行协议仲裁、一裁终局、独立公正原则；婚姻、收养、监护、扶养、继承纠纷及依法应由行政机关处理的行政争议不能仲裁。",
+      "related": [
+        "proc-civil-trial",
+        "proc-civil-enforcement",
+        "intl-investment"
+      ],
+      "sources": [
+        "src-law-arbitration",
+        "src-zgbk",
+        "src-wiki-civil-law"
+      ],
+      "needs_verification": true,
+      "pending_notes": "仲裁法修订动态与涉外仲裁规则需按官方最新文本核对。",
+      "l2": {
+        "definition_source": "《中华人民共和国仲裁法》第二条至第九条（版本：2017年修正，核对日期：2026-11-24）。",
+        "elements": [
+          "仲裁协议",
+          "仲裁机构",
+          "仲裁员",
+          "仲裁程序",
+          "仲裁裁决"
+        ],
+        "conditions": [
+          "当事人之间存在有效仲裁协议",
+          "争议属于仲裁范围",
+          "仲裁协议选定明确的仲裁机构"
+        ],
+        "effects": [
+          "仲裁裁决终局，对当事人具有约束力",
+          "一方不履行裁决，另一方可申请法院强制执行",
+          "法院可依法撤销或不予执行仲裁裁决"
+        ],
+        "exceptions": [
+          "婚姻、收养、监护、扶养、继承纠纷不能仲裁",
+          "依法应由行政机关处理的行政争议不能仲裁",
+          "仲裁协议无效的，法院可受理诉讼"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "仲裁与诉讼的关系",
+            "views": [
+              {
+                "holder": "仲裁自治说",
+                "basis": "有效仲裁协议排除法院管辖，体现当事人意思自治"
+              },
+              {
+                "holder": "司法监督说（部分学者）",
+                "basis": "法院应对仲裁进行必要监督，防止仲裁权滥用"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "民事诉讼",
+            "difference": "仲裁一裁终局、程序灵活；诉讼实行两审终审、公开审判"
+          },
+          {
+            "with": "调解",
+            "difference": "调解由第三方协助达成协议，仲裁由仲裁庭作出裁决"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "仲裁裁决不能强制执行",
+            "correction": "仲裁裁决可依法向法院申请强制执行"
+          },
+          {
+            "claim": "任何争议都可以仲裁",
+            "correction": "仲裁范围受法律限制，身份关系与行政争议不能仲裁"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u05",
+      "unit_title": "民事与行政程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "proc-admin-litigation",
+      "title": "行政诉讼受案范围",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "行政诉讼法学·受案范围",
+      "definition": "行政诉讼受案范围是人民法院受理行政案件的界限，原则上对行政行为不服可提起诉讼，但国防、外交等国家行为、抽象行政行为、内部行政行为等不属于受案范围。",
+      "summary": "受案范围随行政诉讼法修改不断扩大，规范性文件可附带审查，行政协议、行政赔偿等争议依法纳入。",
+      "related": [
+        "admin-litigation",
+        "proc-civil-principles",
+        "proc-civil-jurisdiction"
+      ],
+      "sources": [
+        "src-law-admin-litigation",
+        "src-jd-admin-evidence",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u05",
+      "unit_title": "民事与行政程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "proc-criminal-flow",
+      "title": "刑事诉讼流程概览",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "刑事诉讼法学·流程",
+      "definition": "刑事诉讼流程通常包括立案、侦查、审查起诉、审判与执行五个阶段，各阶段由公安机关、人民检察院、人民法院依法分工负责。",
+      "summary": "流程设计体现分工负责、互相配合、互相制约原则，并保障犯罪嫌疑人、被告人的辩护权与救济权。",
+      "related": [
+        "crim-investigation",
+        "crim-prosecution",
+        "crim-trial"
+      ],
+      "sources": [
+        "src-law-cpc",
+        "src-jd-cpc-interpretation",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u05",
+      "unit_title": "民事与行政程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    }
+  ]
+}

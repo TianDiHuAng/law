@@ -1,0 +1,1097 @@
+{
+  "unit_id": "u02",
+  "title": "宪法与行政法",
+  "subtitle": "国家权力结构、基本权利与行政法治",
+  "order": 2,
+  "entries": [
+    {
+      "id": "const-concept",
+      "title": "宪法的概念与最高法律效力",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "中国",
+      "era": "宪法学·宪法总论",
+      "definition": "宪法是国家的根本法，规定国家根本制度、公民基本权利与义务以及国家机构组织与职权，具有最高法律效力。",
+      "summary": "中国现行宪法为1982年宪法，经1988年、1993年、1999年、2004年、2018年五次修正。一切法律、行政法规和地方性法规不得同宪法相抵触。",
+      "related": [
+        "const-npc",
+        "const-rights",
+        "fa-rule-of-law"
+      ],
+      "sources": [
+        "src-law-constitution",
+        "src-wiki-constitution-cn",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "宪法五次修正的具体条文变动需按2018年修正文本逐条核对。",
+      "l2": {
+        "definition_source": "《中华人民共和国宪法》序言及第五条（版本：2018年修正，核对日期：2026-11-24）。",
+        "elements": [
+          "根本法地位",
+          "最高法律效力",
+          "公民基本权利与义务",
+          "国家机构组织与职权",
+          "宪法修改的特别程序"
+        ],
+        "conditions": [
+          "由全国人民代表大会依法定程序制定和修改",
+          "修改须由全国人大常委会或五分之一以上全国人大代表提议，并经全体代表三分之二以上多数通过"
+        ],
+        "effects": [
+          "一切法律、行政法规、地方性法规不得同宪法相抵触",
+          "任何组织和个人不得有超越宪法和法律的特权",
+          "宪法是立法、执法、司法与守法的根本依据"
+        ],
+        "exceptions": [
+          "宪法未直接规定具体案件裁判规则，通常通过部门法实施",
+          "宪法解释权属于全国人大常委会"
+        ],
+        "cases": [
+          "case-qiyuling"
+        ],
+        "controversies": [
+          {
+            "issue": "宪法能否作为法院裁判的直接依据",
+            "views": [
+              {
+                "holder": "肯定说（部分宪法学者）",
+                "basis": "宪法具有最高效力，基本权利应可通过司法途径获得保护"
+              },
+              {
+                "holder": "审慎说（部分实务人士）",
+                "basis": "中国宪法实施主要通过立法与监督机制，法院直接适用宪法须有法律依据"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "法律",
+            "difference": "宪法规定根本制度与原则，法律将宪法原则具体化；宪法效力高于法律"
+          },
+          {
+            "with": "宪章",
+            "difference": "宪章多指组织章程或国际文件，宪法是国家根本法"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "宪法只是政治宣言",
+            "correction": "宪法是最高法律渊源，具有规范国家权力与保障权利的法律效力"
+          },
+          {
+            "claim": "宪法修改与普通法律相同",
+            "correction": "宪法修改适用更严格的提议与表决程序"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": 1982,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "const-history",
+      "title": "中国宪法发展史",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "近现代（1908—2018年）",
+      "definition": "中国宪法发展经历清末《钦定宪法大纲》、民国时期多部宪法性文件、新中国1954年宪法及1982年宪法等阶段。",
+      "summary": "1954年宪法是新中国第一部社会主义类型宪法；1982年宪法是现行宪法，后续五次修正不断适应改革开放与治理现代化需要。",
+      "related": [
+        "const-concept",
+        "history-late-qing"
+      ],
+      "sources": [
+        "src-law-constitution",
+        "src-wiki-constitution-cn",
+        "src-outline-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "民国时期宪法文件的名称与年份较多，具体条文待逐一核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "const-npc",
+      "title": "人民代表大会制度",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "中国",
+      "era": "宪法学·国家机构（当代）",
+      "definition": "人民代表大会制度是中国的根本政治制度。全国人民代表大会是最高国家权力机关，地方各级人民代表大会是地方国家权力机关。",
+      "summary": "人民通过民主选举产生人大代表，代表人民行使国家权力；行政机关、监察机关、审判机关、检察机关由人大产生、对人大负责、受人大监督。",
+      "related": [
+        "const-concept",
+        "const-state-organs",
+        "const-review"
+      ],
+      "sources": [
+        "src-law-constitution",
+        "src-law-legislation",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "人大代表选举的具体程序与最新选举法规定需按现行文本核对。",
+      "l2": {
+        "definition_source": "《中华人民共和国宪法》第二条、第三条、第五十七条至第六十七条（版本：2018年修正，核对日期：2026-11-24）。",
+        "elements": [
+          "民主选举",
+          "人大代表",
+          "人民代表大会",
+          "对人民负责、受人民监督"
+        ],
+        "conditions": [
+          "年满十八周岁的公民依法享有选举权和被选举权（依法被剥夺政治权利者除外）",
+          "代表须依法选举产生"
+        ],
+        "effects": [
+          "全国人大行使国家立法权、决定权、任免权与监督权",
+          "地方人大在本行政区域内行使相应职权",
+          "其他国家机关由人大产生并对其负责"
+        ],
+        "exceptions": [
+          "国家主席、副主席由全国人大选举产生",
+          "特别行政区依照宪法和基本法实行不同制度"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "人大代表与选民的关系",
+            "views": [
+              {
+                "holder": "通说",
+                "basis": "代表由选民或选举单位选举产生，应反映人民意志并接受监督"
+              },
+              {
+                "holder": "部分研究",
+                "basis": "代表履职的专业性与选区利益表达之间需要制度平衡"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "议会制",
+            "difference": "中国人大制度坚持中国共产党领导与人民当家作主相统一，不实行三权分立"
+          },
+          {
+            "with": "政治协商会议",
+            "difference": "政协是爱国统一战线组织，不是国家权力机关"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "人大代表只是荣誉称号",
+            "correction": "人大代表依法行使提案、审议、表决、监督等职权，并承担履职义务"
+          },
+          {
+            "claim": "人大制度等于西方议会制",
+            "correction": "二者在选举、组织与权力配置上存在根本差异"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "const-rights",
+      "title": "公民基本权利",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "中国",
+      "era": "宪法学·基本权利",
+      "definition": "公民基本权利是宪法确认和保障的公民在政治、人身、经济、社会、文化等领域的基本权利，包括平等权、政治权利、人身自由、宗教信仰自由、社会经济权利等。",
+      "summary": "基本权利约束国家权力并构成立法、执法与司法的价值基础。权利行使须在法律范围内，不得损害国家、社会、集体利益和其他公民合法自由。",
+      "related": [
+        "const-concept",
+        "const-duties",
+        "theory-right-duty"
+      ],
+      "sources": [
+        "src-law-constitution",
+        "src-wiki-constitution-cn",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "各项基本权利对应的具体法律与救济程序需逐项核对。",
+      "l2": {
+        "definition_source": "《中华人民共和国宪法》第二章“公民的基本权利和义务”（版本：2018年修正，核对日期：2026-11-24）。",
+        "elements": [
+          "平等权",
+          "政治权利和自由",
+          "人身自由与人格尊严",
+          "宗教信仰自由",
+          "社会经济权利",
+          "文化教育权利",
+          "监督权与获得赔偿权"
+        ],
+        "conditions": [
+          "权利主体具有中国公民身份（部分权利亦及于境内外国人）",
+          "权利行使不得违反法律、不得损害公共利益与他人权利"
+        ],
+        "effects": [
+          "国家负有尊重、保护和实现基本权利的义务",
+          "法律、行政法规不得与宪法基本权利条款相抵触",
+          "权利受侵害时可依法寻求救济"
+        ],
+        "exceptions": [
+          "依法被剥夺政治权利者不享有选举权与被选举权",
+          "人身自由限制须有法律依据并遵守法定程序"
+        ],
+        "cases": [
+          "case-qiyuling"
+        ],
+        "controversies": [
+          {
+            "issue": "基本权利的第三人效力",
+            "views": [
+              {
+                "holder": "直接效力说（部分学者）",
+                "basis": "基本权利可直接约束私人间关系"
+              },
+              {
+                "holder": "间接效力说（通说）",
+                "basis": "基本权利主要通过立法与司法解释间接影响私人关系"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "民事权利",
+            "difference": "基本权利针对国家权力，民事权利调整平等主体间关系"
+          },
+          {
+            "with": "人权",
+            "difference": "人权是道德与政治概念，基本权利是宪法实证化的权利"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "基本权利没有限制",
+            "correction": "宪法规定权利行使不得损害国家、社会、集体利益和其他公民合法自由"
+          },
+          {
+            "claim": "基本权利只约束行政机关",
+            "correction": "基本权利约束全部国家权力，包括立法、行政、监察、审判与检察机关"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "const-duties",
+      "title": "公民基本义务",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "宪法学·基本义务",
+      "definition": "公民基本义务是宪法规定的公民必须履行的责任，包括维护国家统一和民族团结、遵守宪法法律、维护国家安全、依法服兵役、依法纳税等。",
+      "summary": "基本义务与基本权利共同构成公民宪法地位。义务的设定须有宪法依据，具体履行由法律细化。",
+      "related": [
+        "const-rights",
+        "theory-right-duty"
+      ],
+      "sources": [
+        "src-law-constitution",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "const-review",
+      "title": "合宪性审查",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "宪法学·宪法监督",
+      "definition": "合宪性审查是对法律、法规、规范性文件是否符合宪法进行审查监督的制度。中国由全国人大及其常委会行使宪法监督权，法制工作委员会承担具体工作。",
+      "summary": "合宪性审查是保证宪法实施的重要机制。2018年宪法修正案后，全国人大宪法和法律委员会承担合宪性审查相关职责。",
+      "related": [
+        "const-concept",
+        "const-npc",
+        "fa-rule-of-law"
+      ],
+      "sources": [
+        "src-law-constitution",
+        "src-law-legislation",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "合宪性审查的具体程序与案例公开情况待按官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "const-state-organs",
+      "title": "国家机构",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "宪法学·国家机构",
+      "definition": "国家机构是国家为实现统治与管理职能而设置的组织体系，包括全国人大及其常委会、国家主席、国务院、中央军委、监察委员会、法院、检察院等。",
+      "summary": "中国国家机构实行民主集中制原则，中央与地方国家机构职权的划分遵循在中央统一领导下充分发挥地方主动性、积极性的原则。",
+      "related": [
+        "const-npc",
+        "const-review",
+        "admin-principles"
+      ],
+      "sources": [
+        "src-law-constitution",
+        "src-law-supervision",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "const-autonomy",
+      "title": "民族区域自治制度",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "宪法学·国家结构",
+      "definition": "民族区域自治是在国家统一领导下，各少数民族聚居的地方实行区域自治，设立自治机关，行使自治权的制度。",
+      "summary": "自治区、自治州、自治县的人民代表大会和人民政府是自治机关，依法行使自治权，同时必须维护国家统一和宪法法律在本地方的遵守。",
+      "related": [
+        "const-state-organs",
+        "const-sar"
+      ],
+      "sources": [
+        "src-law-constitution",
+        "src-law-legislation",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "const-sar",
+      "title": "特别行政区制度",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "宪法学·国家结构",
+      "definition": "特别行政区是中华人民共和国不可分离的部分，依照宪法和特别行政区基本法实行高度自治，享有行政管理权、立法权、独立的司法权和终审权。",
+      "summary": "特别行政区不实行社会主义制度和政策，保持原有资本主义制度和生活方式五十年不变。中央人民政府负责管理与特区有关的外交事务和防务。",
+      "related": [
+        "const-autonomy",
+        "const-state-organs"
+      ],
+      "sources": [
+        "src-law-constitution",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "特别行政区基本法的具体条文与最新实施情况需按官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-principles",
+      "title": "行政法基本原则",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "中国",
+      "era": "行政法学·总论",
+      "definition": "行政法基本原则是贯穿行政立法、执法与救济全过程的基本准则，通常包括依法行政、职权法定、比例原则、正当程序、信赖保护与公开原则。",
+      "summary": "基本原则既约束行政行为，也指导行政审判。行政机关行使职权必须有法律依据，并遵守法定程序与合理限度。",
+      "related": [
+        "admin-act",
+        "admin-penalty",
+        "admin-litigation"
+      ],
+      "sources": [
+        "src-law-admin-penalty",
+        "src-law-admin-license",
+        "src-law-admin-litigation",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "比例原则的规范依据与典型案例需按最高人民法院行政审判指导案例核对。",
+      "l2": {
+        "definition_source": "《中华人民共和国行政处罚法》第四条、第五条、第六条及《行政许可法》相关原则条款（版本：2021年修订/2019年修正，核对日期：2026-11-24）。",
+        "elements": [
+          "依法行政",
+          "职权法定",
+          "比例原则",
+          "正当程序",
+          "信赖保护",
+          "公开透明"
+        ],
+        "conditions": [
+          "行政机关具有法定职权",
+          "行为符合法律目的",
+          "手段与目的相适应",
+          "遵守告知、听证、说明理由等程序"
+        ],
+        "effects": [
+          "违法或不当行政行为可被撤销、变更或确认违法",
+          "行政机关承担赔偿责任",
+          "相对人获得程序性权利保障"
+        ],
+        "exceptions": [
+          "紧急情况下可依法采取即时强制措施，但须事后补办程序",
+          "法律授权的裁量空间内可作合目的性选择"
+        ],
+        "cases": [
+          "case-yuhuan"
+        ],
+        "controversies": [
+          {
+            "issue": "比例原则是否应作为独立审查标准",
+            "views": [
+              {
+                "holder": "主流行政法学说",
+                "basis": "比例原则可有效控制裁量权，应作为合法性审查的补充"
+              },
+              {
+                "holder": "部分实务观点",
+                "basis": "法院应尊重行政机关的专业判断，比例审查应保持克制"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "民法基本原则",
+            "difference": "行政法原则约束公权力，民法原则调整平等主体关系"
+          },
+          {
+            "with": "行政合法性原则",
+            "difference": "合法性原则是基础，比例原则与信赖保护进一步约束裁量与变更"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "行政机关只要目的正当就可以不择手段",
+            "correction": "比例原则要求手段必要、适当且损害最小"
+          },
+          {
+            "claim": "程序违法不影响实体决定",
+            "correction": "严重违反法定程序可能导致行政行为被撤销"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-act",
+      "title": "行政行为",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政行为论",
+      "definition": "行政行为是行政机关及其工作人员行使行政职权、产生法律效果的行为，包括抽象行政行为与具体行政行为、授益行为与负担行为等。",
+      "summary": "行政行为是行政法学的核心概念，其成立、效力、撤销与变更规则构成行政救济的基础。",
+      "related": [
+        "admin-principles",
+        "admin-litigation"
+      ],
+      "sources": [
+        "src-law-admin-litigation",
+        "src-law-admin-penalty",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-license",
+      "title": "行政许可",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政许可",
+      "definition": "行政许可是行政机关根据公民、法人或其他组织的申请，经依法审查，准予其从事特定活动的行为。",
+      "summary": "行政许可应遵循公开、公平、公正、非歧视原则，许可事项须有法律、行政法规依据，并不得增设违反上位法的条件。",
+      "related": [
+        "admin-act",
+        "admin-penalty"
+      ],
+      "sources": [
+        "src-law-admin-license",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "许可事项清单与最新取消下放情况需按国务院决定核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-penalty",
+      "title": "行政处罚",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政处罚",
+      "definition": "行政处罚是行政机关依法对违反行政管理秩序的公民、法人或其他组织给予制裁的行政行为，种类包括警告、罚款、没收违法所得、暂扣或吊销许可证、行政拘留等。",
+      "summary": "行政处罚须遵循处罚法定、公正公开、过罚相当、处罚与教育相结合原则，并保障当事人的陈述、申辩与听证权利。",
+      "related": [
+        "admin-principles",
+        "admin-reconsideration",
+        "admin-litigation"
+      ],
+      "sources": [
+        "src-law-admin-penalty",
+        "src-law-admin-litigation",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "2021年修订后各处罚种类的具体适用条件与裁量基准需按部门规章核对。",
+      "l2": {
+        "definition_source": "《中华人民共和国行政处罚法》第二条、第九条至第四十五条（版本：2021年修订，核对日期：2026-11-24）。",
+        "elements": [
+          "违反行政管理秩序的行为",
+          "行政机关依法给予制裁",
+          "法定处罚种类",
+          "程序保障"
+        ],
+        "conditions": [
+          "处罚主体具有法定职权",
+          "违法行为事实清楚、证据确凿",
+          "适用法律正确",
+          "遵守立案、调查、告知、决定、送达等程序"
+        ],
+        "effects": [
+          "被处罚人须履行处罚决定",
+          "逾期不履行可依法强制执行",
+          "处罚决定可能被复议或诉讼撤销"
+        ],
+        "exceptions": [
+          "违法行为轻微并及时改正，没有造成危害后果的，不予行政处罚",
+          "初次违法且危害后果轻微并及时改正的，可以不予行政处罚",
+          "不满十四周岁的未成年人违法不予处罚"
+        ],
+        "cases": [
+          "case-xuting"
+        ],
+        "controversies": [
+          {
+            "issue": "行政处罚与刑事处罚的衔接",
+            "views": [
+              {
+                "holder": "实务通说",
+                "basis": "同一行为可能同时构成行政违法与犯罪，应依法移送并避免重复处罚"
+              },
+              {
+                "holder": "部分学者",
+                "basis": "应建立统一的制裁体系，防止以罚代刑或以刑代罚"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "行政强制",
+            "difference": "处罚是制裁，强制是迫使履行义务或维护秩序"
+          },
+          {
+            "with": "刑罚",
+            "difference": "处罚由行政机关作出，刑罚由法院依法判处"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "罚款可以随意设定",
+            "correction": "处罚种类与幅度须有法律、法规、规章依据，并遵守处罚法定原则"
+          },
+          {
+            "claim": "被处罚人只能交钱了事",
+            "correction": "当事人依法享有陈述、申辩、听证、复议与诉讼权利"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-coercion",
+      "title": "行政强制",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政强制",
+      "definition": "行政强制包括行政强制措施与行政强制执行。前者是行政机关在行政管理过程中为制止违法行为、防止证据损毁等依法对人身、财产实施的暂时性控制；后者是行政机关或法院强制当事人履行义务。",
+      "summary": "行政强制须有法律依据，遵循法定程序与比例原则，不得滥用。",
+      "related": [
+        "admin-act",
+        "admin-penalty"
+      ],
+      "sources": [
+        "src-law-admin-penalty",
+        "src-law-admin-litigation",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "行政强制法条文与最新修订情况需按官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-reconsideration",
+      "title": "行政复议",
+      "type": "concept",
+      "importance": "核心",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政救济",
+      "definition": "行政复议是公民、法人或其他组织认为行政机关的行政行为侵犯其合法权益，依法向行政复议机关提出申请，由复议机关依法审查并作出决定的活动。",
+      "summary": "2023年修订的行政复议法扩大了复议范围、强化了复议机关纠错职责，并确立行政复议作为化解行政争议主渠道的定位。",
+      "related": [
+        "admin-penalty",
+        "admin-litigation",
+        "admin-compensation"
+      ],
+      "sources": [
+        "src-law-admin-reconsideration",
+        "src-law-admin-litigation",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "2023年修订后的复议范围与前置情形需按官方文本逐条核对。",
+      "l2": {
+        "definition_source": "《中华人民共和国行政复议法》关于复议范围、申请与受理、审理与决定的规定（版本：2023年修订，核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "申请人",
+          "被申请人",
+          "复议机关",
+          "复议范围",
+          "复议程序"
+        ],
+        "conditions": [
+          "申请人认为行政行为侵犯其合法权益",
+          "属于行政复议范围",
+          "在法定期限内提出",
+          "向有管辖权的复议机关申请"
+        ],
+        "effects": [
+          "复议机关作出维持、撤销、变更、确认违法或责令履行等决定",
+          "复议决定具有法律约束力",
+          "不服复议决定可依法提起行政诉讼"
+        ],
+        "exceptions": [
+          "行政机关内部的人事处理、民事调解等不属于复议范围",
+          "法律规定复议终局的情形除外"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "行政复议与行政诉讼的关系",
+            "views": [
+              {
+                "holder": "复议主渠道说（2023年修法取向）",
+                "basis": "行政复议程序便捷、专业，应优先化解行政争议"
+              },
+              {
+                "holder": "司法中心说（部分学者）",
+                "basis": "行政诉讼的独立性与程序保障更充分，应保留当事人选择权"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "行政诉讼",
+            "difference": "复议由行政机关审查，诉讼由法院审查；复议不收费，程序相对简便"
+          },
+          {
+            "with": "信访",
+            "difference": "信访是民意表达与诉求反映渠道，不产生法定复议决定"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "复议机关只会维持原行为",
+            "correction": "2023年修法强化了复议纠错职责，复议机关可撤销、变更或确认违法"
+          },
+          {
+            "claim": "必须先复议才能起诉",
+            "correction": "除法律规定复议前置的情形外，当事人可依法选择复议或诉讼"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-litigation",
+      "title": "行政诉讼",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政救济",
+      "definition": "行政诉讼是公民、法人或其他组织认为行政行为侵犯其合法权益，向人民法院提起诉讼，由法院依法审理并作出裁判的活动。",
+      "summary": "行政诉讼审查行政行为合法性，原则上不审查合理性；法院可判决撤销、变更、确认违法、责令履行或赔偿。",
+      "related": [
+        "admin-reconsideration",
+        "admin-compensation"
+      ],
+      "sources": [
+        "src-law-admin-litigation",
+        "src-jd-admin-evidence",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-compensation",
+      "title": "国家赔偿",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "行政法学·国家赔偿",
+      "definition": "国家赔偿是国家机关及其工作人员违法行使职权侵犯公民、法人或其他组织合法权益造成损害时，由国家承担赔偿责任的法律制度。",
+      "summary": "国家赔偿包括行政赔偿与刑事赔偿，实行法定赔偿原则；赔偿义务机关赔偿后可依法向有故意或重大过失的工作人员追偿。",
+      "related": [
+        "admin-litigation",
+        "admin-reconsideration"
+      ],
+      "sources": [
+        "src-spp-portal",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "国家赔偿法的最新修正与赔偿标准需按官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-legislation",
+      "title": "立法法",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "立法学·立法制度",
+      "definition": "立法法是规范法律、行政法规、地方性法规、自治条例和单行条例、规章的制定、修改、废止与解释的基本法律。",
+      "summary": "立法法确立立法权限划分、法律保留、备案审查与法律适用规则，是维护法制统一的基础性法律。",
+      "related": [
+        "const-review",
+        "fa-sources",
+        "admin-principles"
+      ],
+      "sources": [
+        "src-law-legislation",
+        "src-law-constitution",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-supervision",
+      "title": "监察法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "宪法学·国家监察",
+      "definition": "监察法是规范国家监察机关组织与职权、监察范围与程序、反腐败工作的基本法律。监察委员会依法对公职人员行使监察权。",
+      "summary": "监察法实现党内监督与国家监察有机统一，监察对象覆盖所有行使公权力的公职人员。",
+      "related": [
+        "const-state-organs",
+        "admin-principles"
+      ],
+      "sources": [
+        "src-law-supervision",
+        "src-law-constitution",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "2024年修正后的监察程序与留置措施条款需按官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-civil-servant",
+      "title": "公务员制度",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·人事行政",
+      "definition": "公务员制度是规范公务员录用、考核、奖惩、任免、培训、辞职辞退与权利保障的制度，以公务员法为基础。",
+      "summary": "公务员须忠于宪法、依法履职、接受监督；公务员对涉及本人的人事处理不服可依法申请复核或申诉。",
+      "related": [
+        "admin-principles",
+        "const-state-organs"
+      ],
+      "sources": [
+        "src-law-constitution",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "公务员法最新修订与配套规定需按官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    }
+  ]
+}
