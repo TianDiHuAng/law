@@ -2000,6 +2000,24 @@
         "L3": 81
       },
       "notes": "R115 维护模式（饱和中）：腾讯诉奇虎360案、乔丹商标案升级 L3（L3 达 81 条）；缺口复检无新缺口，维持饱和。"
+    },
+    {
+      "round": 116,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 1,
+      "pending_total": 184,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 379,
+      "levels": {
+        "L1": 0,
+        "L2": 296,
+        "L3": 83
+      },
+      "notes": "R116 维护模式（饱和中）：指导案例23号、玛博案升级 L3（L3 达 83 条）；修复 1 处中英混排文案；缺口复检无新缺口，维持饱和。"
     }
   ]
 }
