@@ -1941,6 +1941,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-judicial-assistance",
+      "title": "国际刑事司法协助",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·国际刑事司法合作",
+      "definition": "国际刑事司法协助是国家之间在刑事犯罪侦查、起诉、审判和执行中相互提供协助的制度，包括引渡、送达文书、调查取证、查封扣押冻结、移送被判刑人等。",
+      "summary": "国际刑事司法协助以双边条约、多边公约或互惠原则为基础，遵循双重犯罪、政治犯不引渡等原则。",
+      "related": [
+        "intl-international-criminal",
+        "intl-icc",
+        "crim-investigation"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "中国缔结的刑事司法协助条约与引渡条约清单需按外交部官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

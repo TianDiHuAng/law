@@ -203,6 +203,19 @@
       "new_entries": 0,
       "upgrades": 3,
       "remaining_backlog": 8
+    },
+    {
+      "round": 21,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U03合同解释、U07个人信息评估/生物多样性、U08刑事司法协助补强",
+        "权威大纲再对照：发现合同解释、PIA、生物多样性、刑事司法协助缺口",
+        "深度缺口：紧急避险、追诉时效、刑诉原则、侦查程序仍为L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

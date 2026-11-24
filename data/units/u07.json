@@ -2147,6 +2147,79 @@
       "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-pia",
+      "title": "个人信息保护影响评估",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "数据法·个人信息保护",
+      "definition": "个人信息保护影响评估是个人信息处理者在处理敏感个人信息、利用个人信息进行自动化决策、委托处理、向他人提供、公开个人信息或向境外提供个人信息等情形下，对处理活动对个人权益的影响进行事前评估的制度。",
+      "summary": "影响评估应针对处理目的、处理方式、个人信息种类、对个人权益的影响及安全风险等作出评估，并保存评估报告至少三年。",
+      "related": [
+        "data-personal",
+        "data-sensitive-personal",
+        "data-cross-border"
+      ],
+      "sources": [
+        "src-law-personal-info-2",
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "个人信息保护影响评估的具体模板与监管要求需按国家网信部门规定核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "env-biodiversity",
+      "title": "生物多样性保护",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "环境法·生物多样性",
+      "definition": "生物多样性保护是保护生态系统、物种和遗传资源多样性，维护生态平衡与生态安全的制度。",
+      "summary": "中国通过自然保护区、国家公园、生物安全、外来物种入侵防控与遗传资源保护等制度履行《生物多样性公约》义务。",
+      "related": [
+        "env-law",
+        "env-ecological",
+        "env-wetland"
+      ],
+      "sources": [
+        "src-law-environment",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "生物多样性保护法立法进展与配套名录需按官方最新文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
