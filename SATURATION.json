@@ -1675,6 +1675,20 @@
       "saturated": true,
       "no_gap_streak": 52,
       "note": "维持饱和（第52轮无新缺口）"
+    },
+    {
+      "round": 129,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：碳排放权交易、平台经济治理升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 53,
+      "note": "维持饱和（第53轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1692,8 +1706,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 272,
-      "L3": 107
+      "L2": 270,
+      "L3": 109
     },
     "sources": 144,
     "verified": 122
