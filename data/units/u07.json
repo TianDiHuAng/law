@@ -2956,6 +2956,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-broker",
+      "title": "数据经纪人",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·数据流通",
+      "definition": "数据经纪人是在数据供需双方之间提供撮合、加工、合规评估与交易服务的中介主体，是数据要素市场的重要参与者。",
+      "summary": "数据经纪活动须遵守个人信息保护与数据安全规定，不得非法获取、出售或提供个人信息；具体资质与监管要求以国家数据主管部门规定为准。",
+      "related": [
+        "data-data-governance",
+        "data-public-data-open",
+        "data-security"
+      ],
+      "sources": [
+        "src-law-data-security",
+        "src-law-personal-info-2",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "数据经纪相关管理办法尚未形成统一官方文本，具体规则需持续跟踪。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

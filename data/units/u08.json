@@ -2456,6 +2456,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-aviation-law",
+      "title": "国际航空法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·国际航空",
+      "definition": "国际航空法是规范航空器运行、航空运输、航空安全与航空器权利的国际法规则，核心渊源包括《芝加哥公约》《华沙公约》《蒙特利尔公约》。",
+      "summary": "国际航空法确立领空主权、航空器国籍与登记、航空运输承运人责任与航空安全保卫等制度。",
+      "related": [
+        "intl-sources",
+        "intl-treaty",
+        "intl-commercial-arbitration"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "国际民航组织公约体系与中国批准情况需按 ICAO 与外交部官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

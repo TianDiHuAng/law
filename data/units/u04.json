@@ -2175,6 +2175,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "crim-case-property",
+      "title": "刑事诉讼涉案财物处置",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "刑事诉讼法学·涉案财物",
+      "definition": "刑事诉讼涉案财物处置是对查封、扣押、冻结的财物依法保管、返还、没收、拍卖或上缴国库的程序制度。",
+      "summary": "涉案财物应与案件无关的及时返还；经查明确实与案件无关的，应在法定期限内解除措施并退还；违法所得依法追缴或没收。",
+      "related": [
+        "crim-investigation",
+        "crim-coercive",
+        "crim-trial"
+      ],
+      "sources": [
+        "src-law-cpc",
+        "src-law-criminal",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "涉案财物处置的具体期限与程序需按刑事诉讼法及两高解释核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u04",
+      "unit_title": "刑法与刑事程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

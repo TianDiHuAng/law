@@ -424,6 +424,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 38,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U03抵销、U04涉案财物、U07数据经纪人、U08航空法补强",
+        "权威大纲再对照：发现抵销、涉案财物、数据经纪人、国际航空法缺口",
+        "深度缺口：物业服务、共有、合同解释、债的消灭仍为 L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

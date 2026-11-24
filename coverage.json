@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 311,
+  "total": 315,
   "levels": {
     "L1": 140,
-    "L2": 168,
+    "L2": 172,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -88,37 +88,37 @@
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 53,
-          "合计": 53
+          "概念制度": 54,
+          "合计": 54
         }
       },
       "by_type": {
-        "概念制度": 53
+        "概念制度": 54
       },
       "cross": {
         "中国": {
-          "概念制度": 53
+          "概念制度": 54
         }
       },
-      "total": 53
+      "total": 54
     },
     "u04": {
       "title": "刑法与刑事程序",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 25,
-          "合计": 25
+          "概念制度": 26,
+          "合计": 26
         }
       },
       "by_type": {
-        "概念制度": 25
+        "概念制度": 26
       },
       "cross": {
         "中国": {
-          "概念制度": 25
+          "概念制度": 26
         }
       },
-      "total": 25
+      "total": 26
     },
     "u05": {
       "title": "民事与行政程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 53,
-          "合计": 53
+          "概念制度": 54,
+          "合计": 54
         }
       },
       "by_type": {
-        "概念制度": 53
+        "概念制度": 54
       },
       "cross": {
         "中国": {
-          "概念制度": 53
+          "概念制度": 54
         }
       },
-      "total": 53
+      "total": 54
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 34,
-          "合计": 34
+          "概念制度": 35,
+          "合计": 35
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 44
+        "概念制度": 45
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 34
+          "概念制度": 35
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 44
+      "total": 45
     },
     "u09": {
       "title": "经典案例",
@@ -1577,7 +1577,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1703,7 +1703,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1717,7 +1717,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1801,7 +1801,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1854,6 +1854,20 @@
     {
       "id": "civil-standard-terms",
       "title": "格式条款",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-offset",
+      "title": "抵销",
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
@@ -2213,6 +2227,20 @@
       "verified_source_count": 2,
       "unverified_count": 0,
       "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "crim-case-property",
+      "title": "刑事诉讼涉案财物处置",
+      "unit": "u04",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "涉案财物处置的具体期限与程序需按刑事诉讼法及两高解释核对。",
       "last_updated": "2026-11-24"
     },
     {
@@ -3490,6 +3518,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "data-broker",
+      "title": "数据经纪人",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "数据经纪相关管理办法尚未形成统一官方文本，具体规则需持续跟踪。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -4103,6 +4145,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "日内瓦公约及附加议定书的具体实施条款需按红十字国际委员会资料核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-aviation-law",
+      "title": "国际航空法",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "国际民航组织公约体系与中国批准情况需按 ICAO 与外交部官方资料核对。",
       "last_updated": "2026-11-24"
     },
     {
