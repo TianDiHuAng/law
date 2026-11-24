@@ -785,6 +785,18 @@
       "upgrades": 2,
       "remaining_backlog": 2,
       "saturated": false
+    },
+    {
+      "round": 66,
+      "date": "2026-11-24",
+      "methods": [
+        "补充级价值评估：U08 国际法高价值条目优先",
+        "批量升级：8 条升至 L2"
+      ],
+      "gaps_found": 8,
+      "new_entries": 0,
+      "upgrades": 8,
+      "remaining_backlog": 8
     }
   ]
 }
