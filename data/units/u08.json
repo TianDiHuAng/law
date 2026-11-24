@@ -731,7 +731,66 @@
       ],
       "needs_verification": true,
       "pending_notes": "国家豁免公约的生效状态与各国实践需按联合国资料核对。",
-      "l2": null,
+      "l2": {
+        "definition_source": "《联合国宪章》第二条及国际法院相关判例（核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "主权平等",
+          "领土完整",
+          "政治独立",
+          "不干涉内政",
+          "国家豁免"
+        ],
+        "conditions": [
+          "国家作为国际法主体",
+          "行使主权不得侵犯他国主权",
+          "豁免规则依习惯法或条约确定"
+        ],
+        "effects": [
+          "国家享有主权权利与豁免",
+          "违反主权原则可能引发国家责任",
+          "国家可放弃豁免"
+        ],
+        "exceptions": [
+          "限制豁免：商业活动等私法行为可能不享有豁免",
+          "安理会依《联合国宪章》第七章采取的措施"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "绝对豁免与限制豁免",
+            "views": [
+              {
+                "holder": "绝对豁免说（传统）",
+                "basis": "国家一切行为均享有豁免"
+              },
+              {
+                "holder": "限制豁免说（现代趋势）",
+                "basis": "商业活动等私法行为不应享有豁免"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "主权",
+            "difference": "主权是国家的固有权力，豁免是程序上的管辖豁免"
+          },
+          {
+            "with": "外交豁免",
+            "difference": "外交豁免适用于外交人员，国家豁免适用于国家本身"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "国家主权意味着可以不受国际法约束",
+            "correction": "主权平等与遵守国际法是国际秩序的两面"
+          },
+          {
+            "claim": "国家在任何情况下都享有绝对豁免",
+            "correction": "现代国际法趋向限制豁免，商业活动可能被起诉"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -743,7 +802,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1122,6 +1181,43 @@
       ],
       "needs_verification": true,
       "pending_notes": "《联合国海洋法公约》争端解决条款与中国相关声明需按联合国及外交部官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-wto-dispute",
+      "title": "WTO争端解决",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "国际",
+      "era": "国际经济法·WTO",
+      "definition": "WTO争端解决是世界贸易组织成员之间因适用WTO协定产生的争议，通过磋商、专家组、上诉机构（或其替代安排）与执行监督等程序解决的制度。",
+      "summary": "WTO争端解决以规则为基础，强调磋商优先、专家组审理与DSB通过报告；上诉机构停摆后，部分成员建立临时上诉仲裁安排。",
+      "related": [
+        "intl-wto",
+        "intl-treaty",
+        "intl-investment"
+      ],
+      "sources": [
+        "src-wto",
+        "src-un-charter",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "WTO争端解决机制改革与上诉机构现状需按WTO官方最新文件核对。",
       "l2": null,
       "l3": null,
       "case": null,

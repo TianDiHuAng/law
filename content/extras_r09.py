@@ -1,0 +1,55 @@
+# -*- coding: utf-8 -*-
+"""R09 新增条目。"""
+from common import E
+
+EXTRAS_R09 = {
+    "u02": [
+        E("admin-hearing", "行政听证", "concept", "重要", "中国", "行政法学·行政程序",
+          "行政听证是行政机关在作出影响公民、法人或者其他组织重大权益的决定前，依法听取当事人意见的程序。",
+          "听证制度体现正当程序原则，适用于行政处罚、行政许可、政府定价等法定情形；当事人有权陈述、申辩和质证。",
+          ["src-law-admin-penalty", "src-law-admin-license", "src-zgbk"],
+          related=["admin-penalty", "admin-license", "admin-principles"]),
+    ],
+    "u07": [
+        E("env-eia", "环境影响评价", "concept", "重要", "中国", "环境法·预防制度",
+          "环境影响评价是对规划和建设项目实施后可能造成的环境影响进行分析、预测和评估，提出预防或者减轻不良环境影响的对策和措施，并进行跟踪监测的方法与制度。",
+          "环境影响评价是环境保护预防原则的核心制度，分为规划环评与建设项目环评；依法应编制环境影响报告书、报告表或登记表。",
+          ["src-law-environment", "src-zgbk"], related=["env-law", "env-pollution", "env-ecological"],
+          pending="环境影响评价法及分类管理名录需按生态环境部现行文本核对。", needs_verification=True),
+        E("data-generative-ai", "生成式人工智能服务", "concept", "重要", "中国", "数据法·人工智能治理",
+          "生成式人工智能服务是利用生成式人工智能技术向境内公众提供生成文本、图片、音频、视频等内容的服务。",
+          "生成式人工智能服务涉及训练数据、个人信息保护、内容安全、算法备案与标识等义务，具体监管规则以国家网信部门现行规定为准。",
+          ["src-law-personal-info-2", "src-law-data-security", "src-zgbk"],
+          related=["data-personal", "data-security", "data-algorithm"],
+          pending="生成式人工智能服务管理暂行办法及配套规定需按国家网信办官方文本核对。", needs_verification=True),
+    ],
+    "u08": [
+        E("intl-wto-dispute", "WTO争端解决", "concept", "重要", "国际", "国际经济法·WTO",
+          "WTO争端解决是世界贸易组织成员之间因适用WTO协定产生的争议，通过磋商、专家组、上诉机构（或其替代安排）与执行监督等程序解决的制度。",
+          "WTO争端解决以规则为基础，强调磋商优先、专家组审理与DSB通过报告；上诉机构停摆后，部分成员建立临时上诉仲裁安排。",
+          ["src-wto", "src-un-charter", "src-zgbk"], related=["intl-wto", "intl-treaty", "intl-investment"],
+          pending="WTO争端解决机制改革与上诉机构现状需按WTO官方最新文件核对。", needs_verification=True),
+    ],
+    "u10": [
+        E("law-administrative-penalty", "《中华人民共和国行政处罚法》导读", "law", "重要", "中国", "2021年修订，2021年7月15日施行",
+          "行政处罚法规定行政处罚的种类、设定、实施机关、管辖与适用、程序与法律责任。",
+          "2021年修订的行政处罚法完善处罚种类、增加通报批评、降低简易程序门槛、强化执法公示与全过程记录，并规定首违不罚等制度。",
+          ["src-law-admin-penalty", "src-zgbk"], related=["admin-penalty", "admin-principles", "admin-litigation"],
+          law=dict(status="现行有效", version="2021年修订", effective_date="2021-07-15", checked_date="2026-11-24",
+                   background="行政处罚法1996年制定，2021年修订适应行政执法改革与法治政府建设需要，强化处罚法定与程序保障。",
+                   structure=[dict(name="第一章 总则", content="立法目的、处罚法定、公正公开、处罚与教育相结合"),
+                              dict(name="第二章 行政处罚的种类和设定", content="处罚种类、法律保留与设定权限"),
+                              dict(name="第三章 行政处罚的实施机关", content="实施主体与相对集中行政处罚权"),
+                              dict(name="第四章 行政处罚的管辖和适用", content="管辖、裁量、从轻减轻、不予处罚"),
+                              dict(name="第五章 行政处罚的决定", content="一般程序、简易程序、听证程序"),
+                              dict(name="第六章 行政处罚的执行", content="罚款决定与收缴分离、强制执行"),
+                              dict(name="第七章 法律责任", content="违法处罚的法律责任"),
+                              dict(name="第八章 附则", content="施行日期")],
+                   key_articles=[dict(article="第二条", content="行政处罚是指行政机关依法对违反行政管理秩序的公民、法人或者其他组织，以减损权益或者增加义务的方式予以惩戒的行为。"),
+                                 dict(article="第五条", content="行政处罚遵循公正、公开的原则。设定和实施行政处罚必须以事实为依据，与违法行为的事实、性质、情节以及社会危害程度相当。"),
+                                 dict(article="第九条", content="行政处罚的种类包括警告、通报批评；罚款、没收违法所得、没收非法财物；暂扣许可证件、降低资质等级、吊销许可证件；限制开展生产经营活动、责令停产停业、责令关闭、限制从业；行政拘留；法律、行政法规规定的其他行政处罚。")],
+                   amendments=["1996年制定", "2009年、2017年修正", "2021年修订：处罚种类、程序与执法监督"],
+                   interpretations=["行政处罚法配套规章与裁量基准，具体以官方现行文本为准。"]),
+          pending="2021年修订后条文与配套规章需按官方文本核对。", needs_verification=False),
+    ],
+}

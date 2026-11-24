@@ -922,7 +922,65 @@
       ],
       "needs_verification": true,
       "pending_notes": "行政强制法条文与最新修订情况需按官方文本核对。",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国行政强制法》关于行政强制措施与行政强制执行的规定（版本：2011年通过，核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "行政强制措施",
+          "行政强制执行",
+          "法定机关",
+          "法定程序"
+        ],
+        "conditions": [
+          "行政机关具有法定职权",
+          "为制止违法行为、防止证据损毁、避免危害发生等法定目的",
+          "措施必要且适当"
+        ],
+        "effects": [
+          "暂时性控制人身或财产",
+          "强制当事人履行义务",
+          "违法强制造成损害的可申请国家赔偿"
+        ],
+        "exceptions": [
+          "紧急情况下可依法采取即时强制，事后补办手续",
+          "法律规定的其他特别程序"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "行政强制措施与行政强制执行的区分",
+            "views": [
+              {
+                "holder": "通说",
+                "basis": "强制措施是暂时性控制，强制执行是实现已确定义务"
+              },
+              {
+                "holder": "部分学者",
+                "basis": "二者在实务中可能交叉，应依具体目的与效果判断"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "行政处罚",
+            "difference": "处罚是制裁，强制是迫使履行义务或维护秩序"
+          },
+          {
+            "with": "刑事强制措施",
+            "difference": "行政强制适用于行政管理，刑事强制适用于刑事诉讼"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "行政机关可以随意查封扣押",
+            "correction": "行政强制必须有法律依据并遵守法定程序与比例原则"
+          },
+          {
+            "claim": "行政强制执行只能由行政机关实施",
+            "correction": "法律规定行政机关可实施，也可申请人民法院强制执行"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -934,7 +992,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1367,6 +1425,43 @@
         "src-reg-government-info",
         "src-zgbk",
         "src-gov-cn"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-hearing",
+      "title": "行政听证",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政程序",
+      "definition": "行政听证是行政机关在作出影响公民、法人或者其他组织重大权益的决定前，依法听取当事人意见的程序。",
+      "summary": "听证制度体现正当程序原则，适用于行政处罚、行政许可、政府定价等法定情形；当事人有权陈述、申辩和质证。",
+      "related": [
+        "admin-penalty",
+        "admin-license",
+        "admin-principles"
+      ],
+      "sources": [
+        "src-law-admin-penalty",
+        "src-law-admin-license",
+        "src-zgbk"
       ],
       "needs_verification": false,
       "pending_notes": "",

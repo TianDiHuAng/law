@@ -44,6 +44,20 @@
       "new_entries": 5,
       "upgrades": 5,
       "remaining_backlog": 10
+    },
+    {
+      "round": 9,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U07/U08 稀疏，补环境、AI、WTO 条目",
+        "权威大纲再对照：对照环境法、数据法、国际经济法分类，发现环评、生成式AI、WTO争端缺口",
+        "读者问题清单：行政处罚听证、环评流程无法直接回答",
+        "深度缺口：行政强制、保险法、主权豁免等 5 个重要条目仍为 L1"
+      ],
+      "gaps_found": 11,
+      "new_entries": 5,
+      "upgrades": 5,
+      "remaining_backlog": 10
     }
   ]
 }

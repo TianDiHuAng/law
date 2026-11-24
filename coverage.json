@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 216,
+  "total": 221,
   "levels": {
     "L1": 155,
-    "L2": 58,
+    "L2": 63,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -70,19 +70,19 @@
       "title": "宪法与行政法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 23,
-          "合计": 23
+          "概念制度": 24,
+          "合计": 24
         }
       },
       "by_type": {
-        "概念制度": 23
+        "概念制度": 24
       },
       "cross": {
         "中国": {
-          "概念制度": 23
+          "概念制度": 24
         }
       },
-      "total": 23
+      "total": 24
     },
     "u03": {
       "title": "民法",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 18,
-          "合计": 18
+          "概念制度": 20,
+          "合计": 20
         }
       },
       "by_type": {
-        "概念制度": 18
+        "概念制度": 20
       },
       "cross": {
         "中国": {
-          "概念制度": 18
+          "概念制度": 20
         }
       },
-      "total": 18
+      "total": 20
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 11,
-          "合计": 11
+          "概念制度": 12,
+          "合计": 12
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 21
+        "概念制度": 22
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 11
+          "概念制度": 12
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 21
+      "total": 22
     },
     "u09": {
       "title": "经典案例",
@@ -291,19 +291,19 @@
       "title": "法律文本导读",
       "by_jurisdiction": {
         "中国": {
-          "文本导读": 12,
-          "合计": 12
+          "文本导读": 13,
+          "合计": 13
         }
       },
       "by_type": {
-        "文本导读": 12
+        "文本导读": 13
       },
       "cross": {
         "中国": {
-          "文本导读": 12
+          "文本导读": 13
         }
       },
-      "total": 12
+      "total": 13
     },
     "u11": {
       "title": "程序流程",
@@ -793,7 +793,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -916,6 +916,20 @@
     {
       "id": "admin-government-info",
       "title": "政府信息公开",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "admin-hearing",
+      "title": "行政听证",
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
@@ -2109,7 +2123,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2333,7 +2347,7 @@
       "unit": "u07",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2375,7 +2389,7 @@
       "unit": "u07",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2521,6 +2535,34 @@
       "verified_source_count": 3,
       "unverified_count": 0,
       "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "env-eia",
+      "title": "环境影响评价",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "环境影响评价法及分类管理名录需按生态环境部现行文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "data-generative-ai",
+      "title": "生成式人工智能服务",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "生成式人工智能服务管理暂行办法及配套规定需按国家网信办官方文本核对。",
       "last_updated": "2026-11-24"
     },
     {
@@ -2683,7 +2725,7 @@
       "unit": "u08",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2815,6 +2857,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "《联合国海洋法公约》争端解决条款与中国相关声明需按联合国及外交部官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-wto-dispute",
+      "title": "WTO争端解决",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "WTO争端解决机制改革与上诉机构现状需按WTO官方最新文件核对。",
       "last_updated": "2026-11-24"
     },
     {
@@ -3263,6 +3319,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "外商投资准入负面清单最新版本需按国家发展改革委、商务部官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "law-administrative-penalty",
+      "title": "《中华人民共和国行政处罚法》导读",
+      "unit": "u10",
+      "type": "文本导读",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "2021年修订后条文与配套规章需按官方文本核对。",
       "last_updated": "2026-11-24"
     },
     {

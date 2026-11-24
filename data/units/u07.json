@@ -412,7 +412,66 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国反不正当竞争法》第二条至第十二条（版本：2019年修正，核对日期：2026-11-24）。",
+        "elements": [
+          "经营者",
+          "违反公平诚信原则",
+          "扰乱市场竞争秩序",
+          "损害其他经营者或消费者权益"
+        ],
+        "conditions": [
+          "行为发生在市场竞争中",
+          "具有不正当性",
+          "造成或可能造成损害"
+        ],
+        "effects": [
+          "停止侵害",
+          "赔偿损失",
+          "行政处罚",
+          "情节严重的惩罚性赔偿"
+        ],
+        "exceptions": [
+          "正当的商业评论与比较广告",
+          "行业惯例且不损害公平竞争"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "互联网平台“二选一”等行为的规制",
+            "views": [
+              {
+                "holder": "反不正当竞争法规制说",
+                "basis": "利用优势地位限定交易可构成不正当竞争"
+              },
+              {
+                "holder": "反垄断法规制说",
+                "basis": "具有市场支配地位时优先适用反垄断法"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "反垄断法",
+            "difference": "反不正当竞争法维护公平竞争，反垄断法维护竞争结构与市场支配地位秩序"
+          },
+          {
+            "with": "知识产权法",
+            "difference": "知识产权法保护法定权利，反不正当竞争法提供补充保护"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "只要模仿就不正当",
+            "correction": "模仿自由是原则，只有造成混淆、攀附商誉等才可能构成不正当竞争"
+          },
+          {
+            "claim": "反不正当竞争法只保护经营者",
+            "correction": "消费者权益与社会公共利益也在保护范围内"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -424,7 +483,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -582,7 +641,66 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国民法典》第一千二百二十九条至第一千二百三十三条（版本：2020年通过，核对日期：2026-11-24）。",
+        "elements": [
+          "污染环境、破坏生态的行为",
+          "损害后果",
+          "因果关系",
+          "无过错责任"
+        ],
+        "conditions": [
+          "污染者实施了污染环境或破坏生态的行为",
+          "造成他人损害",
+          "行为与损害之间存在因果关系"
+        ],
+        "effects": [
+          "污染者承担侵权责任",
+          "举证责任倒置：污染者就不承担责任或减轻责任及不存在因果关系承担举证责任",
+          "可适用惩罚性赔偿"
+        ],
+        "exceptions": [
+          "不可抗力并及时采取合理措施",
+          "受害人故意",
+          "第三人过错"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "生态环境损害赔偿与环境公益诉讼的关系",
+            "views": [
+              {
+                "holder": "并行说",
+                "basis": "生态环境损害赔偿诉讼与环境公益诉讼可并行，依法衔接"
+              },
+              {
+                "holder": "补充说（部分学者）",
+                "basis": "应避免重复救济，明确顺位与协调机制"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "环境行政责任",
+            "difference": "环境污染侵权是民事赔偿，行政责任是行政处罚与责令改正"
+          },
+          {
+            "with": "一般侵权责任",
+            "difference": "环境污染侵权实行无过错责任与举证责任倒置"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "只要排放达标就不承担侵权责任",
+            "correction": "达标排放仍可能造成损害并承担民事责任"
+          },
+          {
+            "claim": "环境污染诉讼必须由受害人举证因果关系",
+            "correction": "污染者需就因果关系不存在承担举证责任"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -594,7 +712,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1019,6 +1137,79 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "env-eia",
+      "title": "环境影响评价",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "环境法·预防制度",
+      "definition": "环境影响评价是对规划和建设项目实施后可能造成的环境影响进行分析、预测和评估，提出预防或者减轻不良环境影响的对策和措施，并进行跟踪监测的方法与制度。",
+      "summary": "环境影响评价是环境保护预防原则的核心制度，分为规划环评与建设项目环评；依法应编制环境影响报告书、报告表或登记表。",
+      "related": [
+        "env-law",
+        "env-pollution",
+        "env-ecological"
+      ],
+      "sources": [
+        "src-law-environment",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "环境影响评价法及分类管理名录需按生态环境部现行文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-generative-ai",
+      "title": "生成式人工智能服务",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "数据法·人工智能治理",
+      "definition": "生成式人工智能服务是利用生成式人工智能技术向境内公众提供生成文本、图片、音频、视频等内容的服务。",
+      "summary": "生成式人工智能服务涉及训练数据、个人信息保护、内容安全、算法备案与标识等义务，具体监管规则以国家网信部门现行规定为准。",
+      "related": [
+        "data-personal",
+        "data-security",
+        "data-algorithm"
+      ],
+      "sources": [
+        "src-law-personal-info-2",
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "生成式人工智能服务管理暂行办法及配套规定需按国家网信办官方文本核对。",
       "l2": null,
       "l3": null,
       "case": null,
