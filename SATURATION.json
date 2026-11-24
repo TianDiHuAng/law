@@ -437,6 +437,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 39,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02正当程序、U03定金、U07认证、U08能源法补强",
+        "权威大纲再对照：发现正当程序原则、定金、认证、国际能源法缺口",
+        "深度缺口：政府采购、应急、法院组织、复议前置仍为 L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

@@ -2493,6 +2493,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-energy-law",
+      "title": "国际能源法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际经济法·能源",
+      "definition": "国际能源法是规范跨国能源投资、能源贸易、能源过境运输与能源安全合作的国际法规则，渊源包括能源宪章条约、WTO 规则与双边投资协定。",
+      "summary": "国际能源法涉及能源投资保护、能源过境自由、争端解决与气候变化背景下的能源转型要求。",
+      "related": [
+        "intl-investment",
+        "intl-wto",
+        "intl-environmental-law"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-wto",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "能源宪章条约现代化进程与中国参与情况需按官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

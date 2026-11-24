@@ -2993,6 +2993,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-pi-certification",
+      "title": "个人信息保护认证",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·个人信息保护",
+      "definition": "个人信息保护认证是由专业机构依照国家标准对个人信息处理者的处理活动进行评价并出具认证证明的制度。",
+      "summary": "认证可用于证明处理者合规水平，也是个人信息出境的合法路径之一；认证机构与认证规则须依法取得资质并符合国家标准。",
+      "related": [
+        "data-personal",
+        "data-cross-border",
+        "data-pi-audit"
+      ],
+      "sources": [
+        "src-law-personal-info-2",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "个人信息保护认证的具体实施规则需按国家市场监管总局、网信办官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 315,
+  "total": 319,
   "levels": {
     "L1": 140,
-    "L2": 172,
+    "L2": 176,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -70,37 +70,37 @@
       "title": "宪法与行政法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 37,
-          "合计": 37
+          "概念制度": 38,
+          "合计": 38
         }
       },
       "by_type": {
-        "概念制度": 37
+        "概念制度": 38
       },
       "cross": {
         "中国": {
-          "概念制度": 37
+          "概念制度": 38
         }
       },
-      "total": 37
+      "total": 38
     },
     "u03": {
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 54,
-          "合计": 54
+          "概念制度": 55,
+          "合计": 55
         }
       },
       "by_type": {
-        "概念制度": 54
+        "概念制度": 55
       },
       "cross": {
         "中国": {
-          "概念制度": 54
+          "概念制度": 55
         }
       },
-      "total": 54
+      "total": 55
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 54,
-          "合计": 54
+          "概念制度": 55,
+          "合计": 55
         }
       },
       "by_type": {
-        "概念制度": 54
+        "概念制度": 55
       },
       "cross": {
         "中国": {
-          "概念制度": 54
+          "概念制度": 55
         }
       },
-      "total": 54
+      "total": 55
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 35,
-          "合计": 35
+          "概念制度": 36,
+          "合计": 36
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 45
+        "概念制度": 46
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 35
+          "概念制度": 36
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 45
+      "total": 46
     },
     "u09": {
       "title": "经典案例",
@@ -961,7 +961,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -989,7 +989,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1017,7 +1017,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -1045,7 +1045,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -1121,6 +1121,20 @@
       "verified_source_count": 2,
       "unverified_count": 1,
       "pending_notes": "国家赔偿法关于赔偿标准的具体条文与年度调整数据需按官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "admin-due-process",
+      "title": "行政程序的正当原则",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "正当程序原则在制定法中的具体表述散见于多部法律，未形成统一程序法典。",
       "last_updated": "2026-11-24"
     },
     {
@@ -1868,6 +1882,20 @@
     {
       "id": "civil-offset",
       "title": "抵销",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-deposit",
+      "title": "定金",
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
@@ -3532,6 +3560,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "data-pi-certification",
+      "title": "个人信息保护认证",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "个人信息保护认证的具体实施规则需按国家市场监管总局、网信办官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -4159,6 +4201,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "国际民航组织公约体系与中国批准情况需按 ICAO 与外交部官方资料核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-energy-law",
+      "title": "国际能源法",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "能源宪章条约现代化进程与中国参与情况需按官方资料核对。",
       "last_updated": "2026-11-24"
     },
     {
