@@ -3408,6 +3408,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-investigation",
+      "title": "行政调查",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政程序",
+      "definition": "行政调查是行政机关为查明事实、收集证据，依法向有关单位和个人了解情况、调取材料的活动，是作出行政决定的前置环节。",
+      "summary": "行政调查应遵守法定权限与程序，不得以调查为名实施强制措施；当事人有配合义务，也有权要求调查人员出示证件与说明依据。",
+      "related": [
+        "admin-penalty",
+        "admin-due-process",
+        "admin-litigation"
+      ],
+      "sources": [
+        "src-law-admin-penalty",
+        "src-law-admin-license",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "行政调查的统一程序规则分散于各部门法，缺乏统一行政程序法。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

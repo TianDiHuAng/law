@@ -541,6 +541,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 47,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02行政调查、U03保证期间、U07安全评估申报、U08协定滥用补强",
+        "权威大纲再对照：发现行政调查、保证期间、评估申报、协定滥用缺口",
+        "深度缺口：删除权、泄露通知、重要数据仍为 L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 3,
+      "remaining_backlog": 8
     }
   ]
 }

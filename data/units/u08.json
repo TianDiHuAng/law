@@ -3304,6 +3304,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-treaty-abuse",
+      "title": "税收协定滥用与防止",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际经济法·国际税法",
+      "definition": "税收协定滥用是纳税人通过人为安排套用协定优惠待遇以减轻税负的行为，主要防止工具包括受益所有人规则、主要目的测试与穿透适用。",
+      "summary": "BEPS 多边公约引入主要目的测试等反滥用规则，各国亦通过国内法一般反避税规则与协定条款应对。",
+      "related": [
+        "intl-tax-cooperation",
+        "intl-treaty",
+        "intl-financial-law"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "BEPS 多边公约在中国的适用与主要目的测试实践需按国家税务总局官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

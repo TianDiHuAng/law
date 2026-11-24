@@ -4814,6 +4814,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-guarantee-period",
+      "title": "保证期间",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·保证合同",
+      "definition": "保证期间是债权人应当向保证人主张保证责任的期间，属于除斥期间性质，不发生中止、中断与延长。",
+      "summary": "保证期间没有约定或约定不明确的为主债务履行期限届满之日起六个月；一般保证中债权人须在保证期间内对债务人提起诉讼或仲裁，连带保证中须向保证人请求。",
+      "related": [
+        "civil-guarantee",
+        "civil-guarantee-modes",
+        "civil-limitation"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

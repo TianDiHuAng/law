@@ -49,7 +49,7 @@
 | theory-natural-positive | 自然法与实证法 | 概念制度 | 补充 | A、C | 西方 |
 | theory-legal-norm | 法律规范 | 概念制度 | 补充 | A、C | 中国 |
 
-### U02 宪法与行政法（43 条）
+### U02 宪法与行政法（44 条）
 
 国家权力结构、基本权利与行政法治
 
@@ -98,8 +98,9 @@
 | admin-high-power-act | 行政协议中的高权行为 | 概念制度 | 补充 | A、C | 中国 |
 | admin-license-renewal | 行政许可的有效期与延续 | 概念制度 | 补充 | A、C | 中国 |
 | admin-duty-to-give-reasons | 行政决定中的说明理由 | 概念制度 | 补充 | A、C | 中国 |
+| admin-investigation | 行政调查 | 概念制度 | 补充 | A、C | 中国 |
 
-### U03 民法（60 条）
+### U03 民法（61 条）
 
 民法典体系与民事权利义务
 
@@ -165,6 +166,7 @@
 | civil-performance-appropriation | 清偿抵充 | 概念制度 | 补充 | A、C | 中国 |
 | civil-intention-interpretation | 意思表示的解释 | 概念制度 | 重要 | A、C | 中国 |
 | civil-debt-joinder | 债务加入 | 概念制度 | 重要 | A、C | 中国 |
+| civil-guarantee-period | 保证期间 | 概念制度 | 重要 | A、C | 中国 |
 
 ### U04 刑法与刑事程序（26 条）
 
@@ -251,7 +253,7 @@
 | com-investor-protection | 投资者保护 | 概念制度 | 重要 | A、C | 中国 |
 | com-securities-representative | 证券代表人诉讼 | 概念制度 | 重要 | A、C | 中国 |
 
-### U07 知识产权、环境与数据法（60 条）
+### U07 知识产权、环境与数据法（61 条）
 
 创新保护、生态治理与数字规则
 
@@ -317,8 +319,9 @@
 | data-factor-market | 数据要素市场 | 概念制度 | 补充 | A、C | 中国 |
 | data-data-space | 数据空间 | 概念制度 | 补充 | A、C | 中国 |
 | data-security-standards | 数据安全国家标准体系 | 概念制度 | 补充 | A、C | 中国 |
+| data-export-assessment | 数据出境安全评估申报 | 概念制度 | 补充 | A、C | 中国 |
 
-### U08 比较法与国际法（51 条）
+### U08 比较法与国际法（52 条）
 
 普通法、大陆法、欧盟法与国际规则
 
@@ -375,6 +378,7 @@
 | intl-award-setting-aside | 国际仲裁裁决的撤销与不予执行 | 概念制度 | 补充 | A、C | 国际 |
 | intl-climate-litigation | 国际气候变化诉讼 | 概念制度 | 补充 | A、C | 国际 |
 | intl-river-navigation | 国际河流的航行权 | 概念制度 | 补充 | A、C | 国际 |
+| intl-treaty-abuse | 税收协定滥用与防止 | 概念制度 | 补充 | A、C | 国际 |
 
 ### U09 经典案例（20 条）
 
@@ -446,6 +450,6 @@
 
 ## 五、覆盖统计
 
-- 总条目：339
-- L1：136；L2：200；L3：3
+- 总条目：343
+- L1：137；L2：203；L3：3
 - 核心条目全部达到 L2 及以上的单元：10/11
