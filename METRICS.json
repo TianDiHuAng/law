@@ -2419,6 +2419,24 @@
         "L3": 127
       },
       "notes": "R138 维护模式（饱和中）：特别行政区制度、行政确认升级 L3（L3 达 127 条）；缺口复检无新缺口，维持饱和。"
+    },
+    {
+      "round": 139,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 184,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 379,
+      "levels": {
+        "L1": 0,
+        "L2": 250,
+        "L3": 129
+      },
+      "notes": "R139 维护模式（饱和中）：公民基本义务、政府采购升级 L3（L3 达 129 条）；缺口复检无新缺口，维持饱和。"
     }
   ]
 }
