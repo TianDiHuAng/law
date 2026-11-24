@@ -2567,6 +2567,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-development-finance",
+      "title": "国际发展融资",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际经济法·发展融资",
+      "definition": "国际发展融资是通过多边开发银行、双边援助与开发性金融机构为发展中国家提供资金与技术支持的国际合作机制。",
+      "summary": "国际发展融资涉及贷款条件、主权担保、环境与社会保障标准以及债务可持续性等问题，规则以各开发机构章程与政策为准。",
+      "related": [
+        "intl-development-law",
+        "intl-financial-law",
+        "intl-investment"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-icsid",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "世界银行与亚投行等机构的具体融资政策需按各机构官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

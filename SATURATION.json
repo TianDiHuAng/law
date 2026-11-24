@@ -476,6 +476,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 42,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02行政调解、U03混同、U07数据资产、U08发展融资补强",
+        "权威大纲再对照：发现行政调解、混同、数据资产入表、发展融资缺口",
+        "深度缺口：缓刑、网络犯罪、地理标志、关基保护仍为 L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

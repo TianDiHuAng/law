@@ -4670,6 +4670,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-confusion",
+      "title": "混同",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "民法·债的消灭",
+      "definition": "混同是债权与债务同归于一人，致使债的关系消灭的事实；混同多见于企业合并、继承等情形。",
+      "summary": "混同导致债权债务终止，但债权为他人权利标的时，债的关系不消灭，以保护第三人利益。",
+      "related": [
+        "civil-obligation-extinction",
+        "civil-offset",
+        "com-company"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
