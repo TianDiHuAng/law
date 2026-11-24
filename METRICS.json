@@ -2364,6 +2364,24 @@
         "L3": 121
       },
       "notes": "R135 维护模式（饱和中）：立法法、行政听证升级 L3（L3 达 121 条）；缺口复检无新缺口，维持饱和。"
+    },
+    {
+      "round": 136,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 184,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 379,
+      "levels": {
+        "L1": 0,
+        "L2": 256,
+        "L3": 123
+      },
+      "notes": "R136 维护模式（饱和中）：监察法、政府信息公开升级 L3（L3 达 123 条）；缺口复检无新缺口，维持饱和。"
     }
   ]
 }
