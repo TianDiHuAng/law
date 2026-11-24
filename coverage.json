@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 226,
+  "total": 230,
   "levels": {
     "L1": 152,
-    "L2": 71,
+    "L2": 75,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -88,19 +88,19 @@
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 36,
-          "合计": 36
+          "概念制度": 37,
+          "合计": 37
         }
       },
       "by_type": {
-        "概念制度": 36
+        "概念制度": 37
       },
       "cross": {
         "中国": {
-          "概念制度": 36
+          "概念制度": 37
         }
       },
-      "total": 36
+      "total": 37
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 21,
-          "合计": 21
+          "概念制度": 23,
+          "合计": 23
         }
       },
       "by_type": {
-        "概念制度": 21
+        "概念制度": 23
       },
       "cross": {
         "中国": {
-          "概念制度": 21
+          "概念制度": 23
         }
       },
-      "total": 21
+      "total": 23
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 13,
-          "合计": 13
+          "概念制度": 14,
+          "合计": 14
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 23
+        "概念制度": 24
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 13
+          "概念制度": 14
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 23
+      "total": 24
     },
     "u09": {
       "title": "经典案例",
@@ -1460,6 +1460,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "civil-adoption",
+      "title": "收养制度",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "crim-legality",
       "title": "罪刑法定原则",
       "unit": "u04",
@@ -2109,7 +2123,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2487,7 +2501,7 @@
       "unit": "u07",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2501,7 +2515,7 @@
       "unit": "u07",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2605,6 +2619,34 @@
       "verified_source_count": 2,
       "unverified_count": 1,
       "pending_notes": "重要数据目录与行业分级规则需按国家网信部门及行业主管部门官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "data-automated-decision",
+      "title": "自动化决策",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "自动化决策相关配套规定与算法备案要求需按国家网信部门官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "env-soil-pollution",
+      "title": "土壤污染防治",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "土壤污染防治法及配套标准需按生态环境部现行文本核对。",
       "last_updated": "2026-11-24"
     },
     {
@@ -2795,7 +2837,7 @@
       "unit": "u08",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2927,6 +2969,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "各人权公约的批准、保留与任择议定书状态需按联合国条约集核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-diplomatic-law",
+      "title": "外交关系法",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "《维也纳外交关系公约》具体条文与各国实践需按联合国条约集核对。",
       "last_updated": "2026-11-24"
     },
     {

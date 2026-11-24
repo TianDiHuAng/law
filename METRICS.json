@@ -108,6 +108,24 @@
         "L3": 3
       },
       "notes": "R11：新增数据分类分级、国际人权公约体系、遗赠扶养协议、环境保护法导读、行政裁决；升级公司设立、代理、民事执行、国际人权法、知识产权保护与救济至 L2。"
+    },
+    {
+      "round": 12,
+      "date": "2026-11-24",
+      "new_entries": 4,
+      "upgrades": 4,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 75,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 230,
+      "levels": {
+        "L1": 152,
+        "L2": 75,
+        "L3": 3
+      },
+      "notes": "R12：新增自动化决策、土壤污染防治、外交关系法、收养制度；升级数据出境规则、算法治理、证券法、WTO规则至 L2。"
     }
   ]
 }

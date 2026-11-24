@@ -85,6 +85,20 @@
       "new_entries": 5,
       "upgrades": 5,
       "remaining_backlog": 8
+    },
+    {
+      "round": 12,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U07 数据法、U08 国际法继续扩展",
+        "权威大纲再对照：发现自动化决策、土壤污染防治、外交关系法、收养制度缺口",
+        "读者问题清单：数据出境、算法治理、证券法、WTO规则仍停留在L1",
+        "深度缺口：4个重要条目升级L2"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

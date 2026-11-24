@@ -921,7 +921,68 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《建立世界贸易组织协定》及其附件（GATT、GATS、TRIPS、争端解决谅解）（核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "最惠国待遇",
+          "国民待遇",
+          "关税减让",
+          "透明度",
+          "争端解决"
+        ],
+        "conditions": [
+          "属于WTO协定调整范围",
+          "成员方采取的措施影响贸易",
+          "不适用一般例外或安全例外"
+        ],
+        "effects": [
+          "成员方承担市场开放与非歧视义务",
+          "违反义务可能被诉诸争端解决",
+          "败诉方须纠正措施或补偿"
+        ],
+        "exceptions": [
+          "一般例外（公共道德、健康、环境等）",
+          "安全例外",
+          "区域贸易协定例外",
+          "发展中国家特殊与差别待遇"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "WTO规则与国家政策空间",
+            "views": [
+              {
+                "holder": "规则导向说",
+                "basis": "WTO规则约束成员方政策，保障贸易可预测性"
+              },
+              {
+                "holder": "政策空间说（部分学者）",
+                "basis": "应保留成员方在公共健康、环境与产业政策上的空间"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "国际投资法",
+            "difference": "WTO规范贸易，投资法保护投资"
+          },
+          {
+            "with": "区域贸易协定",
+            "difference": "WTO是多边框架，区域协定在其基础上深化自由化"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "WTO可以直接处罚成员方",
+            "correction": "WTO争端解决通过授权报复等方式执行，不能直接处罚"
+          },
+          {
+            "claim": "WTO规则优先于国内法",
+            "correction": "WTO义务在国内的适用方式由各成员宪法与法律规定"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -933,7 +994,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1313,6 +1374,43 @@
       ],
       "needs_verification": true,
       "pending_notes": "各人权公约的批准、保留与任择议定书状态需按联合国条约集核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-diplomatic-law",
+      "title": "外交关系法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·外交与领事关系",
+      "definition": "外交关系法是规范国家之间外交关系、外交代表机关与外交人员地位和特权豁免的国际法分支，核心渊源为1961年《维也纳外交关系公约》。",
+      "summary": "外交关系法确立使馆馆舍不可侵犯、外交人员人身不可侵犯与外交豁免等规则；领事关系另有1963年《维也纳领事关系公约》规范。",
+      "related": [
+        "intl-sources",
+        "intl-sovereignty",
+        "intl-organization-law"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "《维也纳外交关系公约》具体条文与各国实践需按联合国条约集核对。",
       "l2": null,
       "l3": null,
       "case": null,

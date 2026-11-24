@@ -2232,6 +2232,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-adoption",
+      "title": "收养制度",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·婚姻家庭",
+      "definition": "收养是自然人依法领养他人子女为自己子女，使收养人与被收养人之间形成拟制血亲关系的法律行为。",
+      "summary": "收养须符合收养人与被收养人条件并依法办理登记；收养关系成立后，养父母与养子女间的权利义务适用父母子女关系的规定。",
+      "related": [
+        "civil-marriage",
+        "civil-inheritance",
+        "civil-person"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-jd-civil-marriage",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
