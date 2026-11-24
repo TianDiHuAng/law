@@ -697,6 +697,18 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 59,
+      "date": "2026-11-24",
+      "methods": [
+        "深度缺口扫描：U03 债法重要级 L1 集中",
+        "批量升级：8 条债法条目一次性升至 L2"
+      ],
+      "gaps_found": 8,
+      "new_entries": 0,
+      "upgrades": 8,
+      "remaining_backlog": 6
     }
   ]
 }
