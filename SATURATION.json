@@ -281,6 +281,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 27,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U03行为效力、U07臭氧/公共数据、U08国际发展法补强",
+        "权威大纲再对照：发现行为效力形态、臭氧层、公共数据开放、国际发展法缺口",
+        "深度缺口：基本义务、特区制度、行政诉讼、基层自治仍为L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

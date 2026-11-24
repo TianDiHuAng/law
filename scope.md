@@ -84,7 +84,7 @@
 | admin-administrative-confirmation | 行政确认 | 概念制度 | 补充 | A、C | 中国 |
 | admin-public-health-emergency | 突发公共卫生事件应急 | 概念制度 | 重要 | A、C | 中国 |
 
-### U03 民法（44 条）
+### U03 民法（45 条）
 
 民法典体系与民事权利义务
 
@@ -134,6 +134,7 @@
 | civil-contract-interpretation | 合同解释 | 概念制度 | 重要 | A、C | 中国 |
 | civil-co-ownership | 共有 | 概念制度 | 重要 | A、C | 中国 |
 | civil-marital-debt | 夫妻共同债务 | 概念制度 | 重要 | A、C | 中国 |
+| civil-act-effect | 民事法律行为的效力形态 | 概念制度 | 重要 | A、C | 中国 |
 
 ### U04 刑法与刑事程序（25 条）
 
@@ -218,7 +219,7 @@
 | com-bankruptcy-avoidance | 破产撤销权 | 概念制度 | 重要 | A、C | 中国 |
 | com-investor-protection | 投资者保护 | 概念制度 | 重要 | A、C | 中国 |
 
-### U07 知识产权、环境与数据法（44 条）
+### U07 知识产权、环境与数据法（46 条）
 
 创新保护、生态治理与数字规则
 
@@ -268,8 +269,10 @@
 | data-algorithm-recommendation | 算法推荐治理 | 概念制度 | 补充 | A、C | 中国 |
 | env-climate-adaptation | 气候适应 | 概念制度 | 补充 | A、C | 中国 |
 | data-data-governance | 数据治理 | 概念制度 | 补充 | A、C | 中国 |
+| env-ozone | 臭氧层保护 | 概念制度 | 补充 | A、C | 中国 |
+| data-public-data-open | 公共数据开放 | 概念制度 | 补充 | A、C | 中国 |
 
-### U08 比较法与国际法（35 条）
+### U08 比较法与国际法（36 条）
 
 普通法、大陆法、欧盟法与国际规则
 
@@ -310,6 +313,7 @@
 | intl-state-responsibility | 国家责任 | 概念制度 | 补充 | A、C | 国际 |
 | intl-sanctions | 国际制裁 | 概念制度 | 补充 | A、C | 国际 |
 | intl-international-watercourses | 国际水道法 | 概念制度 | 补充 | A、C | 国际 |
+| intl-development-law | 国际发展法 | 概念制度 | 补充 | A、C | 国际 |
 
 ### U09 经典案例（20 条）
 
@@ -381,6 +385,6 @@
 
 ## 五、覆盖统计
 
-- 总条目：274
-- L1：143；L2：128；L3：3
+- 总条目：278
+- L1：143；L2：132；L3：3
 - 核心条目全部达到 L2 及以上的单元：10/11

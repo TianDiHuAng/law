@@ -26,6 +26,7 @@ from extras_r22 import EXTRAS_R22  # noqa: E402
 from extras_r23 import EXTRAS_R23  # noqa: E402
 from extras_r24 import EXTRAS_R24  # noqa: E402
 from extras_r26 import EXTRAS_R26  # noqa: E402
+from extras_r27 import EXTRAS_R27  # noqa: E402
 from upgrades import UPGRADES  # noqa: E402
 from upgrades_r07 import UPGRADES_R07  # noqa: E402
 from upgrades_r08 import UPGRADES_R08  # noqa: E402
@@ -47,6 +48,7 @@ from upgrades_r23 import UPGRADES_R23  # noqa: E402
 from upgrades_r24 import UPGRADES_R24  # noqa: E402
 from upgrades_r25 import UPGRADES_R25  # noqa: E402
 from upgrades_r26 import UPGRADES_R26  # noqa: E402
+from upgrades_r27 import UPGRADES_R27  # noqa: E402
 
 TODAY = "2026-11-24"
 OUTLINE_A = "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）"
@@ -93,6 +95,7 @@ def main():
         unit["entries"].extend(EXTRAS_R23.get(unit["unit_id"], []))
         unit["entries"].extend(EXTRAS_R24.get(unit["unit_id"], []))
         unit["entries"].extend(EXTRAS_R26.get(unit["unit_id"], []))
+        unit["entries"].extend(EXTRAS_R27.get(unit["unit_id"], []))
     for unit in units:
         for e in unit["entries"]:
             if e["id"] in UPGRADES:
@@ -137,6 +140,8 @@ def main():
                 e["l2"] = UPGRADES_R25[e["id"]]
             if e["id"] in UPGRADES_R26:
                 e["l2"] = UPGRADES_R26[e["id"]]
+            if e["id"] in UPGRADES_R27:
+                e["l2"] = UPGRADES_R27[e["id"]]
 
     ids, titles = {}, {}
     entries_all = []

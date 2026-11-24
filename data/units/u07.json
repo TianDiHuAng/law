@@ -2511,6 +2511,78 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "env-ozone",
+      "title": "臭氧层保护",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "环境法·臭氧层",
+      "definition": "臭氧层保护是规范消耗臭氧层物质的生产、使用、进出口与淘汰，保护平流层臭氧层的制度。",
+      "summary": "中国通过《保护臭氧层维也纳公约》与《蒙特利尔议定书》履约，对消耗臭氧层物质实行配额许可与淘汰管理。",
+      "related": [
+        "env-law",
+        "env-air-pollution",
+        "env-climate"
+      ],
+      "sources": [
+        "src-law-environment",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "消耗臭氧层物质管理条例与履约进展需按生态环境部官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-public-data-open",
+      "title": "公共数据开放",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·公共数据",
+      "definition": "公共数据开放是行政机关、公共企事业单位依法向社会开放其在履职过程中制作或获取的数据，促进数据开发利用与公共治理。",
+      "summary": "公共数据开放应遵循分类分级、安全可控、需求导向原则；涉及国家秘密、商业秘密与个人信息的依法不予开放或脱敏处理。",
+      "related": [
+        "data-security",
+        "data-classification",
+        "data-important-data"
+      ],
+      "sources": [
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "公共数据开放目录与授权运营规则需按各地与行业主管部门官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

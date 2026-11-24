@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 274,
+  "total": 278,
   "levels": {
     "L1": 143,
-    "L2": 128,
+    "L2": 132,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -88,19 +88,19 @@
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 44,
-          "合计": 44
+          "概念制度": 45,
+          "合计": 45
         }
       },
       "by_type": {
-        "概念制度": 44
+        "概念制度": 45
       },
       "cross": {
         "中国": {
-          "概念制度": 44
+          "概念制度": 45
         }
       },
-      "total": 44
+      "total": 45
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 44,
-          "合计": 44
+          "概念制度": 46,
+          "合计": 46
         }
       },
       "by_type": {
-        "概念制度": 44
+        "概念制度": 46
       },
       "cross": {
         "中国": {
-          "概念制度": 44
+          "概念制度": 46
         }
       },
-      "total": 44
+      "total": 46
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 25,
-          "合计": 25
+          "概念制度": 26,
+          "合计": 26
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 35
+        "概念制度": 36
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 25
+          "概念制度": 26
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 35
+      "total": 36
     },
     "u09": {
       "title": "经典案例",
@@ -667,7 +667,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -723,7 +723,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -821,7 +821,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -891,7 +891,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -1609,6 +1609,20 @@
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-act-effect",
+      "title": "民事法律行为的效力形态",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
       "unverified_count": 0,
       "pending_notes": "",
       "last_updated": "2026-11-24"
@@ -3098,6 +3112,34 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "env-ozone",
+      "title": "臭氧层保护",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "消耗臭氧层物质管理条例与履约进展需按生态环境部官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "data-public-data-open",
+      "title": "公共数据开放",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "公共数据开放目录与授权运营规则需按各地与行业主管部门官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -3585,6 +3627,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "《国际水道非航行使用法公约》生效状态与相关条约需按联合国资料核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-development-law",
+      "title": "国际发展法",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "联合国发展权宣言与官方发展援助数据需按联合国官方资料核对。",
       "last_updated": "2026-11-24"
     },
     {

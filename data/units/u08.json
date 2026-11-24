@@ -2126,6 +2126,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-development-law",
+      "title": "国际发展法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·国际经济法",
+      "definition": "国际发展法是调整国际社会与发展中国家之间关于发展援助、技术合作、贸易优惠与债务安排等关系的国际法规则。",
+      "summary": "国际发展法体现发展权与特殊差别待遇理念，渊源包括联合国大会决议、发展援助协定与多边开发机构规则；多数文件属软法性质。",
+      "related": [
+        "intl-sources",
+        "intl-wto",
+        "intl-organization-law"
+      ],
+      "sources": [
+        "src-un-charter",
+        "src-un-treaty",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "联合国发展权宣言与官方发展援助数据需按联合国官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
