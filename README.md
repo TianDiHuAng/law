@@ -2,6 +2,8 @@
 
 一个可离线打开的中文法律知识静态站点。覆盖法理与法律史、宪法与行政法、民法、刑法与刑事程序、民事与行政程序、商法与社会法、知识产权环境与数据法、比较法与国际法、经典案例、法律文本导读和程序流程。
 
+**在线访问：** https://tiandihuang.github.io/law/
+
 ## 规模一览
 
 | 项目 | 数量 |
@@ -71,9 +73,9 @@ python tools/report.py
 
 Windows 控制台输出中文时，请先设置 `PYTHONIOENCODING=utf-8`。
 
-## 发布到 GitHub Pages（可选）
+## 发布到 GitHub Pages
 
-站点是纯静态文件，可直接托管：在仓库 Settings → Pages 中选择 `main` 分支的根目录（根目录 `index.html` 会跳转到 `site/index.html`）。
+已部署在 https://tiandihuang.github.io/law/ 。站点是纯静态文件，可直接托管：在仓库 Settings → Pages 中选择 `main` 分支的根目录（根目录 `index.html` 会跳转到 `site/index.html`）。
 
 ## 目录结构
 
