@@ -162,6 +162,25 @@
         "L3": 3
       },
       "notes": "R14：新增大气污染防治、网络安全审查、国际法院、行政许可法导读；升级行政协议、居住权、保证合同、合伙企业法至 L2。"
+    },
+    {
+      "round": 15,
+      "date": "2026-11-24",
+      "status": "正常（体检轮）",
+      "new_entries": 0,
+      "upgrades": 3,
+      "reviews": 41,
+      "fixes": 1,
+      "pending_total": 81,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 238,
+      "levels": {
+        "L1": 149,
+        "L2": 86,
+        "L3": 3
+      },
+      "notes": "R15 体检轮：死链0、超期0、重复0、孤儿0；发现并修复 env-law 与 law-environment 近重复1对；复核9案例+32未核验来源；升级数据分类分级、国际人权公约体系、行政听证至L2。"
     }
   ]
 }

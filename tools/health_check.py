@@ -29,6 +29,9 @@ def ngrams(text, n=5):
 
 def main():
     units, entries, sources, coverage = load()
+    metrics = json.load(open(os.path.join(ROOT, "METRICS.json"), encoding="utf-8"))
+    rnd = metrics["rounds"][-1]["round"] + 1
+    out_name = f"HEALTH_R{rnd:02d}.md"
     problems = []
     # 1 dead links internal
     files = {os.path.basename(p) for p in glob.glob(os.path.join(SITE, "*.html"))} | {"style.css"}
@@ -104,7 +107,7 @@ def main():
         problems.append(f"近重复条目 {len(near)} 对")
     # 7 unverified sources count
     unverified = [s for s in sources if not s.get("verified")]
-    lines = ["# HEALTH — R10 体检报告\n", f"> 日期：2026-11-24；条目 {len(entries)}，来源 {len(sources)}，已核验 {len(sources)-len(unverified)}。\n",
+    lines = [f"# HEALTH — R{rnd:02d} 体检报告\n", f"> 日期：2026-11-24；条目 {len(entries)}，来源 {len(sources)}，已核验 {len(sources)-len(unverified)}。\n",
              "## 检查项结果\n", "| 项目 | 结果 |", "|---|---|",
              f"| 内部死链 | {len(broken)} 条 |",
              f"| 法律文本核对超期 | {len(expired)} 条 |",
@@ -126,7 +129,7 @@ def main():
         lines.extend(f"- {x}" for x in problems)
     else:
         lines.append("未发现结构性健康问题；死链、重复、跨页统计与孤儿页均为 0。未核验来源为外部网站反爬或已保留的备选链接，未用于正文事实。")
-    open(os.path.join(ROOT, "HEALTH_R10.md"), "w", encoding="utf-8").write("\n".join(lines) + "\n")
+    open(os.path.join(ROOT, out_name), "w", encoding="utf-8").write("\n".join(lines) + "\n")
     print("health written; problems:", problems)
 
 
