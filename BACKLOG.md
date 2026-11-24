@@ -1,26 +1,26 @@
 # BACKLOG — 待办队列
 
-> 最后更新：2026-11-24 · 轮次 R83
+> 最后更新：2026-11-24 · 轮次 R84
 > 状态：**已饱和（SATURATED=true）**，维护模式。
 
-## R83 本轮已完成（维护）
+## R84 本轮已完成（维护）
 
 | id | 内容 |
 |---|---|
-| R83-01 | 合同解除（civil-contract-termination）升级 L3 |
-| R83-02 | 格式条款（civil-standard-terms）升级 L3 |
-| R83-03 | 缺口复检：无新增权威覆盖缺口，维持饱和（连续 7 轮） |
+| R84-01 | 犯罪未遂（crim-attempt）升级 L3 |
+| R84-02 | 行政行为（admin-act）升级 L3 |
+| R84-03 | 缺口复检：无新增权威覆盖缺口，维持饱和（连续 8 轮） |
 
-## R84 待办（维护模式）
+## R85 待办（维护模式）
 
 | id | 内容 |
 |---|---|
-| R84-01 | 升级 2 条 L3（正当防卫之外的刑法概念，如犯罪未遂/共同犯罪；或 U02 行政法核心概念如行政行为的效力） |
-| R84-02 | 缺口复检并维持饱和 |
+| R85-01 | 升级 2 条 L3（代理 civil-agency、诉讼时效 civil-limitation） |
+| R85-02 | 缺口复检并维持饱和 |
 
-## R85–R86 待办（维护模式）
+## R86 待办（维护模式）
 
-- 每轮 2 条 L3 深度化。
+- 升级 2 条 L3（公司设立/证券法核心概念，或 U07 数据法核心概念如个人信息处理规则）。
 
 ## R87 体检轮
 
@@ -28,11 +28,7 @@
 
 ## 当前统计
 
-- 条目 379（L1 0 / L2 362 / L3 17）；来源 144，已核验 122；`CHECK_OK`。
-
-## L3 已覆盖条目（17 条）
-
-fa-concept、crim-defense、data-personal、law-civil-code、law-admin-litigation、law-criminal、law-civil-procedure、law-company、law-personal-info、law-constitution、law-labor-contract、law-environment、law-copyright、law-administrative-penalty、civil-contract、civil-contract-termination、civil-standard-terms。
+- 条目 379（L1 0 / L2 360 / L3 19）；来源 144，已核验 122；`CHECK_OK`。
 
 ## 维护原则
 

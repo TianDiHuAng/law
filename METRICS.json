@@ -1418,6 +1418,24 @@
         "L3": 17
       },
       "notes": "R83 维护模式（饱和中）：合同解除、格式条款升级 L3（L3 达 17 条）；缺口复检无新缺口，维持饱和。"
+    },
+    {
+      "round": 84,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 184,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 379,
+      "levels": {
+        "L1": 0,
+        "L2": 360,
+        "L3": 19
+      },
+      "notes": "R84 维护模式（饱和中）：犯罪未遂、行政行为升级 L3（L3 达 19 条）；缺口复检无新缺口，维持饱和。"
     }
   ]
 }
