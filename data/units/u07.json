@@ -2366,6 +2366,79 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "env-water-pollution",
+      "title": "水污染防治",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "环境法·水污染",
+      "definition": "水污染防治是防治江河、湖泊、运河、渠道、水库等地表水体以及地下水体的污染，保护水环境质量的制度。",
+      "summary": "水污染防治法规定水环境质量标准、污染物排放标准、排污许可、饮用水水源保护、水污染事故应急等制度。",
+      "related": [
+        "env-law",
+        "env-pollution",
+        "env-marine-pollution"
+      ],
+      "sources": [
+        "src-law-water-pollution",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "水污染防治法及地方水污染物排放标准需按生态环境部现行文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-algorithm-recommendation",
+      "title": "算法推荐治理",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·算法治理",
+      "definition": "算法推荐治理是规范互联网信息服务算法推荐活动，要求算法推荐服务提供者坚持主流价值导向、保障用户知情权与选择权、防止算法歧视与沉迷的制度。",
+      "summary": "算法推荐服务提供者应公示算法推荐服务的基本原理、目的意图和主要运行机制，向用户提供便捷的关闭算法推荐服务的选项。",
+      "related": [
+        "data-algorithm",
+        "data-automated-decision",
+        "data-platform-economy"
+      ],
+      "sources": [
+        "src-law-personal-info-2",
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "互联网信息服务算法推荐管理规定及备案要求需按国家网信办官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

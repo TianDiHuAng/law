@@ -2052,6 +2052,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-sanctions",
+      "title": "国际制裁",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·国际制裁",
+      "definition": "国际制裁是国际组织或国家为维护国际和平与安全、回应违反国际法行为，对特定国家、实体或个人采取的强制性措施，包括经济制裁、旅行禁令、资产冻结、武器禁运等。",
+      "summary": "联合国安理会依《联合国宪章》第七章可决定采取制裁措施，成员国应履行安理会决议；单边制裁的合法性在国际法上存在争议。",
+      "related": [
+        "intl-sources",
+        "intl-organization-law",
+        "intl-state-responsibility"
+      ],
+      "sources": [
+        "src-un-charter",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "联合国安理会制裁清单与各国单边制裁措施需按联合国及各国官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

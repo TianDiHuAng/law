@@ -84,7 +84,7 @@
 | admin-administrative-confirmation | 行政确认 | 概念制度 | 补充 | A、C | 中国 |
 | admin-public-health-emergency | 突发公共卫生事件应急 | 概念制度 | 重要 | A、C | 中国 |
 
-### U03 民法（42 条）
+### U03 民法（43 条）
 
 民法典体系与民事权利义务
 
@@ -132,6 +132,7 @@
 | civil-contract-preservation | 合同保全 | 概念制度 | 重要 | A、C | 中国 |
 | civil-good-faith | 诚信原则 | 概念制度 | 重要 | A、C | 中国 |
 | civil-contract-interpretation | 合同解释 | 概念制度 | 重要 | A、C | 中国 |
+| civil-co-ownership | 共有 | 概念制度 | 重要 | A、C | 中国 |
 
 ### U04 刑法与刑事程序（25 条）
 
@@ -216,7 +217,7 @@
 | com-bankruptcy-avoidance | 破产撤销权 | 概念制度 | 重要 | A、C | 中国 |
 | com-investor-protection | 投资者保护 | 概念制度 | 重要 | A、C | 中国 |
 
-### U07 知识产权、环境与数据法（40 条）
+### U07 知识产权、环境与数据法（42 条）
 
 创新保护、生态治理与数字规则
 
@@ -262,8 +263,10 @@
 | data-cybercrime | 网络犯罪 | 概念制度 | 重要 | A、C | 中国 |
 | env-hazardous-waste | 危险废物管理 | 概念制度 | 补充 | A、C | 中国 |
 | data-platform-economy | 平台经济治理 | 概念制度 | 补充 | A、C | 中国 |
+| env-water-pollution | 水污染防治 | 概念制度 | 补充 | A、C | 中国 |
+| data-algorithm-recommendation | 算法推荐治理 | 概念制度 | 补充 | A、C | 中国 |
 
-### U08 比较法与国际法（33 条）
+### U08 比较法与国际法（34 条）
 
 普通法、大陆法、欧盟法与国际规则
 
@@ -302,6 +305,7 @@
 | intl-judicial-assistance | 国际刑事司法协助 | 概念制度 | 补充 | A、C | 国际 |
 | intl-humanitarian-law | 国际人道法 | 概念制度 | 补充 | A、C | 国际 |
 | intl-state-responsibility | 国家责任 | 概念制度 | 补充 | A、C | 国际 |
+| intl-sanctions | 国际制裁 | 概念制度 | 补充 | A、C | 国际 |
 
 ### U09 经典案例（20 条）
 
@@ -373,6 +377,6 @@
 
 ## 五、覆盖统计
 
-- 总条目：266
-- L1：146；L2：117；L3：3
+- 总条目：270
+- L1：146；L2：121；L3：3
 - 核心条目全部达到 L2 及以上的单元：10/11

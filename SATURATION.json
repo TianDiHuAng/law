@@ -242,6 +242,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 24,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U03共有、U07水污染/算法推荐、U08国际制裁补强",
+        "权威大纲再对照：发现共有、水污染防治、算法推荐、国际制裁缺口",
+        "深度缺口：继承编、遗嘱继承、产品责任、无过错责任仍为L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }
