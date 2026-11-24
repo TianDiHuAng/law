@@ -709,6 +709,19 @@
       "new_entries": 0,
       "upgrades": 8,
       "remaining_backlog": 6
+    },
+    {
+      "round": 60,
+      "date": "2026-11-24",
+      "methods": [
+        "体检：死链0、过期0、重复0、孤儿0、近重复0",
+        "待核实清单：复核9案例与32未核验来源",
+        "深度缺口：U09 中国案例批量升级启动"
+      ],
+      "gaps_found": 2,
+      "new_entries": 0,
+      "upgrades": 2,
+      "remaining_backlog": 6
     }
   ]
 }

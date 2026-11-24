@@ -91,6 +91,7 @@ from upgrades_r56 import UPGRADES_R56  # noqa: E402
 from upgrades_r57 import UPGRADES_R57  # noqa: E402
 from upgrades_r58 import UPGRADES_R58  # noqa: E402
 from upgrades_r59 import UPGRADES_R59  # noqa: E402
+from upgrades_r60 import UPGRADES_R60  # noqa: E402
 from upgrades_r16 import UPGRADES_R16  # noqa: E402
 from upgrades_r17 import UPGRADES_R17  # noqa: E402
 from upgrades_r18 import UPGRADES_R18  # noqa: E402
@@ -160,6 +161,7 @@ ROUND_DATA = {
     57: (EXTRAS_R57, UPGRADES_R57),
     58: (EXTRAS_R58, UPGRADES_R58),
     59: ({}, UPGRADES_R59),
+    60: ({}, UPGRADES_R60),
 }
 
 
