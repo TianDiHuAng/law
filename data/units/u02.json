@@ -2647,6 +2647,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-reconsideration-enforcement",
+      "title": "行政复议决定的执行",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政复议",
+      "definition": "行政复议决定的执行是复议机关作出撤销、变更、责令履行等决定后，被申请行政机关依法履行，以及申请人、第三人依法履行复议决定的制度。",
+      "summary": "被申请人不履行或无正当理由拖延履行复议决定的，复议机关或有关上级行政机关应责令限期履行；对拒不履行的直接责任人员依法追责。",
+      "related": [
+        "admin-reconsideration",
+        "admin-reconsideration-prerequisite",
+        "admin-litigation"
+      ],
+      "sources": [
+        "src-law-admin-reconsideration",
+        "src-law-admin-litigation",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "行政复议法关于执行与督办的具体条文需按2023年修订文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

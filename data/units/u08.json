@@ -2383,6 +2383,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-competition-law",
+      "title": "国际竞争法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际经济法·竞争法",
+      "definition": "国际竞争法是协调各国竞争法域外适用、跨境并购审查与反垄断执法合作的国际规则与合作机制。",
+      "summary": "国际竞争法目前以双边合作协定、区域竞争规则与软法性质的国际竞争网络（ICN）建议为主，尚缺乏统一的多边竞争法典。",
+      "related": [
+        "ip-anti-unfair",
+        "intl-wto",
+        "intl-sources"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "主要辖区竞争执法合作协定与并购审查协调机制需按各执法机构官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

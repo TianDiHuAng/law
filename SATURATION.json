@@ -398,6 +398,19 @@
       "new_entries": 0,
       "upgrades": 2,
       "remaining_backlog": 8
+    },
+    {
+      "round": 36,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02复议执行、U03债的移转、U07等保、U08国际竞争法补强",
+        "权威大纲再对照：发现复议执行、债的移转、等保制度、国际竞争法缺口",
+        "深度缺口：人格权禁令、建设工程、遗赠扶养、收养仍为 L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

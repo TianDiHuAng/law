@@ -2884,6 +2884,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-mlps",
+      "title": "网络安全等级保护制度",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·网络安全",
+      "definition": "网络安全等级保护制度是对网络按其在国家安全、经济建设、社会生活中的重要程度划分为不同保护等级，并按等级落实安全保护义务的制度。",
+      "summary": "网络运营者应履行等级保护义务，包括定级备案、安全建设整改、等级测评与监督检查；关键信息基础设施在等级保护基础上实行重点保护。",
+      "related": [
+        "data-network",
+        "data-critical-infrastructure",
+        "data-security"
+      ],
+      "sources": [
+        "src-law-network-security-2",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "网络安全等级保护条例与定级指南需按公安部现行文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
