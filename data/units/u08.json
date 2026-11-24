@@ -3340,6 +3340,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-tpf",
+      "title": "国际仲裁中的第三方资助",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际私法·国际仲裁",
+      "definition": "第三方资助是仲裁一方当事人之外的实体为其提供仲裁费用，并在胜诉时按约定分享裁决收益的安排。",
+      "summary": "第三方资助引发利益冲突披露、费用担保与保密特权等争议；部分仲裁规则与投资条约已要求披露资助安排。",
+      "related": [
+        "intl-commercial-arbitration",
+        "intl-investment-arbitration",
+        "intl-award-setting-aside"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "各仲裁机构规则关于第三方资助披露的具体要求需按机构规则核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

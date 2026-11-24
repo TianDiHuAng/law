@@ -3445,6 +3445,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-license-delegation",
+      "title": "行政许可的委托与代理",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政许可",
+      "definition": "行政许可的委托是行政机关依法将许可实施权委托给其他行政机关行使；代理则是申请人委托他人代为办理许可申请手续。",
+      "summary": "委托须有法律、法规、规章依据，委托机关对受委托机关的许可行为承担法律责任；申请代理须提交授权委托书与身份证明。",
+      "related": [
+        "admin-license",
+        "admin-principles",
+        "admin-license-renewal"
+      ],
+      "sources": [
+        "src-law-admin-license",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
