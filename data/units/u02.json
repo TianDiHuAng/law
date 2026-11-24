@@ -3553,6 +3553,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-administrative-guidance",
+      "title": "行政指导",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·非强制行政",
+      "definition": "行政指导是行政机关在其职能范围内，通过建议、劝告、示范、信息发布等非强制方式，引导相对人自愿作出或不作出一定行为的活动。",
+      "summary": "行政指导不以强制力为后盾，相对人可选择是否接受；行政机关不得以指导为名变相强制，造成损失的应依法承担相应责任。",
+      "related": [
+        "admin-administrative-interview",
+        "admin-principles",
+        "admin-inspection"
+      ],
+      "sources": [
+        "src-law-admin-penalty",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "行政指导缺乏统一立法与救济规则，实务中多依部门规章运行。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

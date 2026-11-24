@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 355,
+  "total": 359,
   "levels": {
-    "L1": 135,
-    "L2": 217,
+    "L1": 136,
+    "L2": 220,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -70,37 +70,37 @@
       "title": "宪法与行政法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 47,
-          "合计": 47
+          "概念制度": 48,
+          "合计": 48
         }
       },
       "by_type": {
-        "概念制度": 47
+        "概念制度": 48
       },
       "cross": {
         "中国": {
-          "概念制度": 47
+          "概念制度": 48
         }
       },
-      "total": 47
+      "total": 48
     },
     "u03": {
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 64,
-          "合计": 64
+          "概念制度": 65,
+          "合计": 65
         }
       },
       "by_type": {
-        "概念制度": 64
+        "概念制度": 65
       },
       "cross": {
         "中国": {
-          "概念制度": 64
+          "概念制度": 65
         }
       },
-      "total": 64
+      "total": 65
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 64,
-          "合计": 64
+          "概念制度": 65,
+          "合计": 65
         }
       },
       "by_type": {
-        "概念制度": 64
+        "概念制度": 65
       },
       "cross": {
         "中国": {
-          "概念制度": 64
+          "概念制度": 65
         }
       },
-      "total": 64
+      "total": 65
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 45,
-          "合计": 45
+          "概念制度": 46,
+          "合计": 46
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 55
+        "概念制度": 56
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 45
+          "概念制度": 46
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 55
+      "total": 56
     },
     "u09": {
       "title": "经典案例",
@@ -1264,6 +1264,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "admin-administrative-guidance",
+      "title": "行政指导",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "行政指导缺乏统一立法与救济规则，实务中多依部门规章运行。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "civil-general",
       "title": "民法典总则编",
       "unit": "u03",
@@ -2155,6 +2169,20 @@
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-joint-guarantee",
+      "title": "共同保证",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
       "unverified_count": 0,
       "pending_notes": "",
       "last_updated": "2026-11-24"
@@ -3817,7 +3845,7 @@
       "unit": "u07",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -3929,7 +3957,7 @@
       "unit": "u07",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -3943,12 +3971,26 @@
       "unit": "u07",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "数据经纪人专门监管规则尚未出台，责任边界需结合现行法律解释。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "data-standard-contract",
+      "title": "数据出境标准合同",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "个人信息出境标准合同办法的备案要求与范本条款需按国家网信办官方文本核对。",
       "last_updated": "2026-11-24"
     },
     {
@@ -4719,6 +4761,20 @@
       "verified_source_count": 2,
       "unverified_count": 1,
       "pending_notes": "国际体育仲裁院上诉程序与瑞士联邦最高法院审查实践需按其官方资料核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-interim-measures",
+      "title": "国际仲裁中的临时措施",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "各仲裁规则关于临时措施的条件与执行机制需按机构规则核对。",
       "last_updated": "2026-11-24"
     },
     {

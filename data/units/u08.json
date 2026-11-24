@@ -3448,6 +3448,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-interim-measures",
+      "title": "国际仲裁中的临时措施",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际私法·国际仲裁",
+      "definition": "国际仲裁中的临时措施是仲裁庭或法院在裁决作出前，为保全争议标的、维持现状或保障裁决执行而采取的临时性救济。",
+      "summary": "临时措施包括财产保全、证据保全与行为保全；仲裁庭作出的临时措施可依仲裁地法与纽约公约体系获得执行。",
+      "related": [
+        "intl-commercial-arbitration",
+        "proc-civil-preservation",
+        "intl-award-setting-aside"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "各仲裁规则关于临时措施的条件与执行机制需按机构规则核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
