@@ -346,6 +346,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 32,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02许可听证、U03债的消灭、U07数据信托、U08体育仲裁补强",
+        "权威大纲再对照：发现许可听证、债的消灭、数据信托、体育仲裁缺口",
+        "深度缺口：U01 法理学四条重要条目仍为 L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

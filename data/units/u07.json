@@ -2774,6 +2774,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-data-trust",
+      "title": "数据信托",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·数据治理",
+      "definition": "数据信托是借鉴信托结构，由数据主体或数据控制者将数据权益委托给受托机构，按约定目的管理、使用与收益分配的制度构想与实践探索。",
+      "summary": "数据信托在中国尚处于探索阶段，尚无专门立法；其落地需兼顾个人信息保护、数据安全与信托法原理，具体规则以官方探索文件为准。",
+      "related": [
+        "com-trust",
+        "data-data-governance",
+        "data-personal"
+      ],
+      "sources": [
+        "src-law-personal-info-2",
+        "src-wiki-trust-law",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "数据信托的监管口径与试点规则尚未形成统一官方文本，需持续跟踪。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

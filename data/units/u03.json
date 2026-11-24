@@ -3444,6 +3444,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-obligation-extinction",
+      "title": "债的消灭",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·债法总论",
+      "definition": "债的消灭是债权债务关系在客观上归于终止，包括清偿、抵销、提存、免除与混同五种原因。",
+      "summary": "清偿是债的消灭最常态；抵销须双方债务种类品质相同且到期；提存适用于债权人无正当理由拒绝受领等情形。",
+      "related": [
+        "civil-contract",
+        "civil-contract-termination",
+        "civil-unjust-enrichment"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
