@@ -4164,7 +4164,64 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国民法典》第一千零六十四条（版本：2020年通过，核对日期：2026-11-24）。",
+        "elements": [
+          "共同意思表示",
+          "家庭日常生活需要",
+          "共同生产经营",
+          "个人债务"
+        ],
+        "conditions": [
+          "债务用于夫妻共同生活或共同生产经营",
+          "基于夫妻双方共同意思表示",
+          "或为家庭日常生活需要"
+        ],
+        "effects": [
+          "共同债务由夫妻共同偿还",
+          "个人债务由举债方个人财产清偿",
+          "债权人主张共同债务须承担举证责任"
+        ],
+        "exceptions": [
+          "一方超出家庭日常生活需要所负债务，债权人不能证明用于共同生活、共同生产经营或共同意思表示的除外"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "夫妻共同债务的举证责任分配",
+            "views": [
+              {
+                "holder": "债权人举证说（现行法）",
+                "basis": "超出日常生活需要的债务由债权人证明用于共同目的"
+              },
+              {
+                "holder": "共债推定说（部分观点）",
+                "basis": "婚姻关系存续期间所负债务应推定为共同债务"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "夫妻共同债务",
+            "difference": "夫妻共同偿还"
+          },
+          {
+            "with": "个人债务",
+            "difference": "举债方个人清偿"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "婚内一方所借都是共同债务",
+            "correction": "超出日常生活需要且债权人不能证明用于共同目的的，为个人债务"
+          },
+          {
+            "claim": "离婚后共同债务自动免除",
+            "correction": "共同债务不因离婚而免除，仍应共同偿还"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -4176,7 +4233,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -5052,6 +5109,42 @@
       ],
       "needs_verification": true,
       "pending_notes": "让与担保的效力与清算规则需按最高人民法院担保制度解释与裁判规则核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-joint-debt",
+      "title": "连带债务",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·债法总论",
+      "definition": "连带债务是数个债务人对同一债务各负全部给付义务，债权人可向任一债务人请求全部或部分履行，任一债务人履行后债务在相应范围内消灭。",
+      "summary": "连带债务的成立须有法律规定或当事人约定；连带债务人内部按份额分担，实际承担超过自己份额的债务人有权向其他债务人追偿。",
+      "related": [
+        "civil-guarantee",
+        "civil-joint-guarantee",
+        "civil-obligation-transfer"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
       "l2": null,
       "l3": null,
       "case": null,

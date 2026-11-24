@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 367,
+  "total": 371,
   "levels": {
     "L1": 134,
-    "L2": 230,
+    "L2": 234,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -70,37 +70,37 @@
       "title": "宪法与行政法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 50,
-          "合计": 50
+          "概念制度": 51,
+          "合计": 51
         }
       },
       "by_type": {
-        "概念制度": 50
+        "概念制度": 51
       },
       "cross": {
         "中国": {
-          "概念制度": 50
+          "概念制度": 51
         }
       },
-      "total": 50
+      "total": 51
     },
     "u03": {
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 67,
-          "合计": 67
+          "概念制度": 68,
+          "合计": 68
         }
       },
       "by_type": {
-        "概念制度": 67
+        "概念制度": 68
       },
       "cross": {
         "中国": {
-          "概念制度": 67
+          "概念制度": 68
         }
       },
-      "total": 67
+      "total": 68
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 67,
-          "合计": 67
+          "概念制度": 68,
+          "合计": 68
         }
       },
       "by_type": {
-        "概念制度": 67
+        "概念制度": 68
       },
       "cross": {
         "中国": {
-          "概念制度": 67
+          "概念制度": 68
         }
       },
-      "total": 67
+      "total": 68
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 48,
-          "合计": 48
+          "概念制度": 49,
+          "合计": 49
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 58
+        "概念制度": 59
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 48
+          "概念制度": 49
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 58
+      "total": 59
     },
     "u09": {
       "title": "经典案例",
@@ -1059,7 +1059,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1073,7 +1073,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -1303,6 +1303,20 @@
       "verified_source_count": 2,
       "unverified_count": 1,
       "pending_notes": "行政收费的项目与标准需按财政部、发展改革委的收费目录清单核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "admin-administrative-reward",
+      "title": "行政奖励",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "行政奖励缺乏统一立法，具体规定分散于各部门法与政策文件。",
       "last_updated": "2026-11-24"
     },
     {
@@ -1913,7 +1927,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2241,6 +2255,20 @@
       "verified_source_count": 2,
       "unverified_count": 1,
       "pending_notes": "让与担保的效力与清算规则需按最高人民法院担保制度解释与裁判规则核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-joint-debt",
+      "title": "连带债务",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
       "last_updated": "2026-11-24"
     },
     {
@@ -4078,6 +4106,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "data-trust-practice",
+      "title": "数据信托的实践形态",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "数据信托试点案例与监管态度需持续跟踪官方与行业实践。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -4890,6 +4932,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "intl-arbitrator-disclosure",
+      "title": "仲裁员的回避与披露",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "各仲裁机构规则关于披露标准与回避程序的具体规定需按机构规则核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "case-qiyuling",
       "title": "齐玉苓受教育权案",
       "unit": "u09",
@@ -5357,7 +5413,7 @@
       "unit": "u10",
       "type": "文本导读",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,

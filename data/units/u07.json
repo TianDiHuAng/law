@@ -4917,6 +4917,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-trust-practice",
+      "title": "数据信托的实践形态",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·数据治理",
+      "definition": "数据信托的实践形态是数据信托理念在行业中的具体落地形式，包括数据受托运营、数据共享信托与个人数据代理等模式。",
+      "summary": "实践形态多处于试点与探索阶段，需处理数据权属、受托人信义义务、收益分配与个人信息保护等难题，具体依约定与监管要求。",
+      "related": [
+        "data-data-trust",
+        "data-trusted-circulation",
+        "com-trust"
+      ],
+      "sources": [
+        "src-law-personal-info-2",
+        "src-wiki-trust-law",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "数据信托试点案例与监管态度需持续跟踪官方与行业实践。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

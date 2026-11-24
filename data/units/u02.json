@@ -2971,7 +2971,65 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国行政许可法》第四十六条至第四十八条（版本：2019年修正，核对日期：2026-11-24）。",
+        "elements": [
+          "听证情形",
+          "听证公告",
+          "听证程序",
+          "听证笔录效力"
+        ],
+        "conditions": [
+          "法律、法规、规章规定应当听证的事项",
+          "行政机关认为需要听证的其他涉及公共利益的重大许可事项",
+          "直接涉及申请人与他人之间重大利益关系"
+        ],
+        "effects": [
+          "行政机关应组织听证并听取意见",
+          "听证笔录应作为作出许可决定的依据",
+          "未依法听证可能构成程序违法"
+        ],
+        "exceptions": [
+          "依法无需听证的许可事项",
+          "紧急情况下的简化程序"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "听证笔录的约束力",
+            "views": [
+              {
+                "holder": "案卷排他说",
+                "basis": "行政机关应依听证笔录作出决定，不得考虑未经质证的材料"
+              },
+              {
+                "holder": "参考说（部分实务观点）",
+                "basis": "听证笔录仅供参考，行政机关仍可综合判断"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "许可听证",
+            "difference": "作出许可决定前的程序"
+          },
+          {
+            "with": "处罚听证",
+            "difference": "作出重大处罚前的程序"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "听证只是形式",
+            "correction": "听证笔录应作为作出决定的重要依据"
+          },
+          {
+            "claim": "所有许可都必须听证",
+            "correction": "仅法定或涉及重大公共利益、重大利益关系的事项需听证"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -2983,7 +3041,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -3008,7 +3066,66 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国行政强制法》第三章、第四章（版本：2011年通过，2012年1月1日施行，核对日期：2026-11-24）。",
+        "elements": [
+          "催告",
+          "陈述申辩",
+          "强制执行决定",
+          "执行协议",
+          "执行中止与终结"
+        ],
+        "conditions": [
+          "当事人不履行已生效的行政决定",
+          "行政机关具有强制执行权或申请法院执行",
+          "依法履行催告等程序"
+        ],
+        "effects": [
+          "可依法强制执行",
+          "当事人可陈述申辩",
+          "执行错误造成损害应赔偿"
+        ],
+        "exceptions": [
+          "情况紧急时可依法立即执行",
+          "法律规定的其他情形"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "行政机关自行执行与申请法院执行的分工",
+            "views": [
+              {
+                "holder": "法定授权说",
+                "basis": "有强制执行权的机关自行执行，无执行权的申请法院执行"
+              },
+              {
+                "holder": "司法审查优先说（部分观点）",
+                "basis": "应扩大申请法院执行范围，强化司法审查"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "行政强制执行",
+            "difference": "强制履行行政决定"
+          },
+          {
+            "with": "行政强制措施",
+            "difference": "临时性控制与保全"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "可以直接强制执行无需催告",
+            "correction": "原则上应先催告并听取陈述申辩"
+          },
+          {
+            "claim": "执行协议无效",
+            "correction": "在不损害公共利益和他人权益前提下可达成执行协议"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -3020,7 +3137,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -3646,6 +3763,42 @@
       ],
       "needs_verification": true,
       "pending_notes": "行政收费的项目与标准需按财政部、发展改革委的收费目录清单核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-administrative-reward",
+      "title": "行政奖励",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政奖励",
+      "definition": "行政奖励是行政机关依法对作出突出贡献或模范遵守法律的主体给予物质或精神奖励的行为，属于激励性行政行为。",
+      "summary": "行政奖励应依法定条件与程序实施，遵循公开、公平原则；对符合条件的相对人，行政机关不得无正当理由拒绝或差别对待。",
+      "related": [
+        "admin-act",
+        "admin-administrative-guidance",
+        "admin-principles"
+      ],
+      "sources": [
+        "src-law-admin-license",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "行政奖励缺乏统一立法，具体规定分散于各部门法与政策文件。",
       "l2": null,
       "l3": null,
       "case": null,
