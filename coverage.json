@@ -3,8 +3,8 @@
   "total": 379,
   "levels": {
     "L1": 0,
-    "L2": 374,
-    "L3": 5
+    "L2": 372,
+    "L3": 7
   },
   "core_l2_coverage": {
     "u01": true,
@@ -5371,7 +5371,7 @@
       "unit": "u10",
       "type": "文本导读",
       "importance": "核心",
-      "level": "L2",
+      "level": "L3",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -5399,7 +5399,7 @@
       "unit": "u10",
       "type": "文本导读",
       "importance": "重要",
-      "level": "L2",
+      "level": "L3",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,

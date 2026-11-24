@@ -937,6 +937,23 @@
       "saturated": false,
       "no_gap_streak": 1,
       "note": "连续无新缺口计数 1/3；剩余事项均为数据核验类"
+    },
+    {
+      "round": 78,
+      "date": "2026-11-24",
+      "methods": [
+        "缺口复检：覆盖矩阵与类型分布无新增权威缺口",
+        "深度化：刑法导读、民诉法导读升 L3",
+        "来源补强：核验 2 条可达来源"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "sources_verified": 2,
+      "saturated": false,
+      "no_gap_streak": 2,
+      "note": "连续无新缺口计数 2/3"
     }
   ]
 }
