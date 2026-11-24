@@ -294,6 +294,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 28,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02司法制度、U03合同解除、U07跨境情形、U08协助情形补强",
+        "权威大纲再对照：发现行政协议审理规则、法院组织、合同解除、跨境情形缺口",
+        "深度缺口：立法法、政府信息公开、隐私权与个人信息保护仍为L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 5,
+      "upgrades": 3,
+      "remaining_backlog": 8
     }
   ]
 }

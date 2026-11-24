@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 278,
+  "total": 283,
   "levels": {
-    "L1": 143,
-    "L2": 132,
+    "L1": 145,
+    "L2": 135,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -70,37 +70,37 @@
       "title": "宪法与行政法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 28,
-          "合计": 28
+          "概念制度": 30,
+          "合计": 30
         }
       },
       "by_type": {
-        "概念制度": 28
+        "概念制度": 30
       },
       "cross": {
         "中国": {
-          "概念制度": 28
+          "概念制度": 30
         }
       },
-      "total": 28
+      "total": 30
     },
     "u03": {
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 45,
-          "合计": 45
+          "概念制度": 46,
+          "合计": 46
         }
       },
       "by_type": {
-        "概念制度": 45
+        "概念制度": 46
       },
       "cross": {
         "中国": {
-          "概念制度": 45
+          "概念制度": 46
         }
       },
-      "total": 45
+      "total": 46
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 46,
-          "合计": 46
+          "概念制度": 47,
+          "合计": 47
         }
       },
       "by_type": {
-        "概念制度": 46
+        "概念制度": 47
       },
       "cross": {
         "中国": {
-          "概念制度": 46
+          "概念制度": 47
         }
       },
-      "total": 46
+      "total": 47
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 26,
-          "合计": 26
+          "概念制度": 27,
+          "合计": 27
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 36
+        "概念制度": 37
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 26
+          "概念制度": 27
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 36
+      "total": 37
     },
     "u09": {
       "title": "经典案例",
@@ -849,7 +849,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -919,7 +919,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -995,6 +995,34 @@
       "verified_source_count": 2,
       "unverified_count": 1,
       "pending_notes": "突发事件应对法、突发公共卫生事件应急条例的具体条文与最新修订需按官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "admin-agreement-rules",
+      "title": "行政协议案件审理规则",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "最高人民法院关于审理行政协议案件若干问题的规定的具体条文需按现行文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "court-organization",
+      "title": "人民法院组织与审判制度",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 0,
+      "pending_notes": "",
       "last_updated": "2026-11-24"
     },
     {
@@ -1227,7 +1255,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -1616,6 +1644,20 @@
     {
       "id": "civil-act-effect",
       "title": "民事法律行为的效力形态",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-contract-termination",
+      "title": "合同解除",
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
@@ -3140,6 +3182,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "data-cross-border-cases",
+      "title": "数据跨境流动的典型情形",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "各典型情形的监管口径需按国家网信部门发布的问答与指南核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -3641,6 +3697,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "联合国发展权宣言与官方发展援助数据需按联合国官方资料核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-assistance-cases",
+      "title": "国际刑事司法协助的典型情形",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "各类协助的条约依据与操作程序需按外交部、司法部官方文本核对。",
       "last_updated": "2026-11-24"
     },
     {

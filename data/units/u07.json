@@ -2583,6 +2583,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-cross-border-cases",
+      "title": "数据跨境流动的典型情形",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·数据跨境",
+      "definition": "数据跨境流动的典型情形包括跨国公司集团内部管理、境外提供服务、跨境并购与尽职调查、境外上市与监管报送、跨境物流与支付等。",
+      "summary": "不同情形对应不同的出境路径与合规要求，处理者应结合数据类别、数量、接收方所在国家或地区与处理目的选择评估、标准合同或认证。",
+      "related": [
+        "data-cross-border",
+        "data-important-data",
+        "data-pia"
+      ],
+      "sources": [
+        "src-law-personal-info-2",
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "各典型情形的监管口径需按国家网信部门发布的问答与指南核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

@@ -1662,7 +1662,66 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国立法法》（版本：2023年修正，核对日期：2026-11-24）。",
+        "elements": [
+          "立法权限",
+          "法律保留",
+          "立法程序",
+          "备案审查",
+          "法律适用规则"
+        ],
+        "conditions": [
+          "立法主体具有法定权限",
+          "遵守法定程序",
+          "不与上位法相抵触"
+        ],
+        "effects": [
+          "法律、行政法规、地方性法规依法产生效力",
+          "下位法不得抵触上位法",
+          "备案审查保障法制统一"
+        ],
+        "exceptions": [
+          "法律保留事项不得由行政法规、地方性法规自行规定",
+          "经济特区法规可依法作变通规定"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "地方立法权的边界",
+            "views": [
+              {
+                "holder": "法定权限说",
+                "basis": "地方立法不得超越立法法规定的权限范围"
+              },
+              {
+                "holder": "地方自主说（部分观点）",
+                "basis": "应扩大地方立法自主空间以适应地方治理需要"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "立法法",
+            "difference": "规范立法活动的基本法律"
+          },
+          {
+            "with": "宪法",
+            "difference": "规定根本制度与最高法律效力"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "地方政府可以制定法律",
+            "correction": "地方政府只能制定规章，不能制定法律"
+          },
+          {
+            "claim": "地方性法规可以规定任何事项",
+            "correction": "不得违反法律保留与上位法规定"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -1674,7 +1733,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1962,7 +2021,66 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国政府信息公开条例》（版本：2019年修订，核对日期：2026-11-24）。",
+        "elements": [
+          "主动公开",
+          "依申请公开",
+          "不予公开情形",
+          "监督保障"
+        ],
+        "conditions": [
+          "属于政府信息",
+          "不属于法定不予公开情形",
+          "依申请公开须提出申请"
+        ],
+        "effects": [
+          "行政机关应依法公开政府信息",
+          "申请人可获得相关信息",
+          "违法不公开可能被复议或诉讼纠正"
+        ],
+        "exceptions": [
+          "国家秘密",
+          "商业秘密与个人隐私（第三方同意或公共利益需要的除外）",
+          "内部事务信息与过程性信息可不予公开"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "过程性信息公开的边界",
+            "views": [
+              {
+                "holder": "过程性信息豁免说",
+                "basis": "决策过程中的讨论记录公开可能影响坦诚表达"
+              },
+              {
+                "holder": "公开优先说（部分观点）",
+                "basis": "涉及公共利益的过程性信息应适度公开"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "政务公开",
+            "difference": "更广泛的公开政策"
+          },
+          {
+            "with": "政府信息公开",
+            "difference": "法定信息公开制度"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "所有政府信息都必须公开",
+            "correction": "法定不予公开情形依法不公开"
+          },
+          {
+            "claim": "申请公开需要说明理由",
+            "correction": "申请一般无需说明特殊理由，但需描述信息特征"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -1974,7 +2092,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -2259,6 +2377,79 @@
       ],
       "needs_verification": true,
       "pending_notes": "突发事件应对法、突发公共卫生事件应急条例的具体条文与最新修订需按官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-agreement-rules",
+      "title": "行政协议案件审理规则",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政协议诉讼",
+      "definition": "行政协议案件审理规则是人民法院审理因行政协议订立、履行、变更、解除等引发的争议时，在受案范围、管辖、举证责任、法律适用与判决方式上的特别规则。",
+      "summary": "审理行政协议案件应优先适用行政法律规范，并可参照适用民事法律规范；行政机关对行使优益权等行为的合法性承担举证责任。",
+      "related": [
+        "admin-administrative-agreement",
+        "admin-litigation",
+        "civil-contract"
+      ],
+      "sources": [
+        "src-law-admin-litigation",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "最高人民法院关于审理行政协议案件若干问题的规定的具体条文需按现行文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "court-organization",
+      "title": "人民法院组织与审判制度",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "司法制度·法院组织",
+      "definition": "人民法院组织与审判制度规定人民法院的设置、审判组织、审判人员职责与审判原则，依据宪法和人民法院组织法。",
+      "summary": "人民法院依法独立行使审判权，实行两审终审、公开审判、合议与独任审判、回避、辩护与陪审等制度。",
+      "related": [
+        "const-state-organs",
+        "crim-trial",
+        "proc-civil-trial"
+      ],
+      "sources": [
+        "src-law-constitution",
+        "src-court-gongbao",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
       "l2": null,
       "l3": null,
       "case": null,

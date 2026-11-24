@@ -1524,7 +1524,69 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国民法典》第一千零三十二条至第一千零三十九条及《个人信息保护法》（版本：2020年通过/2021年通过，核对日期：2026-11-24）。",
+        "elements": [
+          "私人生活安宁",
+          "私密空间",
+          "私密活动",
+          "私密信息",
+          "个人信息处理规则"
+        ],
+        "conditions": [
+          "属于隐私或个人信息",
+          "处理活动未取得合法性基础",
+          "造成或可能造成侵害"
+        ],
+        "effects": [
+          "权利人可请求停止侵害、删除、赔礼道歉、赔偿损失",
+          "处理者承担合规义务",
+          "违法处理可能承担行政与刑事责任"
+        ],
+        "exceptions": [
+          "法律另有规定",
+          "为公共利益实施新闻报道、舆论监督等合理使用",
+          "本人同意或主动公开"
+        ],
+        "cases": [
+          "case-google-spain"
+        ],
+        "controversies": [
+          {
+            "issue": "隐私权与个人信息保护的关系",
+            "views": [
+              {
+                "holder": "交叉说（通说）",
+                "basis": "隐私权保护私密信息，个人信息保护覆盖可识别信息，二者交叉"
+              },
+              {
+                "holder": "并列说（部分学者）",
+                "basis": "二者保护对象与规则不同，应分别适用"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "隐私权",
+            "difference": "保护私密空间与生活安宁"
+          },
+          {
+            "with": "个人信息权益",
+            "difference": "保护可识别个人的信息处理活动"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "公开过的信息就不受保护",
+            "correction": "已公开信息仍受个人信息保护规则约束"
+          },
+          {
+            "claim": "只有名人才有隐私权",
+            "correction": "自然人均享有隐私权"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -1536,7 +1598,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -3251,6 +3313,42 @@
         "civil-act",
         "civil-good-faith",
         "civil-agency"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-contract-termination",
+      "title": "合同解除",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·合同权利义务终止",
+      "definition": "合同解除是合同有效成立后，因法定或约定事由出现，当事人一方或双方使合同关系归于消灭的行为，分为协议解除、约定解除与法定解除。",
+      "summary": "法定解除事由包括不可抗力致使不能实现合同目的、预期违约、迟延履行经催告仍不履行、根本违约等；解除权须在法定期限内行使。",
+      "related": [
+        "civil-contract",
+        "civil-contract-liability",
+        "civil-contract-preservation"
       ],
       "sources": [
         "src-law-civil-code",

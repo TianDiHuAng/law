@@ -2163,6 +2163,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-assistance-cases",
+      "title": "国际刑事司法协助的典型情形",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·刑事司法合作",
+      "definition": "国际刑事司法协助的典型情形包括跨境取证与证人询问、资产冻结与追缴、文书送达、引渡、被判刑人移管与刑事诉讼移管。",
+      "summary": "不同情形适用不同条约与程序；引渡须符合双重犯罪、政治犯不引渡、本国国民不引渡等原则，并受国内法程序约束。",
+      "related": [
+        "intl-judicial-assistance",
+        "intl-international-criminal",
+        "crim-investigation"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "各类协助的条约依据与操作程序需按外交部、司法部官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
