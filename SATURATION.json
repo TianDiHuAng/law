@@ -883,6 +883,18 @@
       "new_entries": 0,
       "upgrades": 8,
       "remaining_backlog": 8
+    },
+    {
+      "round": 74,
+      "date": "2026-11-24",
+      "methods": [
+        "补充级价值评估：U08 国际法余下条目",
+        "批量升级：11 条升至 L2"
+      ],
+      "gaps_found": 11,
+      "new_entries": 0,
+      "upgrades": 11,
+      "remaining_backlog": 6
     }
   ]
 }
