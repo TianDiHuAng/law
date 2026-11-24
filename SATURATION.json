@@ -1147,6 +1147,21 @@
       "saturated": true,
       "no_gap_streak": 15,
       "note": "维持饱和（第15轮无新缺口）"
+    },
+    {
+      "round": 92,
+      "date": "2026-11-24",
+      "methods": [
+        "体检：死链0、过期0、重复0、孤儿0、近重复0",
+        "深度化：国际人权法、国际投资法升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 16,
+      "note": "维持饱和（第16轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1164,8 +1179,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 346,
-      "L3": 33
+      "L2": 344,
+      "L3": 35
     },
     "sources": 144,
     "verified": 122
