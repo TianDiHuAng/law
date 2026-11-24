@@ -1818,6 +1818,24 @@
         "L3": 61
       },
       "notes": "R105 维护模式（饱和中）：民事法律行为、合同订立升级 L3（L3 达 61 条）；缺口复检无新缺口，维持饱和。"
+    },
+    {
+      "round": 106,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 184,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 379,
+      "levels": {
+        "L1": 0,
+        "L2": 316,
+        "L3": 63
+      },
+      "notes": "R106 维护模式（饱和中）：敏感个人信息、重要数据升级 L3（L3 达 63 条）；缺口复检无新缺口，维持饱和。"
     }
   ]
 }
