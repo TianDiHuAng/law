@@ -3521,6 +3521,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-investment-appeal-reform",
+      "title": "国际投资仲裁的上诉机制改革",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际经济法·投资仲裁改革",
+      "definition": "国际投资仲裁的上诉机制改革是针对现行投资仲裁缺乏上诉审查、裁决一致性不足等问题，推动建立多边上诉机制或常设投资法院的改革议题。",
+      "summary": "相关改革包括联合国国际贸易法委员会第三工作组关于投资者与国家间争端解决改革的讨论，以及欧盟倡导的多边投资法院方案。",
+      "related": [
+        "intl-investment-arbitration",
+        "intl-treaty-interpretation-investment",
+        "intl-commercial-arbitration"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-icsid",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "UNCITRAL 第三工作组改革进程与各国立场需按联合国官方文件核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

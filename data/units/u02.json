@@ -3625,6 +3625,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-administrative-charge",
+      "title": "行政收费",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政收费",
+      "definition": "行政收费是行政机关或法定组织依法向特定相对人收取费用，以补偿特定行政服务成本或调节资源使用的行为，如证照工本费、排污费（已改税）等。",
+      "summary": "行政收费须有法律、法规依据并实行目录清单管理，收费标准应公开；无依据收费、超标准收费的，相对人可依法申请退还并寻求救济。",
+      "related": [
+        "admin-license",
+        "admin-penalty",
+        "admin-compensation"
+      ],
+      "sources": [
+        "src-law-admin-license",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "行政收费的项目与标准需按财政部、发展改革委的收费目录清单核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

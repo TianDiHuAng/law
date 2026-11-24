@@ -5031,6 +5031,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-transfer-security",
+      "title": "让与担保",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "民法·非典型担保",
+      "definition": "让与担保是债务人或第三人将标的物所有权（或股权等权利）移转给债权人，以担保债务履行的非典型担保方式，债务清偿后标的物返还。",
+      "summary": "让与担保虽非民法典明定的典型担保，但司法实践通过合同解释与清算义务规则予以承认，禁止流质式约定，债权人负有清算义务。",
+      "related": [
+        "civil-security",
+        "civil-guarantee",
+        "civil-property"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "让与担保的效力与清算规则需按最高人民法院担保制度解释与裁判规则核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

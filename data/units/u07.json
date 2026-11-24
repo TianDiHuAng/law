@@ -4880,6 +4880,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-cross-border-case-types",
+      "title": "数据出境案例的类型化",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·数据跨境",
+      "definition": "数据出境案例的类型化是对实践中因数据出境引发的合规争议、行政处罚与司法纠纷，按出境路径、数据类型与违法情形进行归类分析的方法。",
+      "summary": "常见类型包括未申报安全评估即出境、以标准合同规避评估、境外接收方超范围使用数据、重要数据识别错误等，反映合规落地难点。",
+      "related": [
+        "data-cross-border",
+        "data-cross-border-cases",
+        "data-export-assessment"
+      ],
+      "sources": [
+        "src-law-personal-info-2",
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "公开的数据出境执法与司法案例有限，类型化结论需随监管实践更新。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
