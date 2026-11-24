@@ -907,6 +907,19 @@
       "new_entries": 0,
       "upgrades": 11,
       "remaining_backlog": 4
+    },
+    {
+      "round": 76,
+      "date": "2026-11-24",
+      "methods": [
+        "清零计划：最后 9 条 L1 全部升级",
+        "里程碑：全部 379 条条目达 L2/L3，L1=0"
+      ],
+      "gaps_found": 9,
+      "new_entries": 0,
+      "upgrades": 9,
+      "remaining_backlog": 3,
+      "milestone": "全部条目 L2/L3，L1 清零"
     }
   ]
 }
