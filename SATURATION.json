@@ -1431,6 +1431,21 @@
       "saturated": true,
       "no_gap_streak": 35,
       "note": "维持饱和（第35轮无新缺口）"
+    },
+    {
+      "round": 112,
+      "date": "2026-11-24",
+      "methods": [
+        "体检：死链0、过期0、重复0、孤儿0、近重复0",
+        "深度化：行政诉讼流程、行政复议流程升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 36,
+      "note": "维持饱和（第36轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1448,8 +1463,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 306,
-      "L3": 73
+      "L2": 304,
+      "L3": 75
     },
     "sources": 144,
     "verified": 122
