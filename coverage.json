@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 375,
+  "total": 379,
   "levels": {
     "L1": 134,
-    "L2": 238,
+    "L2": 242,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -70,37 +70,37 @@
       "title": "宪法与行政法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 52,
-          "合计": 52
+          "概念制度": 53,
+          "合计": 53
         }
       },
       "by_type": {
-        "概念制度": 52
+        "概念制度": 53
       },
       "cross": {
         "中国": {
-          "概念制度": 52
+          "概念制度": 53
         }
       },
-      "total": 52
+      "total": 53
     },
     "u03": {
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 69,
-          "合计": 69
+          "概念制度": 70,
+          "合计": 70
         }
       },
       "by_type": {
-        "概念制度": 69
+        "概念制度": 70
       },
       "cross": {
         "中国": {
-          "概念制度": 69
+          "概念制度": 70
         }
       },
-      "total": 69
+      "total": 70
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 69,
-          "合计": 69
+          "概念制度": 70,
+          "合计": 70
         }
       },
       "by_type": {
-        "概念制度": 69
+        "概念制度": 70
       },
       "cross": {
         "中国": {
-          "概念制度": 69
+          "概念制度": 70
         }
       },
-      "total": 69
+      "total": 70
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 50,
-          "合计": 50
+          "概念制度": 51,
+          "合计": 51
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 60
+        "概念制度": 61
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 50
+          "概念制度": 51
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 60
+      "total": 61
     },
     "u09": {
       "title": "经典案例",
@@ -1334,6 +1334,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "admin-administrative-benefit",
+      "title": "行政给付",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "行政给付的具体规则分散于社会保险法与社会救助制度，需按各领域规定核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "civil-general",
       "title": "民法典总则编",
       "unit": "u03",
@@ -2039,7 +2053,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2053,7 +2067,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2067,7 +2081,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2081,7 +2095,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2297,6 +2311,20 @@
       "verified_source_count": 2,
       "unverified_count": 0,
       "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-dation-in-payment",
+      "title": "代物清偿",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "代物清偿与以物抵债的区分及效力需按最高人民法院裁判规则核对。",
       "last_updated": "2026-11-24"
     },
     {
@@ -4162,6 +4190,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "data-platform-liability",
+      "title": "数据交易平台责任",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "数据交易平台的专门监管规则尚在完善，责任边界需结合现行法律解释。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -4999,6 +5041,20 @@
       "verified_source_count": 2,
       "unverified_count": 1,
       "pending_notes": "CISG 在中国的保留声明与最新缔约国情况需按联合国国际贸易法委员会官方资料核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-carriage-of-goods",
+      "title": "国际货物运输法",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "各运输公约的缔约国范围与最新修订需按联合国及相关国际组织官方资料核对。",
       "last_updated": "2026-11-24"
     },
     {

@@ -4990,6 +4990,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-platform-liability",
+      "title": "数据交易平台责任",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·数据流通",
+      "definition": "数据交易平台责任是数据交易平台运营者因未尽审核、安全保障与信息披露义务，对交易中的违法数据处理或损害承担的责任。",
+      "summary": "平台应审核交易主体与数据来源合法性、留存交易记录、采取安全措施；违反义务可能承担民事、行政乃至刑事责任。",
+      "related": [
+        "data-factor-market",
+        "data-broker-liability",
+        "data-trusted-circulation"
+      ],
+      "sources": [
+        "src-law-data-security",
+        "src-law-personal-info-2",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "数据交易平台的专门监管规则尚在完善，责任边界需结合现行法律解释。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
