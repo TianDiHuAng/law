@@ -746,6 +746,18 @@
       "new_entries": 0,
       "upgrades": 11,
       "remaining_backlog": 4
+    },
+    {
+      "round": 63,
+      "date": "2026-11-24",
+      "methods": [
+        "深度缺口：U08 比较法与国际私法、U06 商法重要条目仍为 L1",
+        "批量升级：8 条升至 L2"
+      ],
+      "gaps_found": 8,
+      "new_entries": 0,
+      "upgrades": 8,
+      "remaining_backlog": 3
     }
   ]
 }
