@@ -29,7 +29,7 @@ def main():
     lines = []
     lines.append(f"# REPORT — 第 R{m['round']:02d} 轮")
     lines.append("")
-    lines.append(f"1. **本轮编号**：R{m['round']:02d} ｜ **日期**：{m['date']} ｜ **状态**：正常")
+    lines.append(f"1. **本轮编号**：R{m['round']:02d} ｜ **日期**：{m['date']} ｜ **状态**：{m.get('status','正常')}")
     lines.append(f"2. **本轮完成**：新增 {m['new_entries']} 条；升级 {m['upgrades']} 条；复核 {m['reviews']} 条；修复 {m['fixes']} 条")
     lines.append(f"3. **累计**：总条目 {total}；L1 {lv.get('L1',0)} / L2 {lv.get('L2',0)} / L3 {lv.get('L3',0)}；"
                  f"已核验来源 {verified}/{len(sources)}；待核实条目 {pending}；来源总数 {len(sources)}")

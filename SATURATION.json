@@ -58,6 +58,19 @@
       "new_entries": 5,
       "upgrades": 5,
       "remaining_backlog": 10
+    },
+    {
+      "round": 10,
+      "date": "2026-11-24",
+      "methods": [
+        "体检：死链扫描（0）、过期数据（0）、重复检测（0）、跨页统计（一致）、孤儿页（0）、近重复（0）",
+        "待核实清单：复核9条案例案号与32条未核验来源",
+        "深度缺口：不当得利、公司资本制度2条重要条目仍为L1"
+      ],
+      "gaps_found": 2,
+      "new_entries": 0,
+      "upgrades": 2,
+      "remaining_backlog": 8
     }
   ]
 }
