@@ -1119,6 +1119,20 @@
       "saturated": true,
       "no_gap_streak": 13,
       "note": "维持饱和（第13轮无新缺口）"
+    },
+    {
+      "round": 90,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：企业破产法、证券法升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 14,
+      "note": "维持饱和（第14轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1136,8 +1150,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 350,
-      "L3": 29
+      "L2": 348,
+      "L3": 31
     },
     "sources": 144,
     "verified": 122
