@@ -859,6 +859,18 @@
       "new_entries": 0,
       "upgrades": 8,
       "remaining_backlog": 8
+    },
+    {
+      "round": 72,
+      "date": "2026-11-24",
+      "methods": [
+        "补充级价值评估：U07 环境与数据余下条目",
+        "批量升级：8 条升至 L2"
+      ],
+      "gaps_found": 8,
+      "new_entries": 0,
+      "upgrades": 8,
+      "remaining_backlog": 8
     }
   ]
 }
