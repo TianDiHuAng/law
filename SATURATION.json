@@ -1760,6 +1760,20 @@
       "saturated": true,
       "no_gap_streak": 58,
       "note": "维持饱和（第58轮无新缺口）"
+    },
+    {
+      "round": 135,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：立法法、行政听证升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 59,
+      "note": "维持饱和（第59轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1777,8 +1791,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 260,
-      "L3": 119
+      "L2": 258,
+      "L3": 121
     },
     "sources": 144,
     "verified": 122
