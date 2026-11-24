@@ -186,6 +186,7 @@ from upgrades_r136 import L3_UPGRADES_R136  # noqa: E402
 from upgrades_r137 import L3_UPGRADES_R137  # noqa: E402
 from upgrades_r138 import L3_UPGRADES_R138  # noqa: E402
 from upgrades_r139 import L3_UPGRADES_R139  # noqa: E402
+from upgrades_r140 import L3_UPGRADES_R140  # noqa: E402
 
 TODAY = "2026-11-24"
 OUTLINE_A = "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）"
@@ -528,6 +529,8 @@ def main():
                 e["l3"] = L3_UPGRADES_R138[e["id"]]
             if e["id"] in L3_UPGRADES_R139:
                 e["l3"] = L3_UPGRADES_R139[e["id"]]
+            if e["id"] in L3_UPGRADES_R140:
+                e["l3"] = L3_UPGRADES_R140[e["id"]]
 
     ids, titles = {}, {}
     entries_all = []
