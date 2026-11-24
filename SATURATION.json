@@ -1162,6 +1162,20 @@
       "saturated": true,
       "no_gap_streak": 16,
       "note": "维持饱和（第16轮无新缺口）"
+    },
+    {
+      "round": 93,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：民事审判程序、仲裁制度升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 17,
+      "note": "维持饱和（第17轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1179,8 +1193,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 344,
-      "L3": 35
+      "L2": 342,
+      "L3": 37
     },
     "sources": 144,
     "verified": 122
