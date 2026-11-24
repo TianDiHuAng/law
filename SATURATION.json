@@ -1788,6 +1788,21 @@
       "saturated": true,
       "no_gap_streak": 60,
       "note": "维持饱和（第60轮无新缺口）"
+    },
+    {
+      "round": 137,
+      "date": "2026-11-24",
+      "methods": [
+        "体检：死链0、过期0、重复0、孤儿0、近重复0",
+        "深度化：公务员制度、行政协议升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 61,
+      "note": "维持饱和（第61轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1805,8 +1820,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 256,
-      "L3": 123
+      "L2": 254,
+      "L3": 125
     },
     "sources": 144,
     "verified": 122
