@@ -4634,6 +4634,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-deposit-in-escrow",
+      "title": "提存",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "民法·债的消灭",
+      "definition": "提存是债务人在债权人无正当理由拒绝受领、债权人下落不明等法定情形下，将标的物交付提存机关从而消灭债务的制度。",
+      "summary": "提存后标的物毁损灭失风险由债权人承担，提存费用由债权人负担；债权人可随时领取提存物，但须履行到期债务或提供担保。",
+      "related": [
+        "civil-obligation-extinction",
+        "civil-offset",
+        "civil-contract"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

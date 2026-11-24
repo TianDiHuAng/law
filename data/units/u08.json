@@ -2530,6 +2530,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-social-security-agreement",
+      "title": "国际社会保障协定",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际私法·社会保障合作",
+      "definition": "国际社会保障协定是国家之间为避免双重缴费、保障劳动者跨境流动期间社会保障权益而缔结的双边协议，通常涉及养老、医疗、工伤与失业保险。",
+      "summary": "协定一般通过出具参保凭证实现缴费豁免，并规定待遇计算与支付、工龄互认与信息交换；中国已与多国签署社会保障协定。",
+      "related": [
+        "social-insurance",
+        "intl-private",
+        "intl-treaty"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-ilo",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "中国已签署社会保障协定的清单与生效状态需按人力资源社会保障部官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

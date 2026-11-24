@@ -3110,6 +3110,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-license-revocation",
+      "title": "行政许可的撤销与撤回",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政许可",
+      "definition": "行政许可的撤销针对违法作出的许可决定，撤回则针对合法作出但因法律依据修改、客观情况变化而需要终止的许可。",
+      "summary": "撤销由作出许可决定的行政机关或其上级机关依法定情形作出；撤回许可给被许可人造成财产损失的，行政机关应当依法给予补偿。",
+      "related": [
+        "admin-license",
+        "admin-license-hearing",
+        "admin-compensation"
+      ],
+      "sources": [
+        "src-law-admin-license",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "行政许可法关于撤销与撤回的具体条文需按现行文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

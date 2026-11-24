@@ -463,6 +463,19 @@
       "new_entries": 0,
       "upgrades": 2,
       "remaining_backlog": 8
+    },
+    {
+      "round": 41,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02许可撤销撤回、U03提存、U07白名单、U08社保协定补强",
+        "权威大纲再对照：发现许可撤销、提存、白名单、社保协定缺口",
+        "深度缺口：U04 犯罪预备/中止/数罪并罚与刑诉流程仍为 L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }
