@@ -293,7 +293,66 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国民法典》第一百六十一条至第一百七十五条（版本：2020年通过，核对日期：2026-11-24）。",
+        "elements": [
+          "代理人",
+          "被代理人",
+          "代理权限",
+          "以被代理人名义实施法律行为"
+        ],
+        "conditions": [
+          "代理人具有代理权",
+          "在代理权限内实施",
+          "以被代理人名义",
+          "法律行为合法"
+        ],
+        "effects": [
+          "代理行为对被代理人发生效力",
+          "无权代理可追认或拒绝",
+          "表见代理保护善意相对人"
+        ],
+        "exceptions": [
+          "依照法律规定或当事人约定不得代理的行为",
+          "自己代理、双方代理原则上无效（经同意或追认除外）"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "表见代理的构成要件",
+            "views": [
+              {
+                "holder": "通说",
+                "basis": "须有代理权外观、相对人善意无过失、本人可归责"
+              },
+              {
+                "holder": "部分学者",
+                "basis": "应侧重相对人信赖保护，弱化本人可归责要件"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "委托合同",
+            "difference": "委托合同是内部基础关系，代理是外部法律行为"
+          },
+          {
+            "with": "代表",
+            "difference": "代表行为直接视为法人行为，代理以被代理人名义独立实施"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "没有代理权签的合同一律无效",
+            "correction": "无权代理合同效力待定，被代理人可追认"
+          },
+          {
+            "claim": "代理人对代理行为不承担任何责任",
+            "correction": "代理人过错造成被代理人损失的，应承担相应责任"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -305,7 +364,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -2117,6 +2176,43 @@
       ],
       "sources": [
         "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-legacy-support",
+      "title": "遗赠扶养协议",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·继承",
+      "definition": "遗赠扶养协议是自然人与继承人以外的组织或者个人签订的，由该组织或者个人承担该自然人生养死葬的义务，享有受遗赠权利的协议。",
+      "summary": "遗赠扶养协议优先于遗嘱继承和法定继承；扶养人无正当理由不履行扶养义务的，可能丧失受遗赠权。",
+      "related": [
+        "civil-inheritance",
+        "civil-testate",
+        "civil-marriage"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-jd-civil-inheritance",
         "src-zgbk"
       ],
       "needs_verification": false,

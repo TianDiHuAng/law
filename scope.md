@@ -49,7 +49,7 @@
 | theory-natural-positive | 自然法与实证法 | 概念制度 | 补充 | A、C | 西方 |
 | theory-legal-norm | 法律规范 | 概念制度 | 补充 | A、C | 中国 |
 
-### U02 宪法与行政法（24 条）
+### U02 宪法与行政法（25 条）
 
 国家权力结构、基本权利与行政法治
 
@@ -79,8 +79,9 @@
 | admin-administrative-agreement | 行政协议 | 概念制度 | 重要 | A、C | 中国 |
 | admin-government-info | 政府信息公开 | 概念制度 | 重要 | A、C | 中国 |
 | admin-hearing | 行政听证 | 概念制度 | 重要 | A、C | 中国 |
+| admin-administrative-adjudication | 行政裁决 | 概念制度 | 补充 | A、C | 中国 |
 
-### U03 民法（35 条）
+### U03 民法（36 条）
 
 民法典体系与民事权利义务
 
@@ -121,6 +122,7 @@
 | civil-property-service | 物业服务合同 | 概念制度 | 重要 | A、C | 中国 |
 | civil-personality-injunction | 人格权侵害禁令 | 概念制度 | 重要 | A、C | 中国 |
 | civil-construction-contract | 建设工程合同 | 概念制度 | 重要 | A、C | 中国 |
+| civil-legacy-support | 遗赠扶养协议 | 概念制度 | 重要 | A、C | 中国 |
 
 ### U04 刑法与刑事程序（25 条）
 
@@ -204,7 +206,7 @@
 | com-bill-defense | 票据抗辩与追索 | 概念制度 | 重要 | A、C | 中国 |
 | com-bankruptcy-avoidance | 破产撤销权 | 概念制度 | 重要 | A、C | 中国 |
 
-### U07 知识产权、环境与数据法（20 条）
+### U07 知识产权、环境与数据法（21 条）
 
 创新保护、生态治理与数字规则
 
@@ -230,8 +232,9 @@
 | data-critical-infrastructure | 关键信息基础设施保护 | 概念制度 | 重要 | A、C | 中国 |
 | env-eia | 环境影响评价 | 概念制度 | 重要 | A、C | 中国 |
 | data-generative-ai | 生成式人工智能服务 | 概念制度 | 重要 | A、C | 中国 |
+| data-classification | 数据分类分级 | 概念制度 | 重要 | A、C | 中国 |
 
-### U08 比较法与国际法（22 条）
+### U08 比较法与国际法（23 条）
 
 普通法、大陆法、欧盟法与国际规则
 
@@ -259,6 +262,7 @@
 | intl-organization-law | 国际组织法 | 概念制度 | 补充 | A、C | 国际 |
 | intl-sea-dispute | 国际海洋争端解决 | 概念制度 | 补充 | A、C | 国际 |
 | intl-wto-dispute | WTO争端解决 | 概念制度 | 重要 | A、C | 国际 |
+| intl-human-rights-treaties | 国际人权公约体系 | 概念制度 | 重要 | A、C | 国际 |
 
 ### U09 经典案例（20 条）
 
@@ -287,7 +291,7 @@
 | case-mabo | 玛博诉昆士兰州案（Mabo v Queensland (No 2)） | 案例 | 补充 | B、D | 澳大利亚 |
 | case-google-spain | 谷歌西班牙公司诉西班牙数据保护局案（Google Spain SL v AEPD） | 案例 | 补充 | B、D | 欧盟 |
 
-### U10 法律文本导读（13 条）
+### U10 法律文本导读（14 条）
 
 重要法律的立法背景、结构与修订
 
@@ -306,6 +310,7 @@
 | law-data-security | 《中华人民共和国数据安全法》导读 | 文本导读 | 补充 | A、、D | 中国 |
 | law-foreign-investment | 《中华人民共和国外商投资法》导读 | 文本导读 | 补充 | A、、D | 中国 |
 | law-administrative-penalty | 《中华人民共和国行政处罚法》导读 | 文本导读 | 重要 | A、、D | 中国 |
+| law-environment | 《中华人民共和国环境保护法》导读 | 文本导读 | 重要 | A、、D | 中国 |
 
 ### U11 程序流程（6 条）
 
@@ -328,6 +333,6 @@
 
 ## 五、覆盖统计
 
-- 总条目：221
-- L1：152；L2：66；L3：3
+- 总条目：226
+- L1：152；L2：71；L3：3
 - 核心条目全部达到 L2 及以上的单元：10/11

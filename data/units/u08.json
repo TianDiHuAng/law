@@ -827,7 +827,65 @@
       ],
       "needs_verification": true,
       "pending_notes": "各人权公约的批准状态与任择议定书需按联合国条约库核对。",
-      "l2": null,
+      "l2": {
+        "definition_source": "《世界人权宣言》《公民权利和政治权利国际公约》《经济、社会及文化权利国际公约》（核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "人权主体",
+          "国家义务",
+          "权利类型",
+          "监督机制"
+        ],
+        "conditions": [
+          "国家批准或加入相关公约",
+          "权利受国家管辖",
+          "用尽国内救济（个人来文程序）"
+        ],
+        "effects": [
+          "国家承担尊重、保护、实现人权的义务",
+          "条约机构审查报告与个人来文",
+          "违反人权义务可能引发国家责任"
+        ],
+        "exceptions": [
+          "公共紧急状态下的克减（须符合公约条件）",
+          "条约保留在允许范围内"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "人权是否具有普遍性",
+            "views": [
+              {
+                "holder": "普遍主义",
+                "basis": "人权源于人的固有尊严，适用于所有人"
+              },
+              {
+                "holder": "文化相对主义（部分学者）",
+                "basis": "人权观念应尊重不同文化与社会条件"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "国际人道法",
+            "difference": "人道法适用于武装冲突，人权法适用于平时与战时"
+          },
+          {
+            "with": "国内人权法",
+            "difference": "国际人权法以条约义务为基础，国内法直接规定权利义务"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "国际人权公约自动在国内生效",
+            "correction": "各国宪法对条约适用方式规定不同"
+          },
+          {
+            "claim": "人权只限制政府不限制个人",
+            "correction": "国际人权法主要约束国家，但也要求国家保护个人免受第三方侵害"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -839,7 +897,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1218,6 +1276,43 @@
       ],
       "needs_verification": true,
       "pending_notes": "WTO争端解决机制改革与上诉机构现状需按WTO官方最新文件核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-human-rights-treaties",
+      "title": "国际人权公约体系",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "国际",
+      "era": "国际公法·人权法",
+      "definition": "国际人权公约体系以《世界人权宣言》为基础，包括《公民权利和政治权利国际公约》《经济、社会及文化权利国际公约》及禁止酷刑、消除种族歧视、儿童权利、妇女权利等专门公约。",
+      "summary": "国际人权公约通过缔约国报告、个人来文、调查与友好解决等机制实施；各公约的批准状态与保留以联合国条约集为准。",
+      "related": [
+        "intl-human-rights",
+        "intl-sources",
+        "const-rights"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "各人权公约的批准、保留与任择议定书状态需按联合国条约集核对。",
       "l2": null,
       "l3": null,
       "case": null,

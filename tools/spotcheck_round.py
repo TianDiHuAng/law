@@ -11,11 +11,13 @@ from extras import EXTRAS  # noqa: E402
 from extras_r07 import EXTRAS_R07  # noqa: E402
 from extras_r08 import EXTRAS_R08  # noqa: E402
 from extras_r09 import EXTRAS_R09  # noqa: E402
+from extras_r11 import EXTRAS_R11  # noqa: E402
 from upgrades import UPGRADES  # noqa: E402
 from upgrades_r07 import UPGRADES_R07  # noqa: E402
 from upgrades_r08 import UPGRADES_R08  # noqa: E402
 from upgrades_r09 import UPGRADES_R09  # noqa: E402
 from upgrades_r10 import UPGRADES_R10  # noqa: E402
+from upgrades_r11 import UPGRADES_R11  # noqa: E402
 
 ROUND_DATA = {
     6: (EXTRAS, UPGRADES),
@@ -23,6 +25,7 @@ ROUND_DATA = {
     8: (EXTRAS_R08, UPGRADES_R08),
     9: (EXTRAS_R09, UPGRADES_R09),
     10: ({}, UPGRADES_R10),
+    11: (EXTRAS_R11, UPGRADES_R11),
 }
 
 
