@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 307,
+  "total": 311,
   "levels": {
     "L1": 140,
-    "L2": 164,
+    "L2": 168,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -70,37 +70,37 @@
       "title": "宪法与行政法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 36,
-          "合计": 36
+          "概念制度": 37,
+          "合计": 37
         }
       },
       "by_type": {
-        "概念制度": 36
+        "概念制度": 37
       },
       "cross": {
         "中国": {
-          "概念制度": 36
+          "概念制度": 37
         }
       },
-      "total": 36
+      "total": 37
     },
     "u03": {
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 52,
-          "合计": 52
+          "概念制度": 53,
+          "合计": 53
         }
       },
       "by_type": {
-        "概念制度": 52
+        "概念制度": 53
       },
       "cross": {
         "中国": {
-          "概念制度": 52
+          "概念制度": 53
         }
       },
-      "total": 52
+      "total": 53
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 52,
-          "合计": 52
+          "概念制度": 53,
+          "合计": 53
         }
       },
       "by_type": {
-        "概念制度": 52
+        "概念制度": 53
       },
       "cross": {
         "中国": {
-          "概念制度": 52
+          "概念制度": 53
         }
       },
-      "total": 52
+      "total": 53
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 33,
-          "合计": 33
+          "概念制度": 34,
+          "合计": 34
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 43
+        "概念制度": 44
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 33
+          "概念制度": 34
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 43
+      "total": 44
     },
     "u09": {
       "title": "经典案例",
@@ -1110,6 +1110,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "admin-compensation-scope",
+      "title": "行政赔偿范围与标准",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "国家赔偿法关于赔偿标准的具体条文与年度调整数据需按官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "civil-general",
       "title": "民法典总则编",
       "unit": "u03",
@@ -1633,7 +1647,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1647,7 +1661,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -1661,7 +1675,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1675,7 +1689,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1826,6 +1840,20 @@
     {
       "id": "civil-obligation-transfer",
       "title": "债的移转",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-standard-terms",
+      "title": "格式条款",
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
@@ -3448,6 +3476,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "data-pi-audit",
+      "title": "个人信息保护合规审计",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "个人信息保护合规审计管理办法及配套标准需按国家网信部门官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -4047,6 +4089,20 @@
       "verified_source_count": 2,
       "unverified_count": 1,
       "pending_notes": "主要辖区竞争执法合作协定与并购审查协调机制需按各执法机构官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-ihl-enforcement",
+      "title": "国际人道法的实施机制",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "日内瓦公约及附加议定书的具体实施条款需按红十字国际委员会资料核对。",
       "last_updated": "2026-11-24"
     },
     {

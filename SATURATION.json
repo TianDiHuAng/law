@@ -411,6 +411,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 37,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02赔偿标准、U03格式条款、U07合规审计、U08人道法实施补强",
+        "权威大纲再对照：发现赔偿标准、格式条款、合规审计、人道法实施缺口",
+        "深度缺口：姓名权、遗产管理人、合同保全、诚信原则仍为 L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

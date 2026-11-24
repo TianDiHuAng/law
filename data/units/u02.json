@@ -2684,6 +2684,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-compensation-scope",
+      "title": "行政赔偿范围与标准",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·国家赔偿",
+      "definition": "行政赔偿范围是受害人可以请求国家赔偿的行政侵权行为类型，赔偿标准则依国家赔偿法确定具体金额的计算方式。",
+      "summary": "侵犯人身自由的赔偿金按日计算，侵犯生命健康权的赔偿依医疗费、误工费、护理费等项目计算，财产损失按直接损失赔偿。",
+      "related": [
+        "admin-compensation",
+        "admin-litigation",
+        "admin-coercion"
+      ],
+      "sources": [
+        "src-spp-portal",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "国家赔偿法关于赔偿标准的具体条文与年度调整数据需按官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
