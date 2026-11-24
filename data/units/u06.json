@@ -599,7 +599,8 @@
       ],
       "sources": [
         "src-npc",
-        "src-zgbk"
+        "src-zgbk",
+        "src-wiki-bill-law"
       ],
       "needs_verification": false,
       "pending_notes": "",
@@ -1167,7 +1168,8 @@
       ],
       "sources": [
         "src-npc",
-        "src-zgbk"
+        "src-zgbk",
+        "src-wiki-insurance"
       ],
       "needs_verification": true,
       "pending_notes": "保险法最新修订与保险监管规定需按官方文本核对。",
@@ -2115,7 +2117,8 @@
       ],
       "sources": [
         "src-npc",
-        "src-zgbk"
+        "src-zgbk",
+        "src-wiki-bill-law"
       ],
       "needs_verification": false,
       "pending_notes": "",

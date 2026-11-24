@@ -20,7 +20,8 @@
       "sources": [
         "src-court-gongbao",
         "src-jd-civil-procedure",
-        "src-zgbk"
+        "src-zgbk",
+        "src-wiki-civil-procedure"
       ],
       "needs_verification": false,
       "pending_notes": "",
@@ -307,7 +308,8 @@
       "sources": [
         "src-court-gongbao",
         "src-jd-civil-procedure",
-        "src-jd-ip-evidence"
+        "src-jd-ip-evidence",
+        "src-wiki-civil-procedure"
       ],
       "needs_verification": false,
       "pending_notes": "电子数据、鉴定意见与举证时限的具体规则需按2023年民事诉讼法及司法解释核对。",
@@ -404,7 +406,8 @@
       "sources": [
         "src-court-gongbao",
         "src-jd-civil-procedure",
-        "src-zgbk"
+        "src-zgbk",
+        "src-wiki-civil-procedure"
       ],
       "needs_verification": false,
       "pending_notes": "2023年民事诉讼法修正后的程序细节需按现行文本核对。",

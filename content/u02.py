@@ -179,7 +179,7 @@ U = UNIT(
         E("admin-compensation", "国家赔偿", "concept", "重要", "中国", "行政法学·国家赔偿",
           "国家赔偿是国家机关及其工作人员违法行使职权侵犯公民、法人或其他组织合法权益造成损害时，由国家承担赔偿责任的法律制度。",
           "国家赔偿包括行政赔偿与刑事赔偿，实行法定赔偿原则；赔偿义务机关赔偿后可依法向有故意或重大过失的工作人员追偿。",
-          ["src-spp-portal", "src-zgbk"], related=["admin-litigation", "admin-reconsideration"], pending="国家赔偿法的最新修正与赔偿标准需按官方文本核对。", needs_verification=True),
+          ["src-spp-portal", "src-zgbk", "src-wiki-state-compensation"], related=["admin-litigation", "admin-reconsideration"], pending="国家赔偿法的最新修正与赔偿标准需按官方文本核对。", needs_verification=True),
         E("admin-legislation", "立法法", "concept", "重要", "中国", "立法学·立法制度",
           "立法法是规范法律、行政法规、地方性法规、自治条例和单行条例、规章的制定、修改、废止与解释的基本法律。",
           "立法法确立立法权限划分、法律保留、备案审查与法律适用规则，是维护法制统一的基础性法律。",

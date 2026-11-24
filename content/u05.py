@@ -7,7 +7,7 @@ U = UNIT(
         E("proc-civil-principles", "民事诉讼基本原则", "concept", "重要", "中国", "民事诉讼法学·总论",
           "民事诉讼基本原则是贯穿民事诉讼全过程的基本准则，包括平等原则、辩论原则、处分原则、诚实信用原则、检察监督原则等。",
           "民事诉讼原则体现当事人意思自治与法院居中裁判的关系，是理解民事审判方式的基础。",
-          ["src-court-gongbao", "src-jd-civil-procedure", "src-zgbk"], related=["proc-civil-trial", "proc-civil-party"]),
+          ["src-court-gongbao", "src-jd-civil-procedure", "src-zgbk", "src-wiki-civil-procedure"], related=["proc-civil-trial", "proc-civil-party"]),
         E("proc-civil-jurisdiction", "民事管辖", "concept", "重要", "中国", "民事诉讼法学·管辖",
           "民事管辖是人民法院之间受理第一审民事案件的分工与权限，包括级别管辖、地域管辖、移送管辖、指定管辖与管辖权异议。",
           "合同纠纷由被告住所地或合同履行地法院管辖；侵权纠纷由侵权行为地或被告住所地法院管辖。协议管辖须符合法定条件。",
@@ -19,7 +19,7 @@ U = UNIT(
         E("proc-civil-evidence", "民事证据", "concept", "核心", "中国", "民事诉讼法学·证据",
           "民事证据是能够证明民事案件事实的各种材料，包括当事人的陈述、书证、物证、视听资料、电子数据、证人证言、鉴定意见与勘验笔录。",
           "民事诉讼实行“谁主张、谁举证”的一般规则，并对举证责任倒置、自认、证据交换与证明标准作出规定。",
-          ["src-court-gongbao", "src-jd-civil-procedure", "src-jd-ip-evidence"],
+          ["src-court-gongbao", "src-jd-civil-procedure", "src-jd-ip-evidence", "src-wiki-civil-procedure"],
           related=["proc-civil-trial", "civil-tort", "crim-evidence"],
           l2=dict(
               definition_source="《中华人民共和国民事诉讼法》第六十六条至第八十一条及最高人民法院民事诉讼法解释关于证据的规定（版本：2023年修正，核对日期：2026-11-24）。",
@@ -41,7 +41,7 @@ U = UNIT(
         E("proc-civil-trial", "民事审判程序", "concept", "核心", "中国", "民事诉讼法学·审判程序",
           "民事审判程序包括第一审普通程序、简易程序、第二审程序、审判监督程序与特别程序，是法院审理民事案件的基本流程。",
           "民事审判围绕起诉与受理、庭前准备、法庭调查、法庭辩论、评议宣判等环节展开，强调当事人辩论与法院居中裁判。",
-          ["src-court-gongbao", "src-jd-civil-procedure", "src-zgbk"],
+          ["src-court-gongbao", "src-jd-civil-procedure", "src-zgbk", "src-wiki-civil-procedure"],
           related=["proc-civil-evidence", "proc-civil-jurisdiction", "proc-civil-retrial"],
           l2=dict(
               definition_source="《中华人民共和国民事诉讼法》第二编“审判程序”（版本：2023年修正，核对日期：2026-11-24）。",
