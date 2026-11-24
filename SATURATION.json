@@ -1047,6 +1047,20 @@
       "saturated": true,
       "no_gap_streak": 8,
       "note": "维持饱和（第8轮无新缺口）"
+    },
+    {
+      "round": 85,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：代理、诉讼时效升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 9,
+      "note": "维持饱和（第9轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1064,8 +1078,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 360,
-      "L3": 19
+      "L2": 358,
+      "L3": 21
     },
     "sources": 144,
     "verified": 122
