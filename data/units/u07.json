@@ -2848,6 +2848,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-right-to-erasure",
+      "title": "个人信息删除权",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·个人信息保护",
+      "definition": "个人信息删除权是个人在法定情形下请求个人信息处理者删除其个人信息的权利，属于个人信息权益的重要内容。",
+      "summary": "法定情形包括处理目的已实现或无法实现、处理者停止提供产品或服务、个人撤回同意、处理者违法处理等；处理者应主动删除并通知接收方。",
+      "related": [
+        "data-personal",
+        "data-sensitive-personal",
+        "civil-privacy"
+      ],
+      "sources": [
+        "src-law-personal-info-2",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

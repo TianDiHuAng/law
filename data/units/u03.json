@@ -604,7 +604,65 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国民法典》第二编物权（版本：2020年通过，核对日期：2026-11-24）。",
+        "elements": [
+          "物权法定",
+          "公示公信",
+          "一物一权",
+          "物权种类",
+          "物权变动"
+        ],
+        "conditions": [
+          "物权种类与内容由法律规定",
+          "不动产物权变动依法登记、动产物权变动依法交付"
+        ],
+        "effects": [
+          "物权具有排他性与优先性",
+          "登记或交付产生对抗或生效效力",
+          "物权受侵害可行使物权请求权"
+        ],
+        "exceptions": [
+          "法律规定的地役权、居住权等特殊物权",
+          "船舶、航空器等动产抵押登记对抗规则"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "物权行为无因性",
+            "views": [
+              {
+                "holder": "有因说（现行法通说）",
+                "basis": "我国民法典未采纳物权行为无因性理论"
+              },
+              {
+                "holder": "无因说（部分学者）",
+                "basis": "应借鉴德国民法区分负担行为与处分行为"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "债权",
+            "difference": "请求特定人为一定行为"
+          },
+          {
+            "with": "物权",
+            "difference": "对物的直接支配权"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "占有就等于所有权",
+            "correction": "占有是事实状态，所有权是法律权利"
+          },
+          {
+            "claim": "合同生效即取得所有权",
+            "correction": "不动产物权须登记、动产须交付才发生变动"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -616,7 +674,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1722,7 +1780,68 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国民法典》第一千零七十六条至第一千零九十二条（版本：2020年通过，核对日期：2026-11-24）。",
+        "elements": [
+          "协议离婚",
+          "诉讼离婚",
+          "离婚冷静期",
+          "子女抚养",
+          "财产分割",
+          "离婚损害赔偿"
+        ],
+        "conditions": [
+          "协议离婚须双方自愿并达成书面协议",
+          "诉讼离婚须感情确已破裂且调解无效"
+        ],
+        "effects": [
+          "婚姻关系解除",
+          "子女抚养与财产分割依法处理",
+          "无过错方可请求损害赔偿"
+        ],
+        "exceptions": [
+          "女方怀孕期间、分娩后一年内或终止妊娠后六个月内男方原则上不得提出离婚",
+          "现役军人配偶离婚须征得军人同意（军人有重大过错的除外）"
+        ],
+        "cases": [
+          "case-luzhou"
+        ],
+        "controversies": [
+          {
+            "issue": "离婚冷静期的适用范围",
+            "views": [
+              {
+                "holder": "限缩适用说",
+                "basis": "冷静期仅适用于协议离婚，涉及家暴等情形可通过诉讼离婚"
+              },
+              {
+                "holder": "扩大适用说（部分观点）",
+                "basis": "冷静期应设例外，避免延长受害方脱离婚姻的时间"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "协议离婚",
+            "difference": "双方自愿并经登记"
+          },
+          {
+            "with": "诉讼离婚",
+            "difference": "由法院判决解除婚姻"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "分居满两年自动离婚",
+            "correction": "分居满两年是感情破裂的法定情形之一，仍需经法定程序"
+          },
+          {
+            "claim": "离婚时房产一律平分",
+            "correction": "应区分个人财产与共同财产，并照顾子女、女方和无过错方权益"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -1734,7 +1853,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -3494,6 +3613,42 @@
         "civil-guarantee",
         "civil-security",
         "civil-contract"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-debt-security-comparison",
+      "title": "债的保全与债的担保",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·债的效力与担保",
+      "definition": "债的保全与债的担保都是保障债权实现的法律工具，但性质不同：保全针对债务人责任财产的不当减少，担保则通过特定财产或第三人信用增强债权。",
+      "summary": "债的保全包括代位权与撤销权，属于债的一般效力；债的担保包括保证与担保物权，产生优先受偿权或第三人责任。",
+      "related": [
+        "civil-contract-preservation",
+        "civil-security",
+        "civil-guarantee"
       ],
       "sources": [
         "src-law-civil-code",

@@ -372,6 +372,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 34,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02采购救济、U03债的保全担保、U07删除权、U08国际金融法补强",
+        "权威大纲再对照：发现质疑投诉、保全担保比较、删除权、国际金融法缺口",
+        "深度缺口：西周、清末修律、物权法概论、离婚制度仍为 L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

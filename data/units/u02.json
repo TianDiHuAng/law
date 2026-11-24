@@ -2611,6 +2611,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-procurement-complaint",
+      "title": "政府采购质疑与投诉",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·政府采购救济",
+      "definition": "政府采购质疑与投诉是供应商对政府采购活动中的采购文件、采购过程、中标或成交结果有异议时，依法向采购人提出质疑、向财政部门投诉的救济制度。",
+      "summary": "供应商应在知道或应知其权益受到损害之日起法定期限内提出质疑；对质疑答复不满意或采购人未答复的，可向同级财政部门投诉。",
+      "related": [
+        "admin-government-procurement",
+        "admin-procurement-contract",
+        "admin-litigation"
+      ],
+      "sources": [
+        "src-gov-cn",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "政府采购法及其实施条例中质疑投诉的具体期限与程序需按现行文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

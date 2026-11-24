@@ -2347,6 +2347,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-financial-law",
+      "title": "国际金融法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际经济法·国际金融",
+      "definition": "国际金融法是调整跨国货币、信贷、证券、支付与金融监管关系的国际法规则，渊源包括国际货币基金组织协定、巴塞尔协议、支付与清算规则等。",
+      "summary": "国际金融法涉及汇率安排、跨境资本流动、银行审慎监管、反洗钱与金融稳定合作；多数监管标准属软法性质。",
+      "related": [
+        "intl-wto",
+        "intl-tax-cooperation",
+        "intl-sources"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "IMF 协定条文与巴塞尔框架最新版本需按官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
