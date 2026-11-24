@@ -3371,6 +3371,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-privity",
+      "title": "合同的相对性",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·合同效力范围",
+      "definition": "合同的相对性是指合同仅在当事人之间产生法律效力，原则上不对第三人产生约束力；第三人一般不享有合同权利、不承担合同义务。",
+      "summary": "合同相对性存在例外：为第三人利益的合同、第三人代为履行、买卖不破租赁、代位权与撤销权等，均体现对相对性的突破。",
+      "related": [
+        "civil-contract",
+        "civil-contract-preservation",
+        "civil-contract-termination"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

@@ -307,6 +307,19 @@
       "new_entries": 5,
       "upgrades": 3,
       "remaining_backlog": 8
+    },
+    {
+      "round": 29,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02政府采购合同、U03合同相对性、U07互联网金融、U08条约国内适用补强",
+        "权威大纲再对照：发现政府采购合同性质、合同相对性、互联网金融、条约国内适用缺口",
+        "深度缺口：财产保全、法院调解、受案范围、内幕交易仍为L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

@@ -2620,6 +2620,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-internet-finance",
+      "title": "互联网金融治理",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·金融科技",
+      "definition": "互联网金融治理是规范互联网支付、网络借贷、互联网保险、互联网基金销售等业态的监管制度，涉及准入、信息披露、消费者保护、数据安全与反洗钱。",
+      "summary": "互联网金融治理强调持牌经营、穿透式监管与功能监管，平台不得违规从事金融业务或为非法金融活动提供信息服务。",
+      "related": [
+        "data-platform-economy",
+        "data-cybercrime",
+        "com-securities"
+      ],
+      "sources": [
+        "src-law-network-security-2",
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "互联网金融监管规则与平台整改要求需按中国人民银行等监管部门官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

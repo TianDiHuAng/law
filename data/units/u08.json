@@ -2200,6 +2200,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-treaty-domestic",
+      "title": "国际条约在国内的适用",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·条约国内适用",
+      "definition": "国际条约在国内的适用是各国依宪法与法律规定，将条约义务转化为国内法或允许条约直接适用的制度安排。",
+      "summary": "中国宪法未统一规定条约的国内地位，实践中区分条约类型：民商事条约可依法直接适用，涉及主权与刑罚的条约一般需经立法转化。",
+      "related": [
+        "intl-treaty",
+        "intl-sources",
+        "intl-private"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-law-constitution",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "中国条约适用实践与相关法律规定需按外交部及全国人大官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

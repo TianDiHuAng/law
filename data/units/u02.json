@@ -2465,6 +2465,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-procurement-contract",
+      "title": "政府采购合同的法律性质",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·政府采购合同",
+      "definition": "政府采购合同是采购人与中标、成交供应商依照政府采购程序订立的合同，其法律性质在行政协议与民事合同之间存在讨论。",
+      "summary": "政府采购合同适用合同法的原则与规定，采购人与供应商的权利义务按照平等自愿原则约定；但采购人依法享有一定的管理性权力，需依政府采购法规定行使。",
+      "related": [
+        "admin-government-procurement",
+        "admin-administrative-agreement",
+        "civil-contract"
+      ],
+      "sources": [
+        "src-gov-cn",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "政府采购法关于合同性质与争议解决的条文需按现行文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

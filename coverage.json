@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 283,
+  "total": 287,
   "levels": {
     "L1": 145,
-    "L2": 135,
+    "L2": 139,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -70,37 +70,37 @@
       "title": "宪法与行政法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 30,
-          "合计": 30
+          "概念制度": 31,
+          "合计": 31
         }
       },
       "by_type": {
-        "概念制度": 30
+        "概念制度": 31
       },
       "cross": {
         "中国": {
-          "概念制度": 30
+          "概念制度": 31
         }
       },
-      "total": 30
+      "total": 31
     },
     "u03": {
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 46,
-          "合计": 46
+          "概念制度": 47,
+          "合计": 47
         }
       },
       "by_type": {
-        "概念制度": 46
+        "概念制度": 47
       },
       "cross": {
         "中国": {
-          "概念制度": 46
+          "概念制度": 47
         }
       },
-      "total": 46
+      "total": 47
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 47,
-          "合计": 47
+          "概念制度": 48,
+          "合计": 48
         }
       },
       "by_type": {
-        "概念制度": 47
+        "概念制度": 48
       },
       "cross": {
         "中国": {
-          "概念制度": 47
+          "概念制度": 48
         }
       },
-      "total": 47
+      "total": 48
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 27,
-          "合计": 27
+          "概念制度": 28,
+          "合计": 28
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 37
+        "概念制度": 38
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 27
+          "概念制度": 28
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 37
+      "total": 38
     },
     "u09": {
       "title": "经典案例",
@@ -1026,6 +1026,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "admin-procurement-contract",
+      "title": "政府采购合同的法律性质",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "政府采购法关于合同性质与争议解决的条文需按现行文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "civil-general",
       "title": "民法典总则编",
       "unit": "u03",
@@ -1670,6 +1684,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "civil-privity",
+      "title": "合同的相对性",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "crim-legality",
       "title": "罪刑法定原则",
       "unit": "u04",
@@ -2137,7 +2165,7 @@
       "unit": "u05",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2165,7 +2193,7 @@
       "unit": "u05",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2179,7 +2207,7 @@
       "unit": "u05",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2347,7 +2375,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -3196,6 +3224,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "data-internet-finance",
+      "title": "互联网金融治理",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "互联网金融监管规则与平台整改要求需按中国人民银行等监管部门官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -3711,6 +3753,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "各类协助的条约依据与操作程序需按外交部、司法部官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-treaty-domestic",
+      "title": "国际条约在国内的适用",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "中国条约适用实践与相关法律规定需按外交部及全国人大官方资料核对。",
       "last_updated": "2026-11-24"
     },
     {
