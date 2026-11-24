@@ -2604,6 +2604,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-award-setting-aside",
+      "title": "国际仲裁裁决的撤销与不予执行",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际私法·国际仲裁监督",
+      "definition": "国际仲裁裁决的撤销与不予执行是法院依当事人申请，对存在法定瑕疵的仲裁裁决进行司法监督的制度。",
+      "summary": "《纽约公约》确立不予承认与执行的有限事由，包括仲裁协议无效、程序不当、超裁、裁决未生效或被撤销等；撤销通常由仲裁地法院管辖。",
+      "related": [
+        "intl-commercial-arbitration",
+        "proc-arbitration",
+        "intl-investment-arbitration"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "《纽约公约》第五条各款的具体适用需按联合国与各国法院判例核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

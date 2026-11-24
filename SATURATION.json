@@ -489,6 +489,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 43,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02高权行为、U03清偿抵充、U07数据要素、U08仲裁监督补强",
+        "权威大纲再对照：发现高权行为、清偿抵充、数据要素市场、仲裁裁决监督缺口",
+        "深度缺口：政府采购合同/质疑投诉、PIA、敏感个人信息仍为 L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

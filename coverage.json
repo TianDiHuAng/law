@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 327,
+  "total": 331,
   "levels": {
     "L1": 138,
-    "L2": 186,
+    "L2": 190,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -70,37 +70,37 @@
       "title": "宪法与行政法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 40,
-          "合计": 40
+          "概念制度": 41,
+          "合计": 41
         }
       },
       "by_type": {
-        "概念制度": 40
+        "概念制度": 41
       },
       "cross": {
         "中国": {
-          "概念制度": 40
+          "概念制度": 41
         }
       },
-      "total": 40
+      "total": 41
     },
     "u03": {
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 57,
-          "合计": 57
+          "概念制度": 58,
+          "合计": 58
         }
       },
       "by_type": {
-        "概念制度": 57
+        "概念制度": 58
       },
       "cross": {
         "中国": {
-          "概念制度": 57
+          "概念制度": 58
         }
       },
-      "total": 57
+      "total": 58
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 57,
-          "合计": 57
+          "概念制度": 58,
+          "合计": 58
         }
       },
       "by_type": {
-        "概念制度": 57
+        "概念制度": 58
       },
       "cross": {
         "中国": {
-          "概念制度": 57
+          "概念制度": 58
         }
       },
-      "total": 57
+      "total": 58
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 38,
-          "合计": 38
+          "概念制度": 39,
+          "合计": 39
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 48
+        "概念制度": 49
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 38
+          "概念制度": 39
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 48
+      "total": 49
     },
     "u09": {
       "title": "经典案例",
@@ -1031,7 +1031,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1087,7 +1087,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1163,6 +1163,20 @@
       "verified_source_count": 2,
       "unverified_count": 1,
       "pending_notes": "行政调解的适用范围与程序缺乏统一立法，需按各部门法规定核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "admin-high-power-act",
+      "title": "行政协议中的高权行为",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "行政机关优益权的具体范围与补偿标准需按司法解释与实务案例核对。",
       "last_updated": "2026-11-24"
     },
     {
@@ -1952,6 +1966,20 @@
     {
       "id": "civil-confusion",
       "title": "混同",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-performance-appropriation",
+      "title": "清偿抵充",
       "unit": "u03",
       "type": "概念制度",
       "importance": "补充",
@@ -3187,7 +3215,7 @@
       "unit": "u07",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -3341,7 +3369,7 @@
       "unit": "u07",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -3655,6 +3683,20 @@
       "verified_source_count": 2,
       "unverified_count": 1,
       "pending_notes": "财政部《企业数据资源相关会计处理暂行规定》的具体适用需按官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "data-factor-market",
+      "title": "数据要素市场",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "数据要素市场化配置改革文件与数据产权登记规则需按国家数据局官方文本核对。",
       "last_updated": "2026-11-24"
     },
     {
@@ -4327,6 +4369,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "世界银行与亚投行等机构的具体融资政策需按各机构官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-award-setting-aside",
+      "title": "国际仲裁裁决的撤销与不予执行",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "《纽约公约》第五条各款的具体适用需按联合国与各国法院判例核对。",
       "last_updated": "2026-11-24"
     },
     {
