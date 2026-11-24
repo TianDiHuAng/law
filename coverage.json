@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 258,
+  "total": 262,
   "levels": {
     "L1": 146,
-    "L2": 109,
+    "L2": 113,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -70,19 +70,19 @@
       "title": "宪法与行政法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 27,
-          "合计": 27
+          "概念制度": 28,
+          "合计": 28
         }
       },
       "by_type": {
-        "概念制度": 27
+        "概念制度": 28
       },
       "cross": {
         "中国": {
-          "概念制度": 27
+          "概念制度": 28
         }
       },
-      "total": 27
+      "total": 28
     },
     "u03": {
       "title": "民法",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 36,
-          "合计": 36
+          "概念制度": 38,
+          "合计": 38
         }
       },
       "by_type": {
-        "概念制度": 36
+        "概念制度": 38
       },
       "cross": {
         "中国": {
-          "概念制度": 36
+          "概念制度": 38
         }
       },
-      "total": 36
+      "total": 38
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 21,
-          "合计": 21
+          "概念制度": 22,
+          "合计": 22
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 31
+        "概念制度": 32
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 21
+          "概念制度": 22
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 31
+      "total": 32
     },
     "u09": {
       "title": "经典案例",
@@ -981,6 +981,20 @@
       "verified_source_count": 2,
       "unverified_count": 1,
       "pending_notes": "行政确认的具体类型与救济途径需按各专门法律、法规核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "admin-public-health-emergency",
+      "title": "突发公共卫生事件应急",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "突发事件应对法、突发公共卫生事件应急条例的具体条文与最新修订需按官方文本核对。",
       "last_updated": "2026-11-24"
     },
     {
@@ -1801,7 +1815,7 @@
       "unit": "u04",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -1843,7 +1857,7 @@
       "unit": "u04",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -1857,7 +1871,7 @@
       "unit": "u04",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2165,7 +2179,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2930,6 +2944,34 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "env-nuclear-safety",
+      "title": "核安全",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "核安全法及配套核安全规章需按国家核安全局官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "data-cybercrime",
+      "title": "网络犯罪",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "网络犯罪罪名与司法解释的最新变化需按刑法修正案及两高解释核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -3361,6 +3403,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "中国缔结的刑事司法协助条约与引渡条约清单需按外交部官方资料核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-humanitarian-law",
+      "title": "国际人道法",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "日内瓦四公约及附加议定书的具体条文与批准情况需按红十字国际委员会官方资料核对。",
       "last_updated": "2026-11-24"
     },
     {

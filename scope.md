@@ -49,7 +49,7 @@
 | theory-natural-positive | 自然法与实证法 | 概念制度 | 补充 | A、C | 西方 |
 | theory-legal-norm | 法律规范 | 概念制度 | 补充 | A、C | 中国 |
 
-### U02 宪法与行政法（27 条）
+### U02 宪法与行政法（28 条）
 
 国家权力结构、基本权利与行政法治
 
@@ -82,6 +82,7 @@
 | admin-administrative-adjudication | 行政裁决 | 概念制度 | 补充 | A、C | 中国 |
 | admin-government-procurement | 政府采购 | 概念制度 | 重要 | A、C | 中国 |
 | admin-administrative-confirmation | 行政确认 | 概念制度 | 补充 | A、C | 中国 |
+| admin-public-health-emergency | 突发公共卫生事件应急 | 概念制度 | 重要 | A、C | 中国 |
 
 ### U03 民法（42 条）
 
@@ -214,7 +215,7 @@
 | com-bill-defense | 票据抗辩与追索 | 概念制度 | 重要 | A、C | 中国 |
 | com-bankruptcy-avoidance | 破产撤销权 | 概念制度 | 重要 | A、C | 中国 |
 
-### U07 知识产权、环境与数据法（36 条）
+### U07 知识产权、环境与数据法（38 条）
 
 创新保护、生态治理与数字规则
 
@@ -256,8 +257,10 @@
 | env-wetland | 湿地保护 | 概念制度 | 补充 | A、C | 中国 |
 | data-pia | 个人信息保护影响评估 | 概念制度 | 重要 | A、C | 中国 |
 | env-biodiversity | 生物多样性保护 | 概念制度 | 补充 | A、C | 中国 |
+| env-nuclear-safety | 核安全 | 概念制度 | 补充 | A、C | 中国 |
+| data-cybercrime | 网络犯罪 | 概念制度 | 重要 | A、C | 中国 |
 
-### U08 比较法与国际法（31 条）
+### U08 比较法与国际法（32 条）
 
 普通法、大陆法、欧盟法与国际规则
 
@@ -294,6 +297,7 @@
 | intl-commercial-arbitration | 国际商事仲裁 | 概念制度 | 补充 | A、C | 国际 |
 | intl-investment-arbitration | 国际投资仲裁 | 概念制度 | 补充 | A、C | 国际 |
 | intl-judicial-assistance | 国际刑事司法协助 | 概念制度 | 补充 | A、C | 国际 |
+| intl-humanitarian-law | 国际人道法 | 概念制度 | 补充 | A、C | 国际 |
 
 ### U09 经典案例（20 条）
 
@@ -365,6 +369,6 @@
 
 ## 五、覆盖统计
 
-- 总条目：258
-- L1：146；L2：109；L3：3
+- 总条目：262
+- L1：146；L2：113；L3：3
 - 核心条目全部达到 L2 及以上的单元：10/11

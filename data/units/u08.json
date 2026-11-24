@@ -1978,6 +1978,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-humanitarian-law",
+      "title": "国际人道法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·国际人道法",
+      "definition": "国际人道法是武装冲突期间保护不参加或不再参加敌对行动的人员及限制作战手段和方法的国际法规则，核心渊源为1949年日内瓦四公约及其附加议定书。",
+      "summary": "国际人道法确立区分原则、比例原则、军事必要原则与预防措施义务，禁止攻击平民、虐待战俘和使用某些武器。",
+      "related": [
+        "intl-human-rights",
+        "intl-international-criminal",
+        "intl-sources"
+      ],
+      "sources": [
+        "src-un-charter",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "日内瓦四公约及附加议定书的具体条文与批准情况需按红十字国际委员会官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

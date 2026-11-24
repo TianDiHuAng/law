@@ -2220,6 +2220,79 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "env-nuclear-safety",
+      "title": "核安全",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "环境法·核安全",
+      "definition": "核安全是核设施、核材料与放射性废物管理中，为保护公众健康和环境，防止核事故与辐射危害而建立的许可、监督、应急与责任制度。",
+      "summary": "核安全法确立核设施营运单位主体责任、核安全许可、核安全监督、核事故应急与信息公开等制度。",
+      "related": [
+        "env-law",
+        "env-pollution",
+        "env-eia"
+      ],
+      "sources": [
+        "src-law-environment",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "核安全法及配套核安全规章需按国家核安全局官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-cybercrime",
+      "title": "网络犯罪",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "数据法·网络犯罪",
+      "definition": "网络犯罪是利用计算机网络实施的犯罪，包括非法侵入计算机信息系统、破坏计算机信息系统、网络诈骗、侵犯公民个人信息、帮助信息网络犯罪活动等。",
+      "summary": "中国刑法与网络安全法、数据安全法、个人信息保护法共同构成网络犯罪治理的法律框架；网络服务提供者负有安全管理义务。",
+      "related": [
+        "data-network",
+        "crim-constitution",
+        "data-personal"
+      ],
+      "sources": [
+        "src-law-network-security-2",
+        "src-law-criminal",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "网络犯罪罪名与司法解释的最新变化需按刑法修正案及两高解释核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

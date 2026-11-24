@@ -216,6 +216,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 22,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02应急、U07核安全/网络犯罪、U08人道法补强",
+        "权威大纲再对照：发现突发公共卫生应急、核安全、网络犯罪、国际人道法缺口",
+        "深度缺口：审查起诉、认罪认罚、死刑复核、公司清算仍为L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }
