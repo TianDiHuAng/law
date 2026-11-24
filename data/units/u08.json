@@ -2311,6 +2311,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-tax-cooperation",
+      "title": "国际税务合作",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际经济法·国际税法",
+      "definition": "国际税务合作是国家之间通过税收协定、情报交换、征管互助与 BEPS 多边公约等机制，协调税权分配、防止双重征税与打击逃避税的制度。",
+      "summary": "国际税务合作以税收协定网络与多边公约为基础，涉及常设机构、受益所有人、转让定价与情报交换等规则。",
+      "related": [
+        "intl-wto",
+        "intl-treaty",
+        "intl-development-law"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "中国税收协定网络与 BEPS 多边公约适用情况需按国家税务总局官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

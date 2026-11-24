@@ -2811,6 +2811,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "env-ecological-product-value",
+      "title": "生态产品价值实现",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "环境法·生态补偿",
+      "definition": "生态产品价值实现是通过生态补偿、生态产业化经营、生态资源权益交易等机制，将生态系统提供的产品与服务转化为经济价值的制度安排。",
+      "summary": "生态产品价值实现包括政府主导的转移支付与市场化的生态产品交易两条路径，需建立价值核算、经营开发与保护补偿相衔接的机制。",
+      "related": [
+        "env-ecological",
+        "env-ecological-redline",
+        "env-carbon-market"
+      ],
+      "sources": [
+        "src-law-environment",
+        "src-law-yangtze",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "生态产品价值核算规范与地方试点政策需按国家发展改革委等官方文件核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

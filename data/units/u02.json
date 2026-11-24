@@ -2574,6 +2574,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-enforcement-procedure",
+      "title": "行政强制执行程序",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政强制执行",
+      "definition": "行政强制执行程序是行政机关依法定步骤强制当事人履行已生效行政决定所确定义务的过程，通常包括催告、作出强制执行决定、实施执行与执行终结。",
+      "summary": "行政机关作出强制执行决定前应事先催告当事人履行义务，当事人有权陈述申辩；执行中可与当事人达成执行协议，当事人不履行协议时恢复强制执行。",
+      "related": [
+        "admin-coercion",
+        "admin-penalty",
+        "admin-litigation"
+      ],
+      "sources": [
+        "src-law-admin-penalty",
+        "src-law-admin-litigation",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

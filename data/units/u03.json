@@ -3480,6 +3480,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-guarantee-modes",
+      "title": "保证方式与先诉抗辩权",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·保证合同",
+      "definition": "保证方式分为一般保证与连带责任保证。一般保证的保证人享有先诉抗辩权，即债权人须先就债务人财产强制执行无效果后，才能请求保证人承担责任。",
+      "summary": "保证方式没有约定或者约定不明确的，按照一般保证承担保证责任；连带责任保证的保证人不享有先诉抗辩权。",
+      "related": [
+        "civil-guarantee",
+        "civil-security",
+        "civil-contract"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
