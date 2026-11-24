@@ -320,6 +320,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 30,
+      "date": "2026-11-24",
+      "methods": [
+        "体检：死链0、过期0、重复0、孤儿0、近重复0",
+        "待核实清单：复核9案例与32未核验来源",
+        "深度缺口：信托法、数据安全法、网络安全法仍为L1"
+      ],
+      "gaps_found": 3,
+      "new_entries": 0,
+      "upgrades": 3,
+      "remaining_backlog": 8
     }
   ]
 }
