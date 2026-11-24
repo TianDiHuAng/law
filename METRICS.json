@@ -144,6 +144,24 @@
         "L3": 3
       },
       "notes": "R13：新增敏感个人信息、姓名权、固体废物污染环境防治、国际刑事法院；升级票据法、民事诉讼基本原则、民事诉讼当事人、国际海洋争端解决至 L2。"
+    },
+    {
+      "round": 14,
+      "date": "2026-11-24",
+      "new_entries": 4,
+      "upgrades": 4,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 81,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 238,
+      "levels": {
+        "L1": 152,
+        "L2": 83,
+        "L3": 3
+      },
+      "notes": "R14：新增大气污染防治、网络安全审查、国际法院、行政许可法导读；升级行政协议、居住权、保证合同、合伙企业法至 L2。"
     }
   ]
 }

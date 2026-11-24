@@ -1579,6 +1579,103 @@
       "status": "L1",
       "legal_status": "现行有效",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "law-administrative-license",
+      "title": "《中华人民共和国行政许可法》导读",
+      "type": "law",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "2019年修正，2019年4月23日公布",
+      "definition": "行政许可法规定行政许可的设定、实施机关、实施程序、收费、监督检查与法律责任。",
+      "summary": "行政许可法确立许可法定、公开公平公正、便民高效、信赖保护等原则，规范行政许可的设定与实施。",
+      "related": [
+        "admin-license",
+        "admin-principles",
+        "admin-litigation"
+      ],
+      "sources": [
+        "src-law-admin-license",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "2019年修正后条文序号与配套规定需按官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": {
+        "status": "现行有效",
+        "version": "2019年修正",
+        "effective_date": "2019-04-23",
+        "checked_date": "2026-11-24",
+        "background": "行政许可法2003年制定，2019年修正适应放管服改革与优化营商环境需要，规范行政许可行为。",
+        "structure": [
+          {
+            "name": "第一章 总则",
+            "content": "立法目的、许可法定、公开公平公正、便民高效"
+          },
+          {
+            "name": "第二章 行政许可的设定",
+            "content": "设定权限、设定事项、设定程序"
+          },
+          {
+            "name": "第三章 行政许可的实施机关",
+            "content": "实施主体、相对集中许可权"
+          },
+          {
+            "name": "第四章 行政许可的实施程序",
+            "content": "申请、受理、审查、决定、期限、听证"
+          },
+          {
+            "name": "第五章 行政许可的费用",
+            "content": "收费规则"
+          },
+          {
+            "name": "第六章 监督检查",
+            "content": "监督与被许可人义务"
+          },
+          {
+            "name": "第七章 法律责任",
+            "content": "违法许可与法律责任"
+          },
+          {
+            "name": "第八章 附则",
+            "content": "施行日期"
+          }
+        ],
+        "key_articles": [
+          {
+            "article": "第二条",
+            "content": "本法所称行政许可，是指行政机关根据公民、法人或者其他组织的申请，经依法审查，准予其从事特定活动的行为。"
+          },
+          {
+            "article": "第五条",
+            "content": "设定和实施行政许可，应当遵循公开、公平、公正、非歧视的原则。"
+          },
+          {
+            "article": "第八条",
+            "content": "公民、法人或者其他组织依法取得的行政许可受法律保护，行政机关不得擅自改变已经生效的行政许可。"
+          }
+        ],
+        "amendments": [
+          "2003年制定",
+          "2019年修正"
+        ],
+        "interpretations": [
+          "行政许可法配套规章与国务院决定，具体以官方现行文本为准。"
+        ]
+      },
+      "flow": null,
+      "year": null,
+      "unit_id": "u10",
+      "unit_title": "法律文本导读",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "国家法律法规数据库法律分类"
+      ],
+      "status": "L1",
+      "legal_status": "现行有效",
+      "checked_date": "2026-11-24"
     }
   ]
 }

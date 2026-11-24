@@ -112,6 +112,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 14,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U07环境/数据、U08国际法继续补强",
+        "权威大纲再对照：发现大气污染防治、网络安全审查、国际法院、行政许可法导读缺口",
+        "深度缺口：行政协议、居住权、保证合同、合伙企业法仍为L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

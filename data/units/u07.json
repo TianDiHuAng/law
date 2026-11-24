@@ -1587,6 +1587,79 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "env-air-pollution",
+      "title": "大气污染防治",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "环境法·大气污染",
+      "definition": "大气污染防治是规范大气污染物排放、改善大气环境质量、保护公众健康的制度，坚持源头治理、协同控制、重点区域联防联控。",
+      "summary": "大气污染防治法规定排污许可、总量控制、重污染天气应对、机动车与非道路移动机械排放控制等制度。",
+      "related": [
+        "env-law",
+        "env-pollution",
+        "env-eia"
+      ],
+      "sources": [
+        "src-law-environment",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "大气污染防治法及地方实施条例需按生态环境部现行文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-cybersecurity-review",
+      "title": "网络安全审查",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "数据法·网络安全",
+      "definition": "网络安全审查是对关键信息基础设施运营者采购网络产品和服务、数据处理者开展数据处理活动等影响国家安全的情形进行审查的制度。",
+      "summary": "网络安全审查重点评估产品和服务的安全性、可控性，以及数据处理活动对国家安全的影响；具体程序以国家网信部门规定为准。",
+      "related": [
+        "data-network",
+        "data-critical-infrastructure",
+        "data-security"
+      ],
+      "sources": [
+        "src-law-network-security-2",
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "网络安全审查办法及申报指南需按国家网信办官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

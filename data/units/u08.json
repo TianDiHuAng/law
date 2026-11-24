@@ -1522,6 +1522,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-icj",
+      "title": "国际法院",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·国际司法",
+      "definition": "国际法院是联合国的主要司法机关，依《国际法院规约》审理国家之间的法律争端，并应联合国机关请求提供咨询意见。",
+      "summary": "国际法院只受理国家之间的诉讼，个人和非国家实体不能作为诉讼当事方；法院管辖权须基于当事国同意、条约或任择强制管辖声明。",
+      "related": [
+        "intl-sources",
+        "intl-treaty",
+        "intl-organization-law"
+      ],
+      "sources": [
+        "src-icj",
+        "src-un-charter",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "国际法院管辖权声明与案例需按国际法院官网核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
