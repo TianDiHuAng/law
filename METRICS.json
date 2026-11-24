@@ -363,6 +363,24 @@
         "L3": 3
       },
       "notes": "R25 体检轮：死链0、超期0、重复0、孤儿0、近重复0；复核9案例+32未核验来源；升级占有、网络侵权、过错责任至L2。"
+    },
+    {
+      "round": 26,
+      "date": "2026-11-24",
+      "new_entries": 4,
+      "upgrades": 4,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 110,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 274,
+      "levels": {
+        "L1": 143,
+        "L2": 128,
+        "L3": 3
+      },
+      "notes": "R26：新增夫妻共同债务、气候适应、数据治理、国际水道法；升级中国宪法发展史、合宪性审查、国家机构、民族区域自治制度至 L2。"
     }
   ]
 }

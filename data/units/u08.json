@@ -2089,6 +2089,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-international-watercourses",
+      "title": "国际水道法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·国际水道",
+      "definition": "国际水道法是规范跨国河流、湖泊等国际水道利用与保护的规则，核心原则包括公平合理利用、不造成重大损害、合作与通知协商。",
+      "summary": "1997年《国际水道非航行使用法公约》是重要渊源，但尚未普遍生效；相关规则也体现在双边条约与习惯法中。",
+      "related": [
+        "intl-sources",
+        "intl-treaty",
+        "env-water-pollution"
+      ],
+      "sources": [
+        "src-un-charter",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "《国际水道非航行使用法公约》生效状态与相关条约需按联合国资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

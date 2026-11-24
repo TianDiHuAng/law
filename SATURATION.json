@@ -268,6 +268,19 @@
       "new_entries": 0,
       "upgrades": 3,
       "remaining_backlog": 8
+    },
+    {
+      "round": 26,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U03婚姻债务、U07气候/数据治理、U08国际水道补强",
+        "权威大纲再对照：发现夫妻共同债务、气候适应、数据治理、国际水道法缺口",
+        "深度缺口：宪法史、合宪性审查、国家机构、民族区域自治仍为L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

@@ -2439,6 +2439,78 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "env-climate-adaptation",
+      "title": "气候适应",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "环境法·气候变化",
+      "definition": "气候适应是通过调整自然系统与人类活动，降低气候变化不利影响和风险的制度与行动，包括基础设施韧性、农业适应、水资源管理、公共卫生与灾害风险管理。",
+      "summary": "气候适应与减缓并重，国家通过适应气候变化战略、规划与地方行动提升气候韧性；具体政策以国家发展改革委、生态环境部等官方文件为准。",
+      "related": [
+        "env-climate",
+        "env-ecological",
+        "admin-public-health-emergency"
+      ],
+      "sources": [
+        "src-law-environment",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "国家适应气候变化战略与地方实施方案需按官方最新文件核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-data-governance",
+      "title": "数据治理",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·数据治理",
+      "definition": "数据治理是围绕数据质量、数据安全、数据流通与数据价值实现而建立的制度、组织与技术措施的总称。",
+      "summary": "数据治理包括数据分类分级、质量管理、安全管理、权限控制、生命周期管理与合规审计；企业应建立数据治理组织与制度。",
+      "related": [
+        "data-security",
+        "data-classification",
+        "data-important-data"
+      ],
+      "sources": [
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "数据治理相关国家标准与行业规范需按全国信标委/行业主管部门文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

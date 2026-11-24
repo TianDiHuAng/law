@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 270,
+  "total": 274,
   "levels": {
     "L1": 143,
-    "L2": 124,
+    "L2": 128,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -88,19 +88,19 @@
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 43,
-          "合计": 43
+          "概念制度": 44,
+          "合计": 44
         }
       },
       "by_type": {
-        "概念制度": 43
+        "概念制度": 44
       },
       "cross": {
         "中国": {
-          "概念制度": 43
+          "概念制度": 44
         }
       },
-      "total": 43
+      "total": 44
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 42,
-          "合计": 42
+          "概念制度": 44,
+          "合计": 44
         }
       },
       "by_type": {
-        "概念制度": 42
+        "概念制度": 44
       },
       "cross": {
         "中国": {
-          "概念制度": 42
+          "概念制度": 44
         }
       },
-      "total": 42
+      "total": 44
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 24,
-          "合计": 24
+          "概念制度": 25,
+          "合计": 25
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 34
+        "概念制度": 35
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 24
+          "概念制度": 25
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 34
+      "total": 35
     },
     "u09": {
       "title": "经典案例",
@@ -625,7 +625,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -681,7 +681,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -695,7 +695,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -709,7 +709,7 @@
       "unit": "u02",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -1595,6 +1595,20 @@
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-marital-debt",
+      "title": "夫妻共同债务",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
       "unverified_count": 0,
       "pending_notes": "",
       "last_updated": "2026-11-24"
@@ -3056,6 +3070,34 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "env-climate-adaptation",
+      "title": "气候适应",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "国家适应气候变化战略与地方实施方案需按官方最新文件核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "data-data-governance",
+      "title": "数据治理",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "数据治理相关国家标准与行业规范需按全国信标委/行业主管部门文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -3529,6 +3571,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "联合国安理会制裁清单与各国单边制裁措施需按联合国及各国官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-international-watercourses",
+      "title": "国际水道法",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "《国际水道非航行使用法公约》生效状态与相关条约需按联合国资料核对。",
       "last_updated": "2026-11-24"
     },
     {
