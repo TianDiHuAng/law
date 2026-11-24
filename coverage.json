@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 230,
+  "total": 234,
   "levels": {
     "L1": 152,
-    "L2": 75,
+    "L2": 79,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -88,19 +88,19 @@
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 37,
-          "合计": 37
+          "概念制度": 38,
+          "合计": 38
         }
       },
       "by_type": {
-        "概念制度": 37
+        "概念制度": 38
       },
       "cross": {
         "中国": {
-          "概念制度": 37
+          "概念制度": 38
         }
       },
-      "total": 37
+      "total": 38
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 23,
-          "合计": 23
+          "概念制度": 25,
+          "合计": 25
         }
       },
       "by_type": {
-        "概念制度": 23
+        "概念制度": 25
       },
       "cross": {
         "中国": {
-          "概念制度": 23
+          "概念制度": 25
         }
       },
-      "total": 23
+      "total": 25
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 14,
-          "合计": 14
+          "概念制度": 15,
+          "合计": 15
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 24
+        "概念制度": 25
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 14
+          "概念制度": 15
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 24
+      "total": 25
     },
     "u09": {
       "title": "经典案例",
@@ -1474,6 +1474,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "civil-name",
+      "title": "姓名权",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "crim-legality",
       "title": "罪刑法定原则",
       "unit": "u04",
@@ -1829,7 +1843,7 @@
       "unit": "u05",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -1857,7 +1871,7 @@
       "unit": "u05",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2081,7 +2095,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2650,6 +2664,34 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "data-sensitive-personal",
+      "title": "敏感个人信息",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "敏感个人信息的具体范围与单独同意规则需按个人信息保护法及配套规定核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "env-solid-waste",
+      "title": "固体废物污染环境防治",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "固体废物污染环境防治法及危险废物名录需按生态环境部现行文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -2935,7 +2977,7 @@
       "unit": "u08",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2983,6 +3025,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "《维也纳外交关系公约》具体条文与各国实践需按联合国条约集核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-icc",
+      "title": "国际刑事法院",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "《罗马规约》缔约国范围、补充性原则与法院案例需按国际刑事法院官方资料核对。",
       "last_updated": "2026-11-24"
     },
     {

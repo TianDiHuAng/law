@@ -1515,6 +1515,78 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-sensitive-personal",
+      "title": "敏感个人信息",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "数据法·个人信息保护",
+      "definition": "敏感个人信息是一旦泄露或者非法使用，容易导致自然人的人格尊严受到侵害或者人身、财产安全受到危害的个人信息，包括生物识别、宗教信仰、特定身份、医疗健康、金融账户、行踪轨迹等信息，以及不满十四周岁未成年人的个人信息。",
+      "summary": "处理敏感个人信息应具有特定目的和充分必要性，取得个人单独同意，并履行告知与保护义务；法律、行政法规另有规定的除外。",
+      "related": [
+        "data-personal",
+        "data-automated-decision",
+        "civil-privacy"
+      ],
+      "sources": [
+        "src-law-personal-info-2",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "敏感个人信息的具体范围与单独同意规则需按个人信息保护法及配套规定核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "env-solid-waste",
+      "title": "固体废物污染环境防治",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "环境法·固体废物",
+      "definition": "固体废物污染环境防治是规范固体废物产生、收集、贮存、运输、利用、处置，防止其污染环境的制度，坚持减量化、资源化、无害化原则。",
+      "summary": "固体废物包括工业固体废物、生活垃圾、建筑垃圾、农业固体废物、危险废物等；危险废物实行经营许可与转移联单制度。",
+      "related": [
+        "env-law",
+        "env-pollution",
+        "env-soil-pollution"
+      ],
+      "sources": [
+        "src-law-environment",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "固体废物污染环境防治法及危险废物名录需按生态环境部现行文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

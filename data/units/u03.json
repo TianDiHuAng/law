@@ -2269,6 +2269,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-name",
+      "title": "姓名权",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·人格权",
+      "definition": "姓名权是自然人依法决定、使用、变更或者许可他人使用自己姓名的权利，禁止他人干涉、盗用、假冒。",
+      "summary": "姓名权是人格权的重要组成部分；自然人选取姓氏应依法进行，具有正当理由的可选取其他姓氏。",
+      "related": [
+        "civil-personality",
+        "civil-privacy",
+        "ip-trademark"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

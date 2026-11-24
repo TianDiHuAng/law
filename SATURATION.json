@@ -99,6 +99,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 13,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U07数据法、U08国际法继续扩展",
+        "权威大纲再对照：发现敏感个人信息、姓名权、固废防治、国际刑事法院缺口",
+        "深度缺口：票据法、民诉基本原则/当事人、海洋争端解决仍为L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

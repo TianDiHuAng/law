@@ -126,6 +126,24 @@
         "L3": 3
       },
       "notes": "R12：新增自动化决策、土壤污染防治、外交关系法、收养制度；升级数据出境规则、算法治理、证券法、WTO规则至 L2。"
+    },
+    {
+      "round": 13,
+      "date": "2026-11-24",
+      "new_entries": 4,
+      "upgrades": 4,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 78,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 234,
+      "levels": {
+        "L1": 152,
+        "L2": 79,
+        "L3": 3
+      },
+      "notes": "R13：新增敏感个人信息、姓名权、固体废物污染环境防治、国际刑事法院；升级票据法、民事诉讼基本原则、民事诉讼当事人、国际海洋争端解决至 L2。"
     }
   ]
 }

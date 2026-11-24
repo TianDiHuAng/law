@@ -81,7 +81,7 @@
 | admin-hearing | 行政听证 | 概念制度 | 重要 | A、C | 中国 |
 | admin-administrative-adjudication | 行政裁决 | 概念制度 | 补充 | A、C | 中国 |
 
-### U03 民法（37 条）
+### U03 民法（38 条）
 
 民法典体系与民事权利义务
 
@@ -124,6 +124,7 @@
 | civil-construction-contract | 建设工程合同 | 概念制度 | 重要 | A、C | 中国 |
 | civil-legacy-support | 遗赠扶养协议 | 概念制度 | 重要 | A、C | 中国 |
 | civil-adoption | 收养制度 | 概念制度 | 重要 | A、C | 中国 |
+| civil-name | 姓名权 | 概念制度 | 重要 | A、C | 中国 |
 
 ### U04 刑法与刑事程序（25 条）
 
@@ -207,7 +208,7 @@
 | com-bill-defense | 票据抗辩与追索 | 概念制度 | 重要 | A、C | 中国 |
 | com-bankruptcy-avoidance | 破产撤销权 | 概念制度 | 重要 | A、C | 中国 |
 
-### U07 知识产权、环境与数据法（23 条）
+### U07 知识产权、环境与数据法（25 条）
 
 创新保护、生态治理与数字规则
 
@@ -236,8 +237,10 @@
 | data-classification | 数据分类分级 | 概念制度 | 重要 | A、C | 中国 |
 | data-automated-decision | 自动化决策 | 概念制度 | 重要 | A、C | 中国 |
 | env-soil-pollution | 土壤污染防治 | 概念制度 | 重要 | A、C | 中国 |
+| data-sensitive-personal | 敏感个人信息 | 概念制度 | 重要 | A、C | 中国 |
+| env-solid-waste | 固体废物污染环境防治 | 概念制度 | 补充 | A、C | 中国 |
 
-### U08 比较法与国际法（24 条）
+### U08 比较法与国际法（25 条）
 
 普通法、大陆法、欧盟法与国际规则
 
@@ -267,6 +270,7 @@
 | intl-wto-dispute | WTO争端解决 | 概念制度 | 重要 | A、C | 国际 |
 | intl-human-rights-treaties | 国际人权公约体系 | 概念制度 | 重要 | A、C | 国际 |
 | intl-diplomatic-law | 外交关系法 | 概念制度 | 补充 | A、C | 国际 |
+| intl-icc | 国际刑事法院 | 概念制度 | 补充 | A、C | 国际 |
 
 ### U09 经典案例（20 条）
 
@@ -337,6 +341,6 @@
 
 ## 五、覆盖统计
 
-- 总条目：230
-- L1：152；L2：75；L3：3
+- 总条目：234
+- L1：152；L2：79；L3：3
 - 核心条目全部达到 L2 及以上的单元：10/11
