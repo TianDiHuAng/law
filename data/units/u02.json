@@ -3481,6 +3481,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-inspection",
+      "title": "行政检查",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政检查",
+      "definition": "行政检查是行政机关依法对公民、法人或其他组织遵守法律、法规和行政决定情况进行了解、核查的行政行为，常见于市场监管、安全生产与环境保护领域。",
+      "summary": "行政检查应依法定权限与程序进行，推行双随机一公开与信用分级分类监管；检查结果可作为后续处罚与信用监管的依据。",
+      "related": [
+        "admin-investigation",
+        "admin-penalty",
+        "admin-principles"
+      ],
+      "sources": [
+        "src-law-admin-penalty",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "各类行政检查的具体规则分散于部门法，缺乏统一行政检查法。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
