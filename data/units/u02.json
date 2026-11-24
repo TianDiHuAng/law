@@ -2501,6 +2501,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-reconsideration-prerequisite",
+      "title": "行政复议前置",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政复议",
+      "definition": "行政复议前置是法律规定当事人对特定行政行为不服，必须先申请行政复议，对复议决定不服或复议机关逾期不作决定的，才能向人民法院提起行政诉讼的制度。",
+      "summary": "2023年修订的行政复议法扩大了复议前置范围，将当场作出的行政处罚、行政机关不履行法定职责、政府信息公开等情形纳入前置。",
+      "related": [
+        "admin-reconsideration",
+        "admin-litigation",
+        "proc-admin-litigation"
+      ],
+      "sources": [
+        "src-law-admin-reconsideration",
+        "src-law-admin-litigation",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

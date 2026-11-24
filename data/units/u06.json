@@ -1644,7 +1644,65 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国劳动争议调解仲裁法》（版本：2007年通过，2008年5月1日施行，核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "协商",
+          "调解",
+          "仲裁",
+          "诉讼"
+        ],
+        "conditions": [
+          "属于劳动争议受案范围",
+          "当事人适格",
+          "在法定时效内提出"
+        ],
+        "effects": [
+          "仲裁裁决对部分事项为终局裁决",
+          "不服裁决可依法起诉",
+          "调解协议可申请仲裁审查或司法确认"
+        ],
+        "exceptions": [
+          "劳动争议仲裁不收费",
+          "追索劳动报酬等案件可先予执行"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "仲裁前置是否妨碍救济效率",
+            "views": [
+              {
+                "holder": "前置必要说",
+                "basis": "仲裁专业、便捷，可分流大量劳动争议"
+              },
+              {
+                "holder": "选择权说（部分观点）",
+                "basis": "应允许当事人直接选择诉讼，减少救济环节"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "劳动争议仲裁",
+            "difference": "由劳动人事争议仲裁委员会处理"
+          },
+          {
+            "with": "商事仲裁",
+            "difference": "依仲裁协议一裁终局"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "劳动争议必须先仲裁才能起诉",
+            "correction": "仲裁前置是原则，但特定情形与终局裁决另有规定"
+          },
+          {
+            "claim": "劳动仲裁要收费",
+            "correction": "劳动争议仲裁不收费"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -1656,7 +1714,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1773,7 +1831,65 @@
       ],
       "needs_verification": true,
       "pending_notes": "社会救助暂行办法与地方实施细则需按现行文本核对。",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国社会保险法》及社会救助相关制度（版本：2018年修正，核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "社会保险",
+          "社会救助",
+          "社会福利",
+          "社会优抚"
+        ],
+        "conditions": [
+          "符合法定救助或保障条件",
+          "依法申请或经认定",
+          "家庭经济状况核查"
+        ],
+        "effects": [
+          "符合条件的对象获得物质帮助",
+          "保障基本生活与基本医疗",
+          "骗取救助应退还并承担法律责任"
+        ],
+        "exceptions": [
+          "法定不予救助情形",
+          "临时救助的紧急程序"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "社会救助的给付水平",
+            "views": [
+              {
+                "holder": "保基本说",
+                "basis": "救助以保障基本生活为目标，避免福利依赖"
+              },
+              {
+                "holder": "适度提高说（部分观点）",
+                "basis": "应随经济发展逐步提高救助标准"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "社会保险",
+            "difference": "缴费型保障"
+          },
+          {
+            "with": "社会救助",
+            "difference": "非缴费型兜底保障"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "有工作就不能申请救助",
+            "correction": "符合条件的最低生活保障家庭仍可依法申请"
+          },
+          {
+            "claim": "救助申请不需要审核",
+            "correction": "需经家庭经济状况核对与审核确认程序"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -1785,7 +1901,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -2003,7 +2119,65 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国票据法》关于票据抗辩与追索权的规定（版本：2004年修正，核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "对物抗辩",
+          "对人抗辩",
+          "追索权",
+          "拒绝证明"
+        ],
+        "conditions": [
+          "持票人行使追索权须具备法定事由",
+          "在法定期间内作成拒绝证明并通知前手",
+          "票据背书连续"
+        ],
+        "effects": [
+          "持票人可向前手追索票据金额及费用",
+          "票据债务人可依抗辩事由拒绝履行",
+          "逾期未追索可能丧失对前手的追索权"
+        ],
+        "exceptions": [
+          "对物抗辩可对抗任何持票人",
+          "善意取得票据的持票人权利受保护"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "票据抗辩切断的范围",
+            "views": [
+              {
+                "holder": "严格切断说",
+                "basis": "票据债务人不得以与出票人或前手的抗辩事由对抗善意持票人"
+              },
+              {
+                "holder": "恶意例外说（部分观点）",
+                "basis": "持票人明知抗辩事由取得票据的，抗辩不切断"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "票据抗辩",
+            "difference": "债务人拒绝履行"
+          },
+          {
+            "with": "票据追索",
+            "difference": "持票人向前手请求偿还"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "票据到期不获付款可直接起诉出票人",
+            "correction": "应先依法作成拒绝证明并通知前手"
+          },
+          {
+            "claim": "票据抗辩可以对抗任何持票人",
+            "correction": "对人抗辩不得对抗善意持票人"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -2015,7 +2189,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -2039,6 +2213,100 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
+      "l2": {
+        "definition_source": "《中华人民共和国企业破产法》第三十一条、第三十二条（版本：2006年通过，核对日期：2026-11-24）。",
+        "elements": [
+          "可撤销行为",
+          "临界期间",
+          "管理人",
+          "撤销后果"
+        ],
+        "conditions": [
+          "行为发生在法院受理破产申请前法定期间内",
+          "行为损害债权人利益",
+          "由管理人请求法院撤销"
+        ],
+        "effects": [
+          "行为被撤销后财产回归债务人财产",
+          "相对人返还财产或折价补偿",
+          "相关责任人员可能承担赔偿责任"
+        ],
+        "exceptions": [
+          "使债务人财产受益的个别清偿不可撤销",
+          "善意相对人已支付合理对价的处理依法律规定"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "个别清偿撤销的例外",
+            "views": [
+              {
+                "holder": "严格撤销说",
+                "basis": "临界期内的个别清偿原则上应撤销，保障公平清偿"
+              },
+              {
+                "holder": "例外扩张说（部分学者）",
+                "basis": "应扩大使债务人财产受益的例外，维护交易安全"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "破产撤销权",
+            "difference": "针对临界期内的不当处分行为"
+          },
+          {
+            "with": "民法撤销权",
+            "difference": "针对债务人无偿处分或明显不合理交易"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "破产前所有清偿都可撤销",
+            "correction": "仅限法定临界期内损害债权人利益的行为"
+          },
+          {
+            "claim": "撤销权由债权人行使",
+            "correction": "破产程序中由管理人依法行使"
+          }
+        ]
+      },
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L2",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-investor-protection",
+      "title": "投资者保护",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "商法·证券法",
+      "definition": "投资者保护是证券法为保护投资者合法权益而建立的适当性管理、信息披露、先行赔付、代表人诉讼与投资者保护机构等制度。",
+      "summary": "证券法设专章规定投资者保护，区分普通投资者与专业投资者，强化证券公司适当性义务与上市公司现金分红、债券持有人保护。",
+      "related": [
+        "com-securities",
+        "com-disclosure",
+        "com-insider"
+      ],
+      "sources": [
+        "src-law-securities",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
       "l2": null,
       "l3": null,
       "case": null,
@@ -2056,18 +2324,18 @@
       "checked_date": "2026-11-24"
     },
     {
-      "id": "com-investor-protection",
-      "title": "投资者保护",
+      "id": "com-securities-representative",
+      "title": "证券代表人诉讼",
       "type": "concept",
       "importance": "重要",
       "jurisdiction": "中国",
       "era": "商法·证券法",
-      "definition": "投资者保护是证券法为保护投资者合法权益而建立的适当性管理、信息披露、先行赔付、代表人诉讼与投资者保护机构等制度。",
-      "summary": "证券法设专章规定投资者保护，区分普通投资者与专业投资者，强化证券公司适当性义务与上市公司现金分红、债券持有人保护。",
+      "definition": "证券代表人诉讼是投资者因证券虚假陈述、内幕交易、操纵市场等行为遭受损失，由投资者保护机构或部分投资者作为代表人提起的群体性诉讼制度。",
+      "summary": "证券法规定投资者保护机构受五十名以上投资者委托，可以作为代表人参加诉讼；法院判决对未声明退出的投资者发生效力。",
       "related": [
-        "com-securities",
+        "com-investor-protection",
         "com-disclosure",
-        "com-insider"
+        "proc-civil-party"
       ],
       "sources": [
         "src-law-securities",

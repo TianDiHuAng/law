@@ -2237,6 +2237,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-environmental-law",
+      "title": "国际环境法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·国际环境法",
+      "definition": "国际环境法是调整国家之间在环境保护领域权利义务关系的国际法分支，渊源包括气候变化、生物多样性、海洋环境保护、危险废物越境转移等条约与习惯规则。",
+      "summary": "国际环境法确立预防原则、共同但有区别的责任、可持续发展、国际合作与损害赔偿责任等原则。",
+      "related": [
+        "intl-sources",
+        "env-law",
+        "intl-treaty"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "主要多边环境协定的缔约方与履约机制需按联合国环境规划署官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

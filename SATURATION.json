@@ -333,6 +333,19 @@
       "new_entries": 0,
       "upgrades": 3,
       "remaining_backlog": 8
+    },
+    {
+      "round": 31,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02复议前置、U03遗产分割、U06证券代表诉讼、U08国际环境法补强",
+        "权威大纲再对照：发现复议前置、遗产分割、代表人诉讼、国际环境法缺口",
+        "深度缺口：劳动争议、社会救助、破产撤销权、票据抗辩仍为L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 287,
+  "total": 291,
   "levels": {
     "L1": 142,
-    "L2": 142,
+    "L2": 146,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -70,37 +70,37 @@
       "title": "宪法与行政法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 31,
-          "合计": 31
+          "概念制度": 32,
+          "合计": 32
         }
       },
       "by_type": {
-        "概念制度": 31
+        "概念制度": 32
       },
       "cross": {
         "中国": {
-          "概念制度": 31
+          "概念制度": 32
         }
       },
-      "total": 31
+      "total": 32
     },
     "u03": {
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 47,
-          "合计": 47
+          "概念制度": 48,
+          "合计": 48
         }
       },
       "by_type": {
-        "概念制度": 47
+        "概念制度": 48
       },
       "cross": {
         "中国": {
-          "概念制度": 47
+          "概念制度": 48
         }
       },
-      "total": 47
+      "total": 48
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -142,19 +142,19 @@
       "title": "商法与社会法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 25,
-          "合计": 25
+          "概念制度": 26,
+          "合计": 26
         }
       },
       "by_type": {
-        "概念制度": 25
+        "概念制度": 26
       },
       "cross": {
         "中国": {
-          "概念制度": 25
+          "概念制度": 26
         }
       },
-      "total": 25
+      "total": 26
     },
     "u07": {
       "title": "知识产权、环境与数据法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 28,
-          "合计": 28
+          "概念制度": 29,
+          "合计": 29
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 38
+        "概念制度": 39
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 28
+          "概念制度": 29
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 38
+      "total": 39
     },
     "u09": {
       "title": "经典案例",
@@ -1040,6 +1040,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "admin-reconsideration-prerequisite",
+      "title": "行政复议前置",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "civil-general",
       "title": "民法典总则编",
       "unit": "u03",
@@ -1693,6 +1707,20 @@
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-estate-partition",
+      "title": "遗产分割",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
       "unverified_count": 0,
       "pending_notes": "",
       "last_updated": "2026-11-24"
@@ -2459,7 +2487,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2487,7 +2515,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2529,7 +2557,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2543,7 +2571,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2554,6 +2582,20 @@
     {
       "id": "com-investor-protection",
       "title": "投资者保护",
+      "unit": "u06",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "com-securities-representative",
+      "title": "证券代表人诉讼",
       "unit": "u06",
       "type": "概念制度",
       "importance": "重要",
@@ -3767,6 +3809,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "中国条约适用实践与相关法律规定需按外交部及全国人大官方资料核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-environmental-law",
+      "title": "国际环境法",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "主要多边环境协定的缔约方与履约机制需按联合国环境规划署官方资料核对。",
       "last_updated": "2026-11-24"
     },
     {
