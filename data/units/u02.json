@@ -3371,6 +3371,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-duty-to-give-reasons",
+      "title": "行政决定中的说明理由",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政程序",
+      "definition": "说明理由是行政机关在作出对相对人不利的决定时，应告知事实依据、法律依据与裁量考量的程序义务，属于正当程序的核心要素。",
+      "summary": "行政处罚法、行政许可法等法律在听证、决定送达等环节规定了说明理由要求；理由不充分可能构成程序违法或裁量滥用。",
+      "related": [
+        "admin-due-process",
+        "admin-hearing",
+        "admin-litigation"
+      ],
+      "sources": [
+        "src-law-admin-penalty",
+        "src-law-admin-license",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "说明理由在制定法中的具体要求分散，未形成统一程序法典条文。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

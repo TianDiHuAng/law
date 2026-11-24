@@ -4778,6 +4778,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-debt-joinder",
+      "title": "债务加入",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·债的移转",
+      "definition": "债务加入是第三人加入债的关系，与债务人共同向债权人承担债务，原债务人并不脱离债的关系。",
+      "summary": "债务加入须经债权人同意或在合理期限内未表示拒绝；第三人与债务人承担连带债务，但可与债务人约定内部份额。",
+      "related": [
+        "civil-obligation-transfer",
+        "civil-guarantee",
+        "civil-contract"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

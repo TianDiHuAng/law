@@ -3464,6 +3464,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-security-standards",
+      "title": "数据安全国家标准体系",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·标准化",
+      "definition": "数据安全国家标准体系是围绕数据分类分级、安全管理、安全技术、评估认证等形成的推荐性国家标准与行业标准集合。",
+      "summary": "标准由全国网络安全标准化技术委员会等机构组织制定，企业可依标准落实法定安全义务，但标准本身不替代法律规定。",
+      "related": [
+        "data-classification",
+        "data-security",
+        "data-pi-certification"
+      ],
+      "sources": [
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "具体国家标准编号与现行版本需按全国标准信息公共服务平台核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

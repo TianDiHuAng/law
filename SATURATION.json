@@ -528,6 +528,19 @@
       "new_entries": 0,
       "upgrades": 2,
       "remaining_backlog": 8
+    },
+    {
+      "round": 46,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02说明理由、U03债务加入、U07标准体系、U08河流航行权补强",
+        "权威大纲再对照：发现说明理由、债务加入、标准体系、航行权缺口",
+        "深度缺口：国际商事仲裁/投资仲裁/水道法/发展法仍为 L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

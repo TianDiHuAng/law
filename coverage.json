@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 335,
+  "total": 339,
   "levels": {
     "L1": 136,
-    "L2": 196,
+    "L2": 200,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -70,37 +70,37 @@
       "title": "宪法与行政法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 42,
-          "合计": 42
+          "概念制度": 43,
+          "合计": 43
         }
       },
       "by_type": {
-        "概念制度": 42
+        "概念制度": 43
       },
       "cross": {
         "中国": {
-          "概念制度": 42
+          "概念制度": 43
         }
       },
-      "total": 42
+      "total": 43
     },
     "u03": {
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 59,
-          "合计": 59
+          "概念制度": 60,
+          "合计": 60
         }
       },
       "by_type": {
-        "概念制度": 59
+        "概念制度": 60
       },
       "cross": {
         "中国": {
-          "概念制度": 59
+          "概念制度": 60
         }
       },
-      "total": 59
+      "total": 60
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 59,
-          "合计": 59
+          "概念制度": 60,
+          "合计": 60
         }
       },
       "by_type": {
-        "概念制度": 59
+        "概念制度": 60
       },
       "cross": {
         "中国": {
-          "概念制度": 59
+          "概念制度": 60
         }
       },
-      "total": 59
+      "total": 60
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 40,
-          "合计": 40
+          "概念制度": 41,
+          "合计": 41
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 50
+        "概念制度": 51
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 40
+          "概念制度": 41
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 50
+      "total": 51
     },
     "u09": {
       "title": "经典案例",
@@ -1194,6 +1194,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "admin-duty-to-give-reasons",
+      "title": "行政决定中的说明理由",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "说明理由在制定法中的具体要求分散，未形成统一程序法典条文。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "civil-general",
       "title": "民法典总则编",
       "unit": "u03",
@@ -2008,6 +2022,20 @@
     {
       "id": "civil-intention-interpretation",
       "title": "意思表示的解释",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-debt-joinder",
+      "title": "债务加入",
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
@@ -3742,6 +3770,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "data-security-standards",
+      "title": "数据安全国家标准体系",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "具体国家标准编号与现行版本需按全国标准信息公共服务平台核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -4139,7 +4181,7 @@
       "unit": "u08",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -4153,7 +4195,7 @@
       "unit": "u08",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -4223,7 +4265,7 @@
       "unit": "u08",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -4237,7 +4279,7 @@
       "unit": "u08",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -4439,6 +4481,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "国际法院气候变化咨询意见与各区域法院裁判的最新进展需按官方资料核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-river-navigation",
+      "title": "国际河流的航行权",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "各国际河流航行条约的具体安排需按相关条约与国际组织资料核对。",
       "last_updated": "2026-11-24"
     },
     {
