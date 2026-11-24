@@ -159,6 +159,7 @@ from upgrades_r124 import L3_UPGRADES_R124  # noqa: E402
 from upgrades_r125 import L3_UPGRADES_R125  # noqa: E402
 from upgrades_r126 import L3_UPGRADES_R126  # noqa: E402
 from upgrades_r127 import L3_UPGRADES_R127  # noqa: E402
+from upgrades_r128 import L3_UPGRADES_R128  # noqa: E402
 from upgrades_r16 import UPGRADES_R16  # noqa: E402
 from upgrades_r17 import UPGRADES_R17  # noqa: E402
 from upgrades_r18 import UPGRADES_R18  # noqa: E402
@@ -296,6 +297,7 @@ ROUND_DATA = {
     125: ({}, {}),
     126: ({}, {}),
     127: ({}, {}),
+    128: ({}, {}),
 }
 
 
