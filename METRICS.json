@@ -1964,6 +1964,24 @@
         "L3": 77
       },
       "notes": "R113 维护模式（饱和中）：仲裁流程、民事执行流程升级 L3（L3 达 77 条，全部 6 条流程页均达 L3）；缺口复检无新缺口，维持饱和。"
+    },
+    {
+      "round": 114,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 184,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 379,
+      "levels": {
+        "L1": 0,
+        "L2": 300,
+        "L3": 79
+      },
+      "notes": "R114 维护模式（饱和中）：于欢案、许霆案升级 L3（L3 达 79 条）；缺口复检无新缺口，维持饱和。"
     }
   ]
 }

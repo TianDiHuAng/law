@@ -3,8 +3,8 @@
   "total": 379,
   "levels": {
     "L1": 0,
-    "L2": 302,
-    "L3": 77
+    "L2": 300,
+    "L3": 79
   },
   "core_l2_coverage": {
     "u01": true,
@@ -5091,7 +5091,7 @@
       "unit": "u09",
       "type": "案例",
       "importance": "重要",
-      "level": "L2",
+      "level": "L3",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -5133,7 +5133,7 @@
       "unit": "u09",
       "type": "案例",
       "importance": "重要",
-      "level": "L2",
+      "level": "L3",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
