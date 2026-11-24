@@ -1092,6 +1092,80 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "const-local-autonomy",
+      "title": "基层群众自治制度",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "宪法学·基层治理",
+      "definition": "基层群众自治制度是依照宪法和法律规定，由居民（村民）通过居民委员会、村民委员会实行自我管理、自我教育、自我服务、自我监督的制度。",
+      "summary": "居民委员会、村民委员会是基层群众性自治组织，协助基层政府开展工作，其组成人员依法选举产生。",
+      "related": [
+        "const-npc",
+        "const-state-organs",
+        "const-rights"
+      ],
+      "sources": [
+        "src-law-constitution",
+        "src-zgbk",
+        "src-wiki-constitution-cn"
+      ],
+      "needs_verification": true,
+      "pending_notes": "村民委员会组织法、居民委员会组织法的具体条文与最新修订需按官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-administrative-agreement",
+      "title": "行政协议",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政协议",
+      "definition": "行政协议是行政机关为实现公共利益或者行政管理目标，与公民、法人或者其他组织协商订立的具有行政法上权利义务内容的协议。",
+      "summary": "行政协议兼具行政性与合同性。行政机关违法变更、解除协议或未依法履行协议，相对人可依法提起行政诉讼。",
+      "related": [
+        "admin-act",
+        "admin-litigation",
+        "civil-contract"
+      ],
+      "sources": [
+        "src-law-admin-litigation",
+        "src-jd-admin-evidence",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "行政协议司法解释的具体条文与受案范围需按最高人民法院现行文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

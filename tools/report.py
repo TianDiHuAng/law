@@ -99,7 +99,7 @@ def main():
     lines.append("```")
     lines.append("")
 
-    open(os.path.join(ROOT, "REPORT.md"), "w", encoding="utf-8").write("\n".join(lines) + "\n")
+    open(os.path.join(ROOT, "REPORT_FULL.md"), "w", encoding="utf-8").write("\n".join(lines) + "\n")
 
     # COVERAGE.md — 简要覆盖报告
     cov = []

@@ -317,7 +317,67 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国反不正当竞争法》第九条（版本：2019年修正，核对日期：2026-11-24）。",
+        "elements": [
+          "不为公众所知悉",
+          "具有商业价值",
+          "权利人采取相应保密措施",
+          "被诉信息属于技术信息、经营信息等商业信息"
+        ],
+        "conditions": [
+          "信息具有秘密性",
+          "信息能给权利人带来现实或潜在商业价值",
+          "保密措施与信息价值相适应"
+        ],
+        "effects": [
+          "侵权人承担停止侵害、赔偿损失等民事责任",
+          "情节严重的可适用惩罚性赔偿",
+          "构成犯罪的依法追究刑事责任"
+        ],
+        "exceptions": [
+          "反向工程",
+          "自行开发",
+          "合法受让或取得",
+          "公众已知信息"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "客户名单是否构成商业秘密",
+            "views": [
+              {
+                "holder": "肯定说（部分实务观点）",
+                "basis": "深度客户信息经过整理并采取保密措施可构成商业秘密"
+              },
+              {
+                "holder": "审慎说",
+                "basis": "单纯客户名称、联系方式等公开信息不构成商业秘密"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "专利",
+            "difference": "专利以公开换保护，商业秘密以保密维持优势"
+          },
+          {
+            "with": "著作权",
+            "difference": "著作权保护表达，商业秘密保护未公开的技术与经营信息"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "员工离职后使用任何原公司信息都侵权",
+            "correction": "仅限构成商业秘密且违反保密义务或非法获取的信息"
+          },
+          {
+            "claim": "签了保密协议就自动构成商业秘密",
+            "correction": "还须满足秘密性、价值性与合理保密措施等要件"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -329,7 +389,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -886,6 +946,79 @@
       ],
       "needs_verification": true,
       "pending_notes": "气候变化专门立法进展与碳市场规则需按官方最新文件核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "ip-geographical-indication",
+      "title": "地理标志",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "知识产权法·地理标志",
+      "definition": "地理标志是标示某商品来源于某地区，该商品的特定质量、信誉或者其他特征主要由该地区的自然因素或者人文因素所决定的标志。",
+      "summary": "地理标志可依法作为集体商标、证明商标注册，或通过地理标志产品保护制度获得保护；其保护涉及地名使用与公平竞争。",
+      "related": [
+        "ip-trademark",
+        "ip-anti-unfair",
+        "ip-enforcement"
+      ],
+      "sources": [
+        "src-law-trademark",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-critical-infrastructure",
+      "title": "关键信息基础设施保护",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "数据法·网络安全",
+      "definition": "关键信息基础设施是指公共通信和信息服务、能源、交通、水利、金融、公共服务、电子政务等重要行业和领域，以及其他一旦遭到破坏、丧失功能或者数据泄露可能严重危害国家安全、国计民生、公共利益的网络设施、信息系统。",
+      "summary": "关键信息基础设施实行重点保护，运营者应履行网络安全保护、数据本地化与安全评估等更严格义务。",
+      "related": [
+        "data-network",
+        "data-security",
+        "data-cross-border"
+      ],
+      "sources": [
+        "src-law-network-security-2",
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
       "l2": null,
       "l3": null,
       "case": null,

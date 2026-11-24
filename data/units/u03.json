@@ -328,7 +328,66 @@
       ],
       "needs_verification": false,
       "pending_notes": "特殊诉讼时效与最长权利保护期间的具体条文需按民法典核对。",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国民法典》第一百八十八条至第一百九十五条（版本：2020年通过，核对日期：2026-11-24）。",
+        "elements": [
+          "权利受到损害",
+          "权利人知道或应当知道权利受损及义务人",
+          "法定期间经过",
+          "义务人提出时效抗辩"
+        ],
+        "conditions": [
+          "普通诉讼时效期间为三年",
+          "自权利受到损害之日起最长不超过二十年（法律另有规定的除外）",
+          "存在中止、中断事由的依法计算"
+        ],
+        "effects": [
+          "义务人取得不履行义务的抗辩权",
+          "实体权利不消灭，义务人自愿履行的不得请求返还",
+          "法院不得主动适用诉讼时效"
+        ],
+        "exceptions": [
+          "请求停止侵害、排除妨碍、消除危险",
+          "不动产物权和登记的动产物权权利人请求返还财产",
+          "请求支付抚养费、赡养费或扶养费"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "诉讼时效届满后债务人自愿履行的效力",
+            "views": [
+              {
+                "holder": "通说",
+                "basis": "义务人自愿履行后不得以时效届满为由请求返还"
+              },
+              {
+                "holder": "部分学者",
+                "basis": "应区分是否明知时效届满，明知而履行方可视为放弃抗辩"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "除斥期间",
+            "difference": "除斥期间届满消灭实体权利，诉讼时效届满仅产生抗辩权；除斥期间一般不适用中止中断"
+          },
+          {
+            "with": "取得时效",
+            "difference": "中国民法典未规定取得时效；占有制度与善意取得承担部分类似功能"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "诉讼时效届满债务就自动消灭",
+            "correction": "实体权利不消灭，只是义务人取得抗辩权"
+          },
+          {
+            "claim": "法院会主动帮债务人适用诉讼时效",
+            "correction": "法院不得主动适用诉讼时效，须由义务人提出抗辩"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -340,7 +399,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -842,7 +901,73 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国民法典》第五百七十七条至第五百八十四条（版本：2020年通过，核对日期：2026-11-24）。",
+        "elements": [
+          "有效合同关系",
+          "违约行为",
+          "损害或履行利益受损",
+          "违约与损害之间存在因果关系",
+          "无免责事由"
+        ],
+        "conditions": [
+          "合同依法成立并生效",
+          "债务人未按约定履行或履行不符合约定",
+          "债权人无过错或过错不影响责任成立"
+        ],
+        "effects": [
+          "继续履行",
+          "采取补救措施",
+          "赔偿损失（包括可得利益，受可预见性限制）",
+          "支付违约金或适用定金罚则"
+        ],
+        "exceptions": [
+          "不可抗力",
+          "情势变更下依法变更或解除",
+          "减损规则",
+          "可预见性规则",
+          "过失相抵"
+        ],
+        "cases": [
+          "case-hadley",
+          "case-carlill"
+        ],
+        "controversies": [
+          {
+            "issue": "违约金过高的司法调整",
+            "views": [
+              {
+                "holder": "司法实务通说",
+                "basis": "约定违约金过分高于损失的，法院可依当事人请求适当减少"
+              },
+              {
+                "holder": "意思自治说（部分学者）",
+                "basis": "应尊重当事人约定，减少应以明显不公为限"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "侵权责任",
+            "difference": "违约责任以约定义务为基础，侵权责任以法定义务为基础；归责与赔偿范围不同"
+          },
+          {
+            "with": "缔约过失责任",
+            "difference": "缔约过失发生在合同订立阶段，违约责任发生在合同生效后"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "违约就必须支付违约金",
+            "correction": "违约金以合同约定为前提；没有约定时适用继续履行、补救或赔偿损失"
+          },
+          {
+            "claim": "赔偿范围包括所有间接损失",
+            "correction": "赔偿受可预见性规则、减损规则与因果关系限制"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -854,7 +979,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1495,6 +1620,114 @@
       "related": [
         "civil-unjust-enrichment",
         "civil-contract"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-residence",
+      "title": "居住权",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·用益物权",
+      "definition": "居住权是居住权人按照合同约定，对他人的住宅享有占有、使用的用益物权，以满足生活居住需要。",
+      "summary": "居住权无偿设立为原则，须订立书面合同并办理登记；居住权不得转让、继承，设立居住权的住宅原则上不得出租。",
+      "related": [
+        "civil-usufruct",
+        "civil-ownership",
+        "civil-marriage"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-jd-civil-property",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-lease",
+      "title": "租赁合同",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·典型合同",
+      "definition": "租赁合同是出租人将租赁物交付承租人使用、收益，承租人支付租金的合同。",
+      "summary": "租赁合同期限不得超过二十年，超过部分无效；买卖不破租赁、承租人优先购买权与转租规则是租赁制度的重要内容。",
+      "related": [
+        "civil-contract",
+        "civil-contract-liability"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-medical",
+      "title": "医疗损害责任",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·侵权责任",
+      "definition": "医疗损害责任是医疗机构及其医务人员在诊疗活动中因过错造成患者损害，依法应承担的侵权责任。",
+      "summary": "医疗损害责任以过错责任为原则，并规定医疗机构在违反诊疗规范、隐匿或拒绝提供病历等情形下的过错推定。",
+      "related": [
+        "civil-tort",
+        "civil-tort-fault",
+        "civil-product"
       ],
       "sources": [
         "src-law-civil-code",

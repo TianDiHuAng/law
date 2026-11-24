@@ -868,6 +868,80 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-law-of-sea",
+      "title": "海洋法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·海洋法",
+      "definition": "海洋法是规范海洋空间利用、海洋资源开发、海洋环境保护与国家海洋权利的国际法分支，核心渊源为《联合国海洋法公约》。",
+      "summary": "海洋法划分内水、领海、毗连区、专属经济区、大陆架、公海与国际海底区域等海域，并规定航行、资源、科研与争端解决制度。",
+      "related": [
+        "intl-sources",
+        "intl-treaty",
+        "intl-sovereignty"
+      ],
+      "sources": [
+        "src-un-charter",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "《联合国海洋法公约》具体条文与各国保留/声明需按联合国官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-international-criminal",
+      "title": "国际刑法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·国际刑法",
+      "definition": "国际刑法是规定灭绝种族罪、危害人类罪、战争罪、侵略罪等国际犯罪及其个人刑事责任、审判与合作的国际法分支。",
+      "summary": "国际刑事法院依《罗马规约》对缔约国境内的严重国际犯罪行使补充管辖权；国家法院也可依普遍管辖等原则行使管辖权。",
+      "related": [
+        "intl-sources",
+        "intl-human-rights",
+        "intl-sovereignty"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "《罗马规约》缔约国范围与国际刑事法院案例需按官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

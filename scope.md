@@ -49,7 +49,7 @@
 | theory-natural-positive | 自然法与实证法 | 概念制度 | 补充 | A、C | 西方 |
 | theory-legal-norm | 法律规范 | 概念制度 | 补充 | A、C | 中国 |
 
-### U02 宪法与行政法（20 条）
+### U02 宪法与行政法（22 条）
 
 国家权力结构、基本权利与行政法治
 
@@ -75,8 +75,10 @@
 | admin-legislation | 立法法 | 概念制度 | 重要 | A、C | 中国 |
 | admin-supervision | 监察法 | 概念制度 | 补充 | A、C | 中国 |
 | admin-civil-servant | 公务员制度 | 概念制度 | 补充 | A、C | 中国 |
+| const-local-autonomy | 基层群众自治制度 | 概念制度 | 重要 | A、C | 中国 |
+| admin-administrative-agreement | 行政协议 | 概念制度 | 重要 | A、C | 中国 |
 
-### U03 民法（28 条）
+### U03 民法（31 条）
 
 民法典体系与民事权利义务
 
@@ -110,8 +112,11 @@
 | civil-tort-online | 网络侵权 | 概念制度 | 补充 | A、C | 中国 |
 | civil-unjust-enrichment | 不当得利 | 概念制度 | 补充 | A、C | 中国 |
 | civil-negotiorum | 无因管理 | 概念制度 | 补充 | A、C | 中国 |
+| civil-residence | 居住权 | 概念制度 | 重要 | A、C | 中国 |
+| civil-lease | 租赁合同 | 概念制度 | 重要 | A、C | 中国 |
+| civil-medical | 医疗损害责任 | 概念制度 | 重要 | A、C | 中国 |
 
-### U04 刑法与刑事程序（22 条）
+### U04 刑法与刑事程序（25 条）
 
 犯罪论、刑罚论与刑事诉讼制度
 
@@ -139,8 +144,11 @@
 | crim-plea | 认罪认罚从宽 | 概念制度 | 重要 | A、C | 中国 |
 | crim-death-review | 死刑复核程序 | 概念制度 | 重要 | A、C | 中国 |
 | crim-juvenile | 未成年人刑事程序 | 概念制度 | 补充 | A、C | 中国 |
+| crim-unit-crime | 单位犯罪 | 概念制度 | 重要 | A、C | 中国 |
+| crim-joinder | 数罪并罚 | 概念制度 | 重要 | A、C | 中国 |
+| crim-probation | 缓刑 | 概念制度 | 重要 | A、C | 中国 |
 
-### U05 民事与行政程序（10 条）
+### U05 民事与行政程序（12 条）
 
 诉讼、证据、执行与仲裁的基础制度
 
@@ -156,6 +164,8 @@
 | proc-arbitration | 仲裁制度 | 概念制度 | 核心 | A、C | 中国 |
 | proc-admin-litigation | 行政诉讼受案范围 | 概念制度 | 重要 | A、C | 中国 |
 | proc-criminal-flow | 刑事诉讼流程概览 | 概念制度 | 重要 | A、C | 中国 |
+| proc-civil-preservation | 财产保全 | 概念制度 | 重要 | A、C | 中国 |
+| proc-civil-mediation | 法院调解 | 概念制度 | 重要 | A、C | 中国 |
 
 ### U06 商法与社会法（20 条）
 
@@ -184,7 +194,7 @@
 | social-insurance | 社会保险法 | 概念制度 | 重要 | A、C | 中国 |
 | social-protection | 社会救助与社会保障 | 概念制度 | 补充 | A、C | 中国 |
 
-### U07 知识产权、环境与数据法（16 条）
+### U07 知识产权、环境与数据法（18 条）
 
 创新保护、生态治理与数字规则
 
@@ -206,8 +216,10 @@
 | data-algorithm | 算法治理 | 概念制度 | 补充 | A、C | 中国 |
 | data-minor | 未成年人网络保护 | 概念制度 | 补充 | A、C | 中国 |
 | env-climate | 应对气候变化 | 概念制度 | 补充 | A、C | 中国 |
+| ip-geographical-indication | 地理标志 | 概念制度 | 重要 | A、C | 中国 |
+| data-critical-infrastructure | 关键信息基础设施保护 | 概念制度 | 重要 | A、C | 中国 |
 
-### U08 比较法与国际法（17 条）
+### U08 比较法与国际法（19 条）
 
 普通法、大陆法、欧盟法与国际规则
 
@@ -230,6 +242,8 @@
 | intl-investment | 国际投资法 | 概念制度 | 重要 | A、C | 国际 |
 | intl-private | 国际私法（冲突法） | 概念制度 | 重要 | A、C | 中国 |
 | intl-recognition | 外国判决的承认与执行 | 概念制度 | 补充 | A、C | 国际 |
+| intl-law-of-sea | 海洋法 | 概念制度 | 补充 | A、C | 国际 |
+| intl-international-criminal | 国际刑法 | 概念制度 | 补充 | A、C | 国际 |
 
 ### U09 经典案例（20 条）
 
@@ -298,6 +312,6 @@
 
 ## 五、覆盖统计
 
-- 总条目：191
-- L1：145；L2：43；L3：3
+- 总条目：205
+- L1：153；L2：49；L3：3
 - 核心条目全部达到 L2 及以上的单元：10/11

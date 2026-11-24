@@ -60,7 +60,67 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国民事诉讼法》第二章管辖及最高人民法院民事诉讼法解释相关规定（版本：2023年修正，核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "级别管辖",
+          "地域管辖",
+          "专属管辖",
+          "协议管辖",
+          "管辖权异议"
+        ],
+        "conditions": [
+          "一般地域管辖以被告住所地为原则",
+          "合同纠纷可由被告住所地或合同履行地法院管辖",
+          "侵权纠纷可由侵权行为地或被告住所地法院管辖",
+          "协议管辖须采用书面形式并符合法定范围"
+        ],
+        "effects": [
+          "有管辖权的法院受理案件",
+          "无管辖权时移送或裁定驳回起诉",
+          "当事人可在提交答辩状期间提出管辖权异议"
+        ],
+        "exceptions": [
+          "不动产纠纷、港口作业纠纷、继承遗产纠纷适用专属管辖",
+          "级别管辖依案件标的额与影响范围确定"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "网络购物合同履行地的确定",
+            "views": [
+              {
+                "holder": "买受人住所地说（部分实务观点）",
+                "basis": "便于消费者诉讼，符合消费者保护政策"
+              },
+              {
+                "holder": "收货地/服务器所在地说",
+                "basis": "应结合合同履行实际情况确定"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "主管",
+            "difference": "主管解决法院与仲裁、行政处理的权限分工，管辖解决法院之间的分工"
+          },
+          {
+            "with": "移送管辖",
+            "difference": "移送管辖是法院将案件移送给有管辖权的法院，管辖权异议是当事人对管辖提出抗辩"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "原告可以在任何法院起诉",
+            "correction": "起诉须符合法定管辖规则，否则法院可移送或驳回"
+          },
+          {
+            "claim": "协议管辖可以任意约定",
+            "correction": "协议管辖须符合级别管辖与专属管辖规定，并采用书面形式"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -72,7 +132,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -530,6 +590,79 @@
       "sources": [
         "src-law-cpc",
         "src-jd-cpc-interpretation",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u05",
+      "unit_title": "民事与行政程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "proc-civil-preservation",
+      "title": "财产保全",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民事诉讼法学·保全",
+      "definition": "财产保全是指人民法院在诉讼前或者诉讼中，为保障将来生效裁判能够得到执行，依法对当事人的财产采取查封、扣押、冻结等保护措施。",
+      "summary": "财产保全可依当事人申请或法院依职权采取；申请有错误的，申请人应赔偿被申请人因保全所遭受的损失。",
+      "related": [
+        "proc-civil-trial",
+        "proc-civil-enforcement",
+        "civil-security"
+      ],
+      "sources": [
+        "src-court-gongbao",
+        "src-jd-civil-procedure",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u05",
+      "unit_title": "民事与行政程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "proc-civil-mediation",
+      "title": "法院调解",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民事诉讼法学·调解",
+      "definition": "法院调解是人民法院在审理民事案件过程中，根据自愿、合法原则，主持双方当事人协商解决纠纷的活动。",
+      "summary": "调解达成协议的，法院应制作调解书；调解书经双方当事人签收后即具有法律效力，可申请强制执行。",
+      "related": [
+        "proc-civil-trial",
+        "proc-arbitration",
+        "proc-civil-enforcement"
+      ],
+      "sources": [
+        "src-court-gongbao",
         "src-zgbk"
       ],
       "needs_verification": false,

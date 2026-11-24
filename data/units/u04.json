@@ -219,7 +219,64 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国刑法》第二十三条（版本：1997年修订，历次修正案至（十二），核对日期：2026-11-24）。",
+        "elements": [
+          "已经着手实行犯罪",
+          "犯罪未得逞",
+          "未得逞是由于意志以外的原因"
+        ],
+        "conditions": [
+          "行为已进入实行阶段",
+          "构成要件结果未发生",
+          "停止并非出于行为人自愿"
+        ],
+        "effects": [
+          "可以比照既遂犯从轻或者减轻处罚",
+          "未遂形态不影响罪名成立",
+          "未遂与中止、预备的区分影响量刑"
+        ],
+        "exceptions": [
+          "不能犯是否处罚存在争议",
+          "情节显著轻微危害不大的不认为是犯罪"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "着手的认定标准",
+            "views": [
+              {
+                "holder": "形式客观说",
+                "basis": "开始实施符合构成要件的行为即为着手"
+              },
+              {
+                "holder": "实质客观说",
+                "basis": "行为对法益产生现实、紧迫危险时才为着手"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "犯罪预备",
+            "difference": "预备尚未着手实行，未遂已经着手实行"
+          },
+          {
+            "with": "犯罪中止",
+            "difference": "未遂因意志以外原因停止，中止因行为人自动放弃或防止结果发生"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "没有造成任何后果就不构成犯罪",
+            "correction": "未遂仍可能构成犯罪，只是可以比照既遂从轻或减轻处罚"
+          },
+          {
+            "claim": "只要行为人后悔就是中止",
+            "correction": "中止须具备自动性、彻底性与有效性"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -231,7 +288,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1159,6 +1216,114 @@
       "sources": [
         "src-law-cpc",
         "src-law-minors",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u04",
+      "unit_title": "刑法与刑事程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "crim-unit-crime",
+      "title": "单位犯罪",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "刑法学·犯罪主体",
+      "definition": "单位犯罪是公司、企业、事业单位、机关、团体实施的，依法应当负刑事责任的危害社会行为。",
+      "summary": "单位犯罪一般实行双罚制：对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员判处刑罚；法律另有规定的除外。",
+      "related": [
+        "crim-constitution",
+        "crim-joint",
+        "com-company"
+      ],
+      "sources": [
+        "src-law-criminal",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u04",
+      "unit_title": "刑法与刑事程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "crim-joinder",
+      "title": "数罪并罚",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "刑法学·刑罚裁量",
+      "definition": "数罪并罚是对一人所犯数罪分别定罪量刑后，依照法定原则决定应当执行的刑罚。",
+      "summary": "中国刑法采用限制加重原则为主、吸收原则与并科原则为辅的混合规则；判决宣告后发现漏罪、又犯新罪的处理规则不同。",
+      "related": [
+        "crim-punishment",
+        "crim-sentencing",
+        "crim-probation"
+      ],
+      "sources": [
+        "src-law-criminal",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u04",
+      "unit_title": "刑法与刑事程序",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "crim-probation",
+      "title": "缓刑",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "刑法学·刑罚执行",
+      "definition": "缓刑是对被判处拘役、三年以下有期徒刑且符合法定条件的犯罪分子，规定一定考验期，暂缓执行原判刑罚的制度。",
+      "summary": "缓刑考验期内依法实行社区矫正；考验期满未犯新罪、未发现漏罪且未严重违反监管规定的，原判刑罚不再执行。",
+      "related": [
+        "crim-punishment",
+        "crim-sentencing",
+        "crim-joinder"
+      ],
+      "sources": [
+        "src-law-criminal",
         "src-zgbk"
       ],
       "needs_verification": false,

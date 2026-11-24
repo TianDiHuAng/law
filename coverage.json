@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 191,
+  "total": 205,
   "levels": {
-    "L1": 145,
-    "L2": 43,
+    "L1": 153,
+    "L2": 49,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -70,42 +70,6 @@
       "title": "宪法与行政法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 20,
-          "合计": 20
-        }
-      },
-      "by_type": {
-        "概念制度": 20
-      },
-      "cross": {
-        "中国": {
-          "概念制度": 20
-        }
-      },
-      "total": 20
-    },
-    "u03": {
-      "title": "民法",
-      "by_jurisdiction": {
-        "中国": {
-          "概念制度": 28,
-          "合计": 28
-        }
-      },
-      "by_type": {
-        "概念制度": 28
-      },
-      "cross": {
-        "中国": {
-          "概念制度": 28
-        }
-      },
-      "total": 28
-    },
-    "u04": {
-      "title": "刑法与刑事程序",
-      "by_jurisdiction": {
-        "中国": {
           "概念制度": 22,
           "合计": 22
         }
@@ -120,23 +84,59 @@
       },
       "total": 22
     },
+    "u03": {
+      "title": "民法",
+      "by_jurisdiction": {
+        "中国": {
+          "概念制度": 31,
+          "合计": 31
+        }
+      },
+      "by_type": {
+        "概念制度": 31
+      },
+      "cross": {
+        "中国": {
+          "概念制度": 31
+        }
+      },
+      "total": 31
+    },
+    "u04": {
+      "title": "刑法与刑事程序",
+      "by_jurisdiction": {
+        "中国": {
+          "概念制度": 25,
+          "合计": 25
+        }
+      },
+      "by_type": {
+        "概念制度": 25
+      },
+      "cross": {
+        "中国": {
+          "概念制度": 25
+        }
+      },
+      "total": 25
+    },
     "u05": {
       "title": "民事与行政程序",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 10,
-          "合计": 10
+          "概念制度": 12,
+          "合计": 12
         }
       },
       "by_type": {
-        "概念制度": 10
+        "概念制度": 12
       },
       "cross": {
         "中国": {
-          "概念制度": 10
+          "概念制度": 12
         }
       },
-      "total": 10
+      "total": 12
     },
     "u06": {
       "title": "商法与社会法",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 16,
-          "合计": 16
+          "概念制度": 18,
+          "合计": 18
         }
       },
       "by_type": {
-        "概念制度": 16
+        "概念制度": 18
       },
       "cross": {
         "中国": {
-          "概念制度": 16
+          "概念制度": 18
         }
       },
-      "total": 16
+      "total": 18
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 7,
-          "合计": 7
+          "概念制度": 9,
+          "合计": 9
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 17
+        "概念制度": 19
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 7
+          "概念制度": 9
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 17
+      "total": 19
     },
     "u09": {
       "title": "经典案例",
@@ -886,6 +886,34 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "const-local-autonomy",
+      "title": "基层群众自治制度",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "村民委员会组织法、居民委员会组织法的具体条文与最新修订需按官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "admin-administrative-agreement",
+      "title": "行政协议",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "行政协议司法解释的具体条文与受案范围需按最高人民法院现行文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "civil-general",
       "title": "民法典总则编",
       "unit": "u03",
@@ -961,7 +989,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1087,7 +1115,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -1278,6 +1306,48 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "civil-residence",
+      "title": "居住权",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-lease",
+      "title": "租赁合同",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-medical",
+      "title": "医疗损害责任",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "crim-legality",
       "title": "罪刑法定原则",
       "unit": "u04",
@@ -1311,7 +1381,7 @@
       "unit": "u04",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1586,6 +1656,48 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "crim-unit-crime",
+      "title": "单位犯罪",
+      "unit": "u04",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "crim-joinder",
+      "title": "数罪并罚",
+      "unit": "u04",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "crim-probation",
+      "title": "缓刑",
+      "unit": "u04",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "proc-civil-principles",
       "title": "民事诉讼基本原则",
       "unit": "u05",
@@ -1605,7 +1717,7 @@
       "unit": "u05",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -1726,6 +1838,34 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "proc-civil-preservation",
+      "title": "财产保全",
+      "unit": "u05",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "proc-civil-mediation",
+      "title": "法院调解",
+      "unit": "u05",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "com-company",
       "title": "公司法概论",
       "unit": "u06",
@@ -1787,7 +1927,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2053,7 +2193,7 @@
       "unit": "u07",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2227,6 +2367,34 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "气候变化专门立法进展与碳市场规则需按官方最新文件核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "ip-geographical-indication",
+      "title": "地理标志",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "data-critical-infrastructure",
+      "title": "关键信息基础设施保护",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 0,
+      "pending_notes": "",
       "last_updated": "2026-11-24"
     },
     {
@@ -2465,6 +2633,34 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "海牙判决公约的签署与生效状态需按海牙国际私法会议官网核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-law-of-sea",
+      "title": "海洋法",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "《联合国海洋法公约》具体条文与各国保留/声明需按联合国官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-international-criminal",
+      "title": "国际刑法",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "《罗马规约》缔约国范围与国际刑事法院案例需按官方资料核对。",
       "last_updated": "2026-11-24"
     },
     {
