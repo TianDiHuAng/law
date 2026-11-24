@@ -344,6 +344,25 @@
         "L3": 3
       },
       "notes": "R24：新增共有、水污染防治、算法推荐治理、国际制裁；升级继承编、遗嘱继承、产品责任、无过错责任至 L2。"
+    },
+    {
+      "round": 25,
+      "date": "2026-11-24",
+      "status": "正常（体检轮）",
+      "new_entries": 0,
+      "upgrades": 3,
+      "reviews": 41,
+      "fixes": 0,
+      "pending_total": 107,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 270,
+      "levels": {
+        "L1": 143,
+        "L2": 124,
+        "L3": 3
+      },
+      "notes": "R25 体检轮：死链0、超期0、重复0、孤儿0、近重复0；复核9案例+32未核验来源；升级占有、网络侵权、过错责任至L2。"
     }
   ]
 }

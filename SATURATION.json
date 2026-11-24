@@ -255,6 +255,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 25,
+      "date": "2026-11-24",
+      "methods": [
+        "体检：死链0、过期0、重复0、孤儿0、近重复0",
+        "待核实清单：复核9案例与32未核验来源",
+        "深度缺口：占有、网络侵权、过错责任升级L2"
+      ],
+      "gaps_found": 3,
+      "new_entries": 0,
+      "upgrades": 3,
+      "remaining_backlog": 8
     }
   ]
 }
