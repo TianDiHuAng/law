@@ -1190,6 +1190,20 @@
       "saturated": true,
       "no_gap_streak": 18,
       "note": "维持饱和（第18轮无新缺口）"
+    },
+    {
+      "round": 95,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：昆山反杀案、快播案升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 19,
+      "note": "维持饱和（第19轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1207,8 +1221,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 340,
-      "L3": 39
+      "L2": 338,
+      "L3": 41
     },
     "sources": 144,
     "verified": 122
