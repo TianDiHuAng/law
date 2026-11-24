@@ -1600,6 +1600,24 @@
         "L3": 37
       },
       "notes": "R93 维护模式（饱和中）：民事审判程序、仲裁制度升级 L3（L3 达 37 条）；缺口复检无新缺口，维持饱和。"
+    },
+    {
+      "round": 94,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 184,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 379,
+      "levels": {
+        "L1": 0,
+        "L2": 340,
+        "L3": 39
+      },
+      "notes": "R94 维护模式（饱和中）：英国普通法的形成、判例制度与遵循先例升级 L3（L3 达 39 条）；缺口复检无新缺口，维持饱和。"
     }
   ]
 }
