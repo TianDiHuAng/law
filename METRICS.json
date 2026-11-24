@@ -1909,6 +1909,24 @@
         "L3": 71
       },
       "notes": "R110 维护模式（饱和中）：刑事证据规则、认罪认罚从宽升级 L3（L3 达 71 条）；缺口复检无新缺口，维持饱和。"
+    },
+    {
+      "round": 111,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 184,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 379,
+      "levels": {
+        "L1": 0,
+        "L2": 306,
+        "L3": 73
+      },
+      "notes": "R111 维护模式（饱和中）：民事诉讼流程、刑事诉讼流程升级 L3（L3 达 73 条）；缺口复检无新缺口，维持饱和。"
     }
   ]
 }

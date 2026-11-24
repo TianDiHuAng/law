@@ -1417,6 +1417,20 @@
       "saturated": true,
       "no_gap_streak": 34,
       "note": "维持饱和（第34轮无新缺口）"
+    },
+    {
+      "round": 111,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：民事诉讼流程、刑事诉讼流程升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 35,
+      "note": "维持饱和（第35轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1434,8 +1448,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 308,
-      "L3": 71
+      "L2": 306,
+      "L3": 73
     },
     "sources": 144,
     "verified": 122
