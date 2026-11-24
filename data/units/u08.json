@@ -3594,6 +3594,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-cisg-application",
+      "title": "国际货物买卖合同的公约适用",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际经济法·国际货物买卖",
+      "definition": "《联合国国际货物销售合同公约》（CISG）适用于营业地在不同缔约国的当事人之间的货物销售合同，当事人可依意思自治排除其适用。",
+      "summary": "CISG 就合同成立、货物相符、风险转移、违约救济等作出统一规定，但对合同效力、所有权转移等事项未作规定，依国内法补充。",
+      "related": [
+        "intl-wto",
+        "intl-commercial-arbitration",
+        "civil-contract"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "CISG 在中国的保留声明与最新缔约国情况需按联合国国际贸易法委员会官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

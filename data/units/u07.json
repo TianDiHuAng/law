@@ -4954,6 +4954,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-space-governance",
+      "title": "数据空间治理规则",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·数据基础设施",
+      "definition": "数据空间治理规则是围绕数据空间的建设、接入、使用与安全形成的制度与标准，涵盖身份互认、数据目录、使用控制与审计追溯。",
+      "summary": "治理规则强调数据主权与可控共享，需在互操作与安全之间取得平衡；我国相关规则以行业与地方试点为主，尚在完善之中。",
+      "related": [
+        "data-data-space",
+        "data-trusted-circulation",
+        "data-security-standards"
+      ],
+      "sources": [
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "数据空间治理的国家标准与试点规则需按国家数据局等官方文件核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 371,
+  "total": 375,
   "levels": {
     "L1": 134,
-    "L2": 234,
+    "L2": 238,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -70,37 +70,37 @@
       "title": "宪法与行政法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 51,
-          "合计": 51
+          "概念制度": 52,
+          "合计": 52
         }
       },
       "by_type": {
-        "概念制度": 51
+        "概念制度": 52
       },
       "cross": {
         "中国": {
-          "概念制度": 51
+          "概念制度": 52
         }
       },
-      "total": 51
+      "total": 52
     },
     "u03": {
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 68,
-          "合计": 68
+          "概念制度": 69,
+          "合计": 69
         }
       },
       "by_type": {
-        "概念制度": 68
+        "概念制度": 69
       },
       "cross": {
         "中国": {
-          "概念制度": 68
+          "概念制度": 69
         }
       },
-      "total": 68
+      "total": 69
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 68,
-          "合计": 68
+          "概念制度": 69,
+          "合计": 69
         }
       },
       "by_type": {
-        "概念制度": 68
+        "概念制度": 69
       },
       "cross": {
         "中国": {
-          "概念制度": 68
+          "概念制度": 69
         }
       },
-      "total": 68
+      "total": 69
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 49,
-          "合计": 49
+          "概念制度": 50,
+          "合计": 50
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 59
+        "概念制度": 60
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 49
+          "概念制度": 50
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 59
+      "total": 60
     },
     "u09": {
       "title": "经典案例",
@@ -1320,6 +1320,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "admin-administrative-plan",
+      "title": "行政计划",
+      "unit": "u02",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "行政计划的统一程序规则缺乏专门立法，需按各领域规划法规核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "civil-general",
       "title": "民法典总则编",
       "unit": "u03",
@@ -1941,7 +1955,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1955,7 +1969,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1969,7 +1983,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2011,7 +2025,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2260,6 +2274,20 @@
     {
       "id": "civil-joint-debt",
       "title": "连带债务",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "civil-alternative-obligation",
+      "title": "选择之债与任意之债",
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
@@ -4120,6 +4148,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "data-space-governance",
+      "title": "数据空间治理规则",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "数据空间治理的国家标准与试点规则需按国家数据局等官方文件核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -4943,6 +4985,20 @@
       "verified_source_count": 2,
       "unverified_count": 1,
       "pending_notes": "各仲裁机构规则关于披露标准与回避程序的具体规定需按机构规则核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-cisg-application",
+      "title": "国际货物买卖合同的公约适用",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "CISG 在中国的保留声明与最新缔约国情况需按联合国国际贸易法委员会官方资料核对。",
       "last_updated": "2026-11-24"
     },
     {

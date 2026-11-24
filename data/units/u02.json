@@ -3814,6 +3814,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-administrative-plan",
+      "title": "行政计划",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政计划",
+      "definition": "行政计划是行政机关为达成特定行政目标，就未来一定时期内的方法、步骤与资源配置作出的规划性安排，如经济社会发展规划、国土空间规划。",
+      "summary": "行政计划多具指导性与政策性，部分规划经法定程序后具有约束力；计划制定应履行公众参与、专家论证与合法性审查等程序。",
+      "related": [
+        "admin-act",
+        "admin-principles",
+        "admin-administrative-guidance"
+      ],
+      "sources": [
+        "src-law-admin-license",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "行政计划的统一程序规则缺乏专门立法，需按各领域规划法规核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
