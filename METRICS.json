@@ -2328,6 +2328,24 @@
         "L3": 117
       },
       "notes": "R133 维护模式（饱和中）：全国人民代表大会、国家机构升级 L3（L3 达 117 条）；缺口复检无新缺口，维持饱和。"
+    },
+    {
+      "round": 134,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 184,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 379,
+      "levels": {
+        "L1": 0,
+        "L2": 260,
+        "L3": 119
+      },
+      "notes": "R134 维护模式（饱和中）：行政复议、行政诉讼受案范围升级 L3（L3 达 119 条）；缺口复检无新缺口，维持饱和。"
     }
   ]
 }
