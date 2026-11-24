@@ -1617,6 +1617,21 @@
       "saturated": true,
       "no_gap_streak": 48,
       "note": "维持饱和（第48轮无新缺口）"
+    },
+    {
+      "round": 125,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：票据抗辩与追索、破产撤销权升 L3",
+        "里程碑：L3 条目突破 100"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 49,
+      "note": "维持饱和（第49轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1634,8 +1649,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 280,
-      "L3": 99
+      "L2": 278,
+      "L3": 101
     },
     "sources": 144,
     "verified": 122
