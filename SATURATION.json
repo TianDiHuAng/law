@@ -1,6 +1,6 @@
 {
   "saturated": true,
-  "consecutive_zero_gap_rounds": 3,
+  "consecutive_zero_gap_rounds": 65,
   "history": [
     {
       "round": 6,
@@ -1845,6 +1845,20 @@
       "saturated": true,
       "no_gap_streak": 64,
       "note": "维持饱和（第64轮无新缺口）"
+    },
+    {
+      "round": 141,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：民族区域自治、突发公共卫生事件应急升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 65,
+      "note": "维护保持，连续 65 轮零缺口。"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1862,8 +1876,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 248,
-      "L3": 131
+      "L2": 246,
+      "L3": 133
     },
     "sources": 144,
     "verified": 122

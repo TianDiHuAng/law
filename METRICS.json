@@ -2455,6 +2455,24 @@
         "L3": 131
       },
       "notes": "R140 维护模式（饱和中）：中国宪法史、行政协议司法解释升级 L3（L3 达 131 条）；缺口复检无新缺口，维持饱和。"
+    },
+    {
+      "round": 141,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 184,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 379,
+      "levels": {
+        "L1": 0,
+        "L2": 246,
+        "L3": 133
+      },
+      "notes": "R141 维护模式：民族区域自治与突发公共卫生事件应急升 L3；L3 增至 133 条；缺口复检无新增，维持饱和。"
     }
   ]
 }
