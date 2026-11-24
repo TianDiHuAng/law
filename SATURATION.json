@@ -1689,6 +1689,20 @@
       "saturated": true,
       "no_gap_streak": 53,
       "note": "维持饱和（第53轮无新缺口）"
+    },
+    {
+      "round": 130,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：外国判决承认执行、海洋法升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 54,
+      "note": "维持饱和（第54轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1706,8 +1720,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 270,
-      "L3": 109
+      "L2": 268,
+      "L3": 111
     },
     "sources": 144,
     "verified": 122
