@@ -1455,7 +1455,66 @@
       ],
       "needs_verification": true,
       "pending_notes": "WTO争端解决机制改革与上诉机构现状需按WTO官方最新文件核对。",
-      "l2": null,
+      "l2": {
+        "definition_source": "《关于争端解决规则与程序的谅解》（DSU）及WTO相关实践（核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "磋商",
+          "专家组",
+          "上诉机构或替代安排",
+          "执行监督",
+          "报复授权"
+        ],
+        "conditions": [
+          "争端属于WTO协定适用范围",
+          "成员方磋商未解决",
+          "专家组设立与报告通过"
+        ],
+        "effects": [
+          "争端解决机构通过报告",
+          "败诉方须执行或提供补偿",
+          "不执行可能被授权报复"
+        ],
+        "exceptions": [
+          "发展中成员特殊与差别待遇",
+          "涉及国家安全等例外"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "上诉机构停摆后的替代机制",
+            "views": [
+              {
+                "holder": "临时上诉仲裁说",
+                "basis": "部分成员建立临时上诉仲裁，维持两审功能"
+              },
+              {
+                "holder": "改革谈判说（部分观点）",
+                "basis": "应通过WTO改革恢复正式上诉机构"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "磋商",
+            "difference": "争端解决第一阶段"
+          },
+          {
+            "with": "专家组",
+            "difference": "争端解决核心审理程序"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "WTO争端解决可以判决国内法无效",
+            "correction": "WTO裁决针对成员方措施是否符合WTO协定，不直接改变国内法"
+          },
+          {
+            "claim": "败诉方必须立即修改法律",
+            "correction": "败诉方可在合理期限内执行，也可提供补偿"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -1467,7 +1526,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1735,7 +1794,65 @@
       ],
       "needs_verification": true,
       "pending_notes": "GATS具体承诺与我国服务贸易开放措施需按WTO与商务部官方文本核对。",
-      "l2": null,
+      "l2": {
+        "definition_source": "《服务贸易总协定》（GATS）及WTO服务贸易规则（核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "跨境交付",
+          "境外消费",
+          "商业存在",
+          "自然人流动"
+        ],
+        "conditions": [
+          "属于GATS调整的服务贸易",
+          "成员方作出具体承诺",
+          "不违反最惠国待遇等一般义务"
+        ],
+        "effects": [
+          "成员方按承诺开放服务市场",
+          "外国服务提供者享有国民待遇",
+          "违反承诺可能引发WTO争端"
+        ],
+        "exceptions": [
+          "一般例外与安全例外",
+          "发展中国家逐步开放安排"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "商业存在模式与投资保护的重叠",
+            "views": [
+              {
+                "holder": "GATS优先说",
+                "basis": "服务贸易商业存在应适用GATS规则"
+              },
+              {
+                "holder": "投资协定补充说（部分学者）",
+                "basis": "投资保护与市场准入可适用投资条约"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "货物贸易",
+            "difference": "GATT调整货物"
+          },
+          {
+            "with": "服务贸易",
+            "difference": "GATS调整服务"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "服务贸易不需要开放承诺",
+            "correction": "成员方通过具体承诺表决定开放部门与条件"
+          },
+          {
+            "claim": "GATS适用于所有服务",
+            "correction": "政府采购、航空运输等部分服务另有规则或除外"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -1747,7 +1864,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1772,6 +1889,43 @@
       ],
       "needs_verification": true,
       "pending_notes": "《纽约公约》适用与主要仲裁机构规则需按联合国及仲裁机构官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-investment-arbitration",
+      "title": "国际投资仲裁",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际投资法·ISDS",
+      "definition": "国际投资仲裁是外国投资者依据投资条约或投资合同，将与国际东道国的投资争端提交仲裁庭解决的制度，典型机构为ICSID。",
+      "summary": "国际投资仲裁以条约同意为基础，适用条约保护标准与程序规则；裁决的承认与执行依《ICSID公约》或《纽约公约》进行。",
+      "related": [
+        "intl-investment",
+        "intl-commercial-arbitration",
+        "intl-sources"
+      ],
+      "sources": [
+        "src-icsid",
+        "src-un-treaty",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "ICSID仲裁规则与主要投资条约文本需按官方资料核对。",
       "l2": null,
       "l3": null,
       "case": null,

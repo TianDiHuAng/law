@@ -49,7 +49,7 @@
 | theory-natural-positive | 自然法与实证法 | 概念制度 | 补充 | A、C | 西方 |
 | theory-legal-norm | 法律规范 | 概念制度 | 补充 | A、C | 中国 |
 
-### U02 宪法与行政法（26 条）
+### U02 宪法与行政法（27 条）
 
 国家权力结构、基本权利与行政法治
 
@@ -81,6 +81,7 @@
 | admin-hearing | 行政听证 | 概念制度 | 重要 | A、C | 中国 |
 | admin-administrative-adjudication | 行政裁决 | 概念制度 | 补充 | A、C | 中国 |
 | admin-government-procurement | 政府采购 | 概念制度 | 重要 | A、C | 中国 |
+| admin-administrative-confirmation | 行政确认 | 概念制度 | 补充 | A、C | 中国 |
 
 ### U03 民法（41 条）
 
@@ -212,7 +213,7 @@
 | com-bill-defense | 票据抗辩与追索 | 概念制度 | 重要 | A、C | 中国 |
 | com-bankruptcy-avoidance | 破产撤销权 | 概念制度 | 重要 | A、C | 中国 |
 
-### U07 知识产权、环境与数据法（32 条）
+### U07 知识产权、环境与数据法（34 条）
 
 创新保护、生态治理与数字规则
 
@@ -250,8 +251,10 @@
 | env-ecological-redline | 生态保护红线 | 概念制度 | 补充 | A、C | 中国 |
 | data-data-breach | 数据泄露通知 | 概念制度 | 重要 | A、C | 中国 |
 | env-carbon-market | 碳排放权交易 | 概念制度 | 补充 | A、C | 中国 |
+| data-personal-portability | 个人信息可携带权 | 概念制度 | 补充 | A、C | 中国 |
+| env-wetland | 湿地保护 | 概念制度 | 补充 | A、C | 中国 |
 
-### U08 比较法与国际法（29 条）
+### U08 比较法与国际法（30 条）
 
 普通法、大陆法、欧盟法与国际规则
 
@@ -286,6 +289,7 @@
 | intl-space-law | 外层空间法 | 概念制度 | 补充 | A、C | 国际 |
 | intl-trade-services | 国际服务贸易 | 概念制度 | 补充 | A、C | 国际 |
 | intl-commercial-arbitration | 国际商事仲裁 | 概念制度 | 补充 | A、C | 国际 |
+| intl-investment-arbitration | 国际投资仲裁 | 概念制度 | 补充 | A、C | 国际 |
 
 ### U09 经典案例（20 条）
 
@@ -357,6 +361,6 @@
 
 ## 五、覆盖统计
 
-- 总条目：250
-- L1：149；L2：98；L3：3
+- 总条目：254
+- L1：149；L2：102；L3：3
 - 核心条目全部达到 L2 及以上的单元：10/11

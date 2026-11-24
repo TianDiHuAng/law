@@ -1959,6 +1959,78 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-personal-portability",
+      "title": "个人信息可携带权",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·个人信息保护",
+      "definition": "个人信息可携带权是个人请求将个人信息转移至其指定的个人信息处理者，在符合国家网信部门规定条件时，个人信息处理者应当提供转移途径的权利。",
+      "summary": "可携带权是个人信息保护法赋予个人的重要权利，旨在增强个人对信息的控制、促进数据流通与市场竞争；具体条件与格式以网信部门规定为准。",
+      "related": [
+        "data-personal",
+        "data-sensitive-personal",
+        "data-algorithm"
+      ],
+      "sources": [
+        "src-law-personal-info-2",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "个人信息可携带权的具体实施条件与技术标准需按国家网信部门规定核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "env-wetland",
+      "title": "湿地保护",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "环境法·湿地生态",
+      "definition": "湿地保护是对具有重要生态功能的湿地生态系统进行保护、修复与合理利用的制度，坚持保护优先、严格管理、系统治理、科学修复、合理利用原则。",
+      "summary": "湿地保护法建立湿地分级管理、湿地保护规划、湿地占用审批与生态修复等制度；建设项目占用重要湿地须依法办理审批手续。",
+      "related": [
+        "env-law",
+        "env-ecological",
+        "env-ecological-redline"
+      ],
+      "sources": [
+        "src-law-environment",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "湿地保护法及配套名录需按国家林草局、生态环境部官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

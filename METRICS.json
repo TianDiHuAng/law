@@ -235,6 +235,24 @@
         "L3": 3
       },
       "notes": "R18：新增数据泄露通知、碳排放权交易、国际商事仲裁、诚信原则；升级应对气候变化、国际组织法、未成年人刑事程序、审判监督程序至 L2。"
+    },
+    {
+      "round": 19,
+      "date": "2026-11-24",
+      "new_entries": 4,
+      "upgrades": 4,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 94,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 254,
+      "levels": {
+        "L1": 149,
+        "L2": 102,
+        "L3": 3
+      },
+      "notes": "R19：新增个人信息可携带权、湿地保护、国际投资仲裁、行政确认；升级刑罚体系、自首与立功、WTO争端解决、国际服务贸易至 L2。"
     }
   ]
 }

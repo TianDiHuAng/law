@@ -1668,6 +1668,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-administrative-confirmation",
+      "title": "行政确认",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政确认",
+      "definition": "行政确认是行政机关依法对特定的法律事实、法律关系或者法律状态进行认定、证明并予以宣告的行为。",
+      "summary": "行政确认包括身份确认、权属确认、工伤认定、事故责任认定等；确认行为通常不具有创设权利的效果，但对后续权利义务有重要影响。",
+      "related": [
+        "admin-act",
+        "admin-license",
+        "admin-litigation"
+      ],
+      "sources": [
+        "src-law-admin-litigation",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "行政确认的具体类型与救济途径需按各专门法律、法规核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
