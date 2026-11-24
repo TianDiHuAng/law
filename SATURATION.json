@@ -1,6 +1,6 @@
 {
-  "saturated": false,
-  "consecutive_zero_gap_rounds": 0,
+  "saturated": true,
+  "consecutive_zero_gap_rounds": 3,
   "history": [
     {
       "round": 6,
@@ -954,6 +954,48 @@
       "saturated": false,
       "no_gap_streak": 2,
       "note": "连续无新缺口计数 2/3"
+    },
+    {
+      "round": 79,
+      "date": "2026-11-24",
+      "methods": [
+        "缺口复检：七种方法均无新增权威覆盖缺口（第3轮）",
+        "深度化：公司法导读、个人信息保护法导读升 L3",
+        "来源补强：再核验 4 条来源"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "sources_verified": 4,
+      "saturated": true,
+      "no_gap_streak": 3,
+      "note": "满足饱和条件：重要级 L1=0 且连续 3 轮无新缺口，写入 SATURATED=true"
     }
+  ],
+  "saturated_at": "2026-11-24",
+  "saturated_round": 79,
+  "criteria": {
+    "core_and_important_all_l2": true,
+    "consecutive_zero_gap_rounds": 3,
+    "evidence_rounds": [
+      77,
+      78,
+      79
+    ]
+  },
+  "totals": {
+    "entries": 379,
+    "levels": {
+      "L1": 0,
+      "L2": 370,
+      "L3": 9
+    },
+    "sources": 144,
+    "verified": 118
+  },
+  "residual_items": [
+    "部分历史案例案号待核实（CASE_REVIEW）",
+    "26 条来源因反爬/失效标记 verified=false，未用于正文事实"
   ]
 }
