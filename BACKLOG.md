@@ -1,44 +1,55 @@
 # BACKLOG — 待办队列
 
-> 最后更新：2026-11-24 · 轮次 R68
+> 最后更新：2026-11-24 · 轮次 R69
 > 规则：核心＞重要＞补充；被其他页面引用次数多的优先；覆盖稀疏维度优先；复核与修复优先于新增。
 
-## R68 本轮已完成（行政法批量升级，8 条）
+## R69 本轮已完成（法理 4 + 债法 4，共 8 条）
 
 | id | 内容 |
 |---|---|
-| R68-01 | 监察法（admin-supervision）升 L2 |
-| R68-02 | 行政裁决（admin-administrative-adjudication）升 L2 |
-| R68-03 | 行政赔偿范围与标准（admin-compensation-scope）升 L2 |
-| R68-04 | 行政程序的正当原则（admin-due-process）升 L2 |
-| R68-05 | 行政许可的撤销与撤回（admin-license-revocation）升 L2 |
-| R68-06 | 行政调解（admin-mediation）升 L2 |
-| R68-07 | 行政协议中的高权行为（admin-high-power-act）升 L2 |
-| R68-08 | 行政给付（admin-administrative-benefit）升 L2 |
+| R69-01 | 法律推理（fa-reasoning）升 L2 |
+| R69-02 | 秦律与睡虎地秦简（history-qin）升 L2 |
+| R69-03 | 自然法与实证法（theory-natural-positive）升 L2 |
+| R69-04 | 法律规范（theory-legal-norm）升 L2 |
+| R69-05 | 遗产分割（civil-estate-partition）升 L2 |
+| R69-06 | 提存（civil-deposit-in-escrow）升 L2 |
+| R69-07 | 混同（civil-confusion）升 L2 |
+| R69-08 | 清偿抵充（civil-performance-appropriation）升 L2 |
 
-## R69 待办队列（法理/债法/刑诉/案例，8 条）
+**里程碑**：U01 法理单元补充级 L1 清零。
 
-| id | 内容 |
+## R70 体检轮任务
+
+| id | 结果项 |
 |---|---|
-| R69-01 | 法律推理（fa-reasoning） |
-| R69-02 | 秦律与睡虎地秦简（history-qin） |
-| R69-03 | 自然法与实证法（theory-natural-positive） |
-| R69-04 | 法律规范（theory-legal-norm） |
-| R69-05 | 遗产分割（civil-estate-partition） |
-| R69-06 | 提存（civil-deposit-in-escrow） |
-| R69-07 | 混同（civil-confusion） |
-| R69-08 | 清偿抵充（civil-performance-appropriation） |
+| R70-01 | 全站死链复检 |
+| R70-02 | 法律文本 checked_date 过期检查 |
+| R70-03 | 重复标题、来源 URL 检测 |
+| R70-04 | 跨页统计与层级一致性 |
+| R70-05 | 孤儿页与入链检测 |
+| R70-06 | 近重复（Jaccard）抽查 |
+| R70-07 | `pending_notes` 案号/日期复核 |
+| R70-08 | 未核验来源复核 |
+| R70-09 | 饱和再评估 |
+| R70-10 | 升级 2 条国际法条目至 L2（如 intl-humanitarian-law 内容补强或 intl-recognition 扩展） |
 
-## R70 体检轮
+## 剩余补充级 L1（57 条）
 
-- 死链、过期数据、重复条目、跨页矛盾、孤儿页、来源重合度检查；饱和再评估。
+| 单元 | 条数 | 说明 |
+|---|---|---|
+| u08 国际法 | 21 | 国家责任、制裁、体育仲裁、税务合作、竞争法、社会保障协定、发展融资、第三方资助等 |
+| u07 环境数据 | 16 | 平台经济治理、水污染、气候适应、臭氧层、数据信托、数据经纪人、数据空间、标准合同等 |
+| u02 行政法 | 12 | 行政复议执行、许可延续、说明理由、行政调查、许可委托、行政检查、约谈、指导、收费、奖励、计划、裁决救济 |
+| u09 案例 | 4 | Hadley、Riggs、Mabo、Google Spain |
+| u03 债法 | 3 | 独立保证、让与担保、代物清偿 |
+| u04 刑诉 | 1 | 刑事诉讼涉案财物处置 |
 
-## 剩余补充级 L1（65 条）
+## R71–R76 计划
 
-- u02 行政法 12、u07 环境数据 16、u08 国际法 23、u03 债法 4、u09 案例 4、u04 刑诉 1、u01 法理 4（R69 后 u01 清零）。
-- 计划 R71–R76 每轮 8–12 条继续覆盖。
+- R71：u08 国际法 8 条；R72：u07 环境数据 8 条；R73：u02 行政法 8 条；
+- R74：u08 余 13 条；R75：u07 余 8 条 + u03 3 条；R76：u02 余 4 + u09 4 + u04 1。
 
 ## 约束
 
-- 单轮新增 scope 条目不超过现有总条目数的 10%（R68 结束后 379 条 → 下轮最多 37 条）。
+- 单轮新增 scope 条目不超过现有总条目数的 10%（R69 结束后 379 条 → 下轮最多 37 条）。
 - 每条新增必须有两个独立、已核验来源；不足则不得进入正文。

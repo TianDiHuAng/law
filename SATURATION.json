@@ -821,6 +821,18 @@
       "new_entries": 0,
       "upgrades": 8,
       "remaining_backlog": 8
+    },
+    {
+      "round": 69,
+      "date": "2026-11-24",
+      "methods": [
+        "补充级价值评估：U01 法理与 U03 债法条目",
+        "批量升级：8 条升至 L2"
+      ],
+      "gaps_found": 8,
+      "new_entries": 0,
+      "upgrades": 8,
+      "remaining_backlog": 8
     }
   ]
 }
