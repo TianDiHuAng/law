@@ -114,6 +114,7 @@ from upgrades_r79 import L3_UPGRADES_R79  # noqa: E402
 from upgrades_r80 import L3_UPGRADES_R80  # noqa: E402
 from upgrades_r81 import L3_UPGRADES_R81  # noqa: E402
 from upgrades_r82 import L3_UPGRADES_R82  # noqa: E402
+from upgrades_r83 import L3_UPGRADES_R83  # noqa: E402
 from upgrades_r16 import UPGRADES_R16  # noqa: E402
 from upgrades_r17 import UPGRADES_R17  # noqa: E402
 from upgrades_r18 import UPGRADES_R18  # noqa: E402
@@ -206,6 +207,7 @@ ROUND_DATA = {
     80: ({}, {}),
     81: ({}, {}),
     82: ({}, {}),
+    83: ({}, {}),
 }
 
 
