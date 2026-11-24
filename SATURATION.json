@@ -229,6 +229,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 23,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U06投资者保护、U07危险废物/平台、U08国家责任补强",
+        "权威大纲再对照：发现投资者保护、危险废物、平台治理、国家责任缺口",
+        "深度缺口：自然人、法人、单位犯罪、破产重整仍为L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

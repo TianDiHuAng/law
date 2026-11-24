@@ -2293,6 +2293,79 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "env-hazardous-waste",
+      "title": "危险废物管理",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "环境法·固体废物",
+      "definition": "危险废物管理是对列入国家危险废物名录或者根据危险废物鉴别标准认定的具有危险特性的固体废物，实行严格监管的制度。",
+      "summary": "危险废物经营实行许可证制度，转移危险废物应填写转移联单；产生、收集、贮存、运输、利用、处置危险废物的单位应制定意外事故防范措施和应急预案。",
+      "related": [
+        "env-solid-waste",
+        "env-pollution",
+        "env-law"
+      ],
+      "sources": [
+        "src-law-environment",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "国家危险废物名录与危险废物经营许可办法需按生态环境部现行文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-platform-economy",
+      "title": "平台经济治理",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·平台治理",
+      "definition": "平台经济治理是规范互联网平台经营者竞争行为、数据利用、消费者权益与平台责任的制度体系，涉及反垄断、反不正当竞争、电子商务、数据安全与算法治理。",
+      "summary": "平台经营者不得利用数据、算法、技术、资本优势等从事垄断或不正当竞争行为，应履行平台内经营者管理、消费者权益保护与数据安全义务。",
+      "related": [
+        "ip-anti-unfair",
+        "data-algorithm",
+        "data-cybercrime"
+      ],
+      "sources": [
+        "src-law-anti-unfair",
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "平台经济反垄断指南与电子商务法配套规则需按市场监管总局官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

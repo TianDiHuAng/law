@@ -796,7 +796,65 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国企业破产法》第八章重整（版本：2006年通过，核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "重整申请",
+          "管理人",
+          "重整计划",
+          "债权人分组表决",
+          "法院批准"
+        ],
+        "conditions": [
+          "企业法人具有重整原因或重整可能",
+          "由债务人或债权人依法申请",
+          "法院裁定重整"
+        ],
+        "effects": [
+          "债务人财产由管理人接管",
+          "重整期间暂停个别清偿",
+          "重整计划批准后对全体债权人有约束力"
+        ],
+        "exceptions": [
+          "重整计划未获通过且不符合强制批准条件的，法院应裁定终止重整并宣告破产"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "法院强制批准重整计划的条件",
+            "views": [
+              {
+                "holder": "严格适用说",
+                "basis": "强制批准应严格符合债权人最大利益与公平对待原则"
+              },
+              {
+                "holder": "挽救优先说（部分观点）",
+                "basis": "为挽救企业，可适当放宽强制批准条件"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "破产清算",
+            "difference": "变价分配并终止法人资格"
+          },
+          {
+            "with": "和解",
+            "difference": "债务人与债权人会议达成清偿协议"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "重整就是破产清算",
+            "correction": "重整旨在挽救企业，清算旨在分配财产并终止"
+          },
+          {
+            "claim": "重整计划只约束债务人",
+            "correction": "依法批准的重整计划对全体债权人有约束力"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -808,7 +866,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1859,6 +1917,42 @@
       ],
       "sources": [
         "src-law-bankruptcy",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-investor-protection",
+      "title": "投资者保护",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "商法·证券法",
+      "definition": "投资者保护是证券法为保护投资者合法权益而建立的适当性管理、信息披露、先行赔付、代表人诉讼与投资者保护机构等制度。",
+      "summary": "证券法设专章规定投资者保护，区分普通投资者与专业投资者，强化证券公司适当性义务与上市公司现金分红、债券持有人保护。",
+      "related": [
+        "com-securities",
+        "com-disclosure",
+        "com-insider"
+      ],
+      "sources": [
+        "src-law-securities",
         "src-zgbk"
       ],
       "needs_verification": false,

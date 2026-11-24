@@ -308,6 +308,24 @@
         "L3": 3
       },
       "notes": "R22：新增突发公共卫生事件应急、核安全、网络犯罪、国际人道法；升级审查起诉、认罪认罚从宽、死刑复核程序、公司解散与清算至 L2。"
+    },
+    {
+      "round": 23,
+      "date": "2026-11-24",
+      "new_entries": 4,
+      "upgrades": 4,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 104,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 266,
+      "levels": {
+        "L1": 146,
+        "L2": 117,
+        "L3": 3
+      },
+      "notes": "R23：新增投资者保护、危险废物管理、平台经济治理、国家责任；升级自然人、法人、单位犯罪、破产重整至 L2。"
     }
   ]
 }

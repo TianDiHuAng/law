@@ -2015,6 +2015,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-state-responsibility",
+      "title": "国家责任",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·国家责任",
+      "definition": "国家责任是国家因违反国际义务而应承担的国际法责任，包括停止不法行为、保证不重犯、赔偿、抵偿等后果。",
+      "summary": "国家责任制度由《国家对国际不法行为的责任条款草案》等国际法文件体现，区分一般责任与严重违反强行法的责任。",
+      "related": [
+        "intl-sources",
+        "intl-sovereignty",
+        "intl-treaty"
+      ],
+      "sources": [
+        "src-un-charter",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "国家责任条款草案的条文与各国实践需按联合国国际法委员会资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

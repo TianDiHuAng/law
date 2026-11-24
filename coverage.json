@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 262,
+  "total": 266,
   "levels": {
     "L1": 146,
-    "L2": 113,
+    "L2": 117,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -142,37 +142,37 @@
       "title": "商法与社会法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 24,
-          "合计": 24
+          "概念制度": 25,
+          "合计": 25
         }
       },
       "by_type": {
-        "概念制度": 24
+        "概念制度": 25
       },
       "cross": {
         "中国": {
-          "概念制度": 24
+          "概念制度": 25
         }
       },
-      "total": 24
+      "total": 25
     },
     "u07": {
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 38,
-          "合计": 38
+          "概念制度": 40,
+          "合计": 40
         }
       },
       "by_type": {
-        "概念制度": 38
+        "概念制度": 40
       },
       "cross": {
         "中国": {
-          "概念制度": 38
+          "概念制度": 40
         }
       },
-      "total": 38
+      "total": 40
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 22,
-          "合计": 22
+          "概念制度": 23,
+          "合计": 23
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 32
+        "概念制度": 33
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 22
+          "概念制度": 23
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 32
+      "total": 33
     },
     "u09": {
       "title": "经典案例",
@@ -1017,7 +1017,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -1031,7 +1031,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -1899,7 +1899,7 @@
       "unit": "u04",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2221,7 +2221,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2428,6 +2428,20 @@
     {
       "id": "com-bankruptcy-avoidance",
       "title": "破产撤销权",
+      "unit": "u06",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "com-investor-protection",
+      "title": "投资者保护",
       "unit": "u06",
       "type": "概念制度",
       "importance": "重要",
@@ -2972,6 +2986,34 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "env-hazardous-waste",
+      "title": "危险废物管理",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "国家危险废物名录与危险废物经营许可办法需按生态环境部现行文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "data-platform-economy",
+      "title": "平台经济治理",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "平台经济反垄断指南与电子商务法配套规则需按市场监管总局官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -3417,6 +3459,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "日内瓦四公约及附加议定书的具体条文与批准情况需按红十字国际委员会官方资料核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-state-responsibility",
+      "title": "国家责任",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "国家责任条款草案的条文与各国实践需按联合国国际法委员会资料核对。",
       "last_updated": "2026-11-24"
     },
     {

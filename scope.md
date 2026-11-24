@@ -184,7 +184,7 @@
 | proc-civil-preservation | 财产保全 | 概念制度 | 重要 | A、C | 中国 |
 | proc-civil-mediation | 法院调解 | 概念制度 | 重要 | A、C | 中国 |
 
-### U06 商法与社会法（24 条）
+### U06 商法与社会法（25 条）
 
 公司、破产、证券与劳动保障
 
@@ -214,8 +214,9 @@
 | com-trust | 信托法 | 概念制度 | 重要 | A、C | 中国 |
 | com-bill-defense | 票据抗辩与追索 | 概念制度 | 重要 | A、C | 中国 |
 | com-bankruptcy-avoidance | 破产撤销权 | 概念制度 | 重要 | A、C | 中国 |
+| com-investor-protection | 投资者保护 | 概念制度 | 重要 | A、C | 中国 |
 
-### U07 知识产权、环境与数据法（38 条）
+### U07 知识产权、环境与数据法（40 条）
 
 创新保护、生态治理与数字规则
 
@@ -259,8 +260,10 @@
 | env-biodiversity | 生物多样性保护 | 概念制度 | 补充 | A、C | 中国 |
 | env-nuclear-safety | 核安全 | 概念制度 | 补充 | A、C | 中国 |
 | data-cybercrime | 网络犯罪 | 概念制度 | 重要 | A、C | 中国 |
+| env-hazardous-waste | 危险废物管理 | 概念制度 | 补充 | A、C | 中国 |
+| data-platform-economy | 平台经济治理 | 概念制度 | 补充 | A、C | 中国 |
 
-### U08 比较法与国际法（32 条）
+### U08 比较法与国际法（33 条）
 
 普通法、大陆法、欧盟法与国际规则
 
@@ -298,6 +301,7 @@
 | intl-investment-arbitration | 国际投资仲裁 | 概念制度 | 补充 | A、C | 国际 |
 | intl-judicial-assistance | 国际刑事司法协助 | 概念制度 | 补充 | A、C | 国际 |
 | intl-humanitarian-law | 国际人道法 | 概念制度 | 补充 | A、C | 国际 |
+| intl-state-responsibility | 国家责任 | 概念制度 | 补充 | A、C | 国际 |
 
 ### U09 经典案例（20 条）
 
@@ -369,6 +373,6 @@
 
 ## 五、覆盖统计
 
-- 总条目：262
-- L1：146；L2：113；L3：3
+- 总条目：266
+- L1：146；L2：117；L3：3
 - 核心条目全部达到 L2 及以上的单元：10/11
