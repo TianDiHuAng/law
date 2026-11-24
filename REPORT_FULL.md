@@ -8,7 +8,7 @@
 |---|---|
 | 总条目 | 379 |
 | 单元数 | 11 |
-| L1 / L2 / L3 | 0 / 310 / 69 |
+| L1 / L2 / L3 | 0 / 308 / 71 |
 | 概念制度 / 案例 / 文本导读 / 流程 | 338 / 20 / 15 / 6 |
 | 核心 / 重要 / 补充 | 46 / 194 / 139 |
 | 来源总数 | 144 |
@@ -92,7 +92,7 @@
 ```text
 python tools/check.py
 entries=379 units=11 sources=144 verified=122
-levels={'L3': 69, 'L2': 310}
+levels={'L3': 71, 'L2': 308}
 errors=0 warnings=0
 CHECK_OK
 ```
