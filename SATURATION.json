@@ -722,6 +722,18 @@
       "new_entries": 0,
       "upgrades": 2,
       "remaining_backlog": 6
+    },
+    {
+      "round": 61,
+      "date": "2026-11-24",
+      "methods": [
+        "深度缺口：U09 案例页重要级 L1 集中",
+        "批量升级：8 个中外经典案例一次升至 L2"
+      ],
+      "gaps_found": 8,
+      "new_entries": 0,
+      "upgrades": 8,
+      "remaining_backlog": 6
     }
   ]
 }
