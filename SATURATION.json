@@ -1275,6 +1275,20 @@
       "saturated": true,
       "no_gap_streak": 24,
       "note": "维持饱和（第24轮无新缺口）"
+    },
+    {
+      "round": 101,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：中华法系、大陆法系升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 25,
+      "note": "维持饱和（第25轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1292,8 +1306,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 328,
-      "L3": 51
+      "L2": 326,
+      "L3": 53
     },
     "sources": 144,
     "verified": 122

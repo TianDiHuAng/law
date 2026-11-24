@@ -3,8 +3,8 @@
   "total": 379,
   "levels": {
     "L1": 0,
-    "L2": 328,
-    "L3": 51
+    "L2": 326,
+    "L3": 53
   },
   "core_l2_coverage": {
     "u01": true,
@@ -499,7 +499,7 @@
       "unit": "u01",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L2",
+      "level": "L3",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -541,7 +541,7 @@
       "unit": "u01",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L2",
+      "level": "L3",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
