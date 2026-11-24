@@ -2237,10 +2237,12 @@
       ],
       "sources": [
         "src-law-environment",
-        "src-zgbk"
+        "src-zgbk",
+        "src-spc-fs-2026-15",
+        "src-spc-ji-list"
       ],
-      "needs_verification": false,
-      "pending_notes": "2014年修订后条文序号与配套办法需按官方文本核对。",
+      "needs_verification": true,
+      "pending_notes": "2014年修订后条文序号与配套办法需按官方文本核对。 生态环境法典已于2026-08-15施行；本页原以环境保护法为导读对象，须改为法典导读并按官方文本重写结构、关键条文与修订历程。",
       "l2": {
         "definition_source": "《中华人民共和国环境保护法》（版本：2014年4月24日修订，2015年1月1日施行，核对日期：2026-11-24）。",
         "elements": [
@@ -2323,7 +2325,7 @@
       },
       "case": null,
       "law": {
-        "status": "现行有效",
+        "status": "待复核",
         "version": "2014年修订",
         "effective_date": "2015-01-01",
         "checked_date": "2026-11-24",
@@ -2389,7 +2391,7 @@
         "国家法律法规数据库法律分类"
       ],
       "status": "L3",
-      "legal_status": "现行有效",
+      "legal_status": "待复核",
       "checked_date": "2026-11-24"
     },
     {

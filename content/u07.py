@@ -85,7 +85,7 @@ U = UNIT(
         E("env-law", "环境保护法", "concept", "核心", "中国", "环境法·环境保护基本法（2015年1月1日施行）",
           "环境保护法是中国环境保护领域的基础性法律，规定环境保护监督管理、保护和改善环境、防治污染和其他公害、信息公开与公众参与、法律责任等。",
           "2014年修订的环境保护法确立保护优先、预防为主、综合治理、公众参与、损害担责原则，被称为“史上最严环保法”。",
-          ["src-law-environment", "src-jd-eco-tort", "src-zgbk"],
+          ["src-law-environment", "src-jd-eco-tort", "src-zgbk", "src-spc-fs-2026-15"],
           related=["env-pollution", "env-ecological", "civil-tort-strict"],
           l2=dict(
               definition_source="《中华人民共和国环境保护法》（版本：2014年修订，2015年1月1日施行，核对日期：2026-11-24）。",

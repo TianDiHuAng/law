@@ -188,6 +188,7 @@ from upgrades_r138 import L3_UPGRADES_R138  # noqa: E402
 from upgrades_r139 import L3_UPGRADES_R139  # noqa: E402
 from upgrades_r140 import L3_UPGRADES_R140  # noqa: E402
 from upgrades_r141 import L3_UPGRADES_R141  # noqa: E402
+from upgrades_r142 import L3_UPGRADES_R142, REVIEW_R142  # noqa: E402
 
 TODAY = "2026-11-24"
 OUTLINE_A = "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）"
@@ -534,6 +535,8 @@ def main():
                 e["l3"] = L3_UPGRADES_R140[e["id"]]
             if e["id"] in L3_UPGRADES_R141:
                 e["l3"] = L3_UPGRADES_R141[e["id"]]
+            if e["id"] in L3_UPGRADES_R142:
+                e["l3"] = L3_UPGRADES_R142[e["id"]]
 
     ids, titles = {}, {}
     entries_all = []
@@ -549,6 +552,13 @@ def main():
             e["unit_id"] = unit["unit_id"]
             e["unit_title"] = unit["title"]
             e["outline_sources"] = OUTLINE_BY_TYPE[e["type"]]
+            if e["id"] in REVIEW_R142:
+                e["needs_verification"] = True
+                note = REVIEW_R142[e["id"]]
+                prev = (e.get("pending_notes") or "").strip()
+                e["pending_notes"] = prev if note in prev else (prev + " " + note).strip()
+                if e["type"] == "law" and e.get("law"):
+                    e["law"]["status"] = "待复核"
             e["status"] = "L3" if e.get("l3") else ("L2" if e.get("l2") else "L1")
             if e["type"] == "law" and e.get("law"):
                 e["legal_status"] = e["law"].get("status", "待复核")

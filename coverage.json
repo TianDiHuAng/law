@@ -3,8 +3,8 @@
   "total": 379,
   "levels": {
     "L1": 0,
-    "L2": 246,
-    "L3": 133
+    "L2": 244,
+    "L3": 135
   },
   "core_l2_coverage": {
     "u01": true,
@@ -2865,7 +2865,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "核心",
-      "level": "L2",
+      "level": "L3",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2949,7 +2949,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L2",
+      "level": "L3",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -3315,10 +3315,10 @@
       "importance": "核心",
       "level": "L2",
       "status": "done",
-      "source_count": 3,
-      "verified_source_count": 3,
-      "unverified_count": 0,
-      "pending_notes": "环境保护法配套办法与生态环境损害赔偿制度改革文件需按官方文本核对。",
+      "source_count": 4,
+      "verified_source_count": 4,
+      "unverified_count": 1,
+      "pending_notes": "环境保护法配套办法与生态环境损害赔偿制度改革文件需按官方文本核对。 生态环境法典已于2026-08-15施行（据法释〔2026〕15号），环境保护法的体系定位与条文依据需按法典官方文本重核。",
       "last_updated": "2026-11-24"
     },
     {
@@ -3542,7 +3542,7 @@
       "source_count": 2,
       "verified_source_count": 2,
       "unverified_count": 1,
-      "pending_notes": "土壤污染防治法及配套标准需按生态环境部现行文本核对。",
+      "pending_notes": "土壤污染防治法及配套标准需按生态环境部现行文本核对。 生态环境法典施行后，土壤污染防治的规范依据可能已编入法典，需按法典官方文本核对后再定稿。",
       "last_updated": "2026-11-24"
     },
     {
@@ -3570,7 +3570,7 @@
       "source_count": 2,
       "verified_source_count": 2,
       "unverified_count": 1,
-      "pending_notes": "固体废物污染环境防治法及危险废物名录需按生态环境部现行文本核对。",
+      "pending_notes": "固体废物污染环境防治法及危险废物名录需按生态环境部现行文本核对。 生态环境法典施行后，固体废物污染防治的规范依据可能已编入法典，需按法典官方文本核对后再定稿。",
       "last_updated": "2026-11-24"
     },
     {
@@ -3584,7 +3584,7 @@
       "source_count": 2,
       "verified_source_count": 2,
       "unverified_count": 1,
-      "pending_notes": "大气污染防治法及地方实施条例需按生态环境部现行文本核对。",
+      "pending_notes": "大气污染防治法及地方实施条例需按生态环境部现行文本核对。 生态环境法典施行后，大气污染防治的规范依据可能已编入法典，需按法典官方文本核对后再定稿。",
       "last_updated": "2026-11-24"
     },
     {
@@ -3794,7 +3794,7 @@
       "source_count": 2,
       "verified_source_count": 2,
       "unverified_count": 1,
-      "pending_notes": "水污染防治法及地方水污染物排放标准需按生态环境部现行文本核对。",
+      "pending_notes": "水污染防治法及地方水污染物排放标准需按生态环境部现行文本核对。 生态环境法典施行后，水污染防治的规范依据可能已编入法典，需按法典官方文本核对后再定稿。",
       "last_updated": "2026-11-24"
     },
     {
@@ -5527,10 +5527,10 @@
       "importance": "重要",
       "level": "L3",
       "status": "done",
-      "source_count": 2,
-      "verified_source_count": 2,
-      "unverified_count": 0,
-      "pending_notes": "2014年修订后条文序号与配套办法需按官方文本核对。",
+      "source_count": 4,
+      "verified_source_count": 4,
+      "unverified_count": 1,
+      "pending_notes": "2014年修订后条文序号与配套办法需按官方文本核对。 生态环境法典已于2026-08-15施行；本页原以环境保护法为导读对象，须改为法典导读并按官方文本重写结构、关键条文与修订历程。",
       "last_updated": "2026-11-24"
     },
     {
