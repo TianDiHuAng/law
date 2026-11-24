@@ -1061,6 +1061,20 @@
       "saturated": true,
       "no_gap_streak": 9,
       "note": "维持饱和（第9轮无新缺口）"
+    },
+    {
+      "round": 86,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：侵权责任编、公司设立升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 10,
+      "note": "维持饱和（第10轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1078,8 +1092,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 358,
-      "L3": 21
+      "L2": 356,
+      "L3": 23
     },
     "sources": 144,
     "verified": 122

@@ -1454,6 +1454,24 @@
         "L3": 21
       },
       "notes": "R85 维护模式（饱和中）：代理、诉讼时效升级 L3（L3 达 21 条）；缺口复检无新缺口，维持饱和。"
+    },
+    {
+      "round": 86,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 184,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 379,
+      "levels": {
+        "L1": 0,
+        "L2": 356,
+        "L3": 23
+      },
+      "notes": "R86 维护模式（饱和中）：侵权责任编、公司设立升级 L3（L3 达 23 条）；缺口复检无新缺口，维持饱和。"
     }
   ]
 }
