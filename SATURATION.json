@@ -1332,6 +1332,20 @@
       "saturated": true,
       "no_gap_streak": 28,
       "note": "维持饱和（第28轮无新缺口）"
+    },
+    {
+      "round": 105,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：民事法律行为、合同订立升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 29,
+      "note": "维持饱和（第29轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1349,8 +1363,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 320,
-      "L3": 59
+      "L2": 318,
+      "L3": 61
     },
     "sources": 144,
     "verified": 122
