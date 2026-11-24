@@ -4844,6 +4844,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-classification-practice",
+      "title": "数据分类分级的行业实践",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·数据治理",
+      "definition": "数据分类分级的行业实践是各行业主管部门依数据安全法要求，结合行业特点制定数据分类分级规则并推动企业落地实施的实践。",
+      "summary": "金融、电信、汽车、医疗等行业已出台分类分级指南，企业在行业目录基础上建立内部数据清单、定级与差异化保护措施。",
+      "related": [
+        "data-classification",
+        "data-security-standards",
+        "data-important-data"
+      ],
+      "sources": [
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "各行业分类分级指南的现行版本需按行业主管部门官方文件核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

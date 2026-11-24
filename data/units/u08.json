@@ -3484,6 +3484,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-treaty-interpretation-investment",
+      "title": "国际投资条约的解释",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际经济法·投资条约",
+      "definition": "国际投资条约的解释是仲裁庭依《维也纳条约法公约》解释规则，对条约术语、保护标准与例外条款含义作出阐释的活动。",
+      "summary": "解释争议常集中于公平公正待遇、间接征收、保护伞条款与根本安全例外；条约目的与宗旨、缔约方嗣后实践与准备资料均属解释要素。",
+      "related": [
+        "intl-investment-arbitration",
+        "intl-treaty",
+        "intl-treaty-domestic"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-icsid",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "投资条约解释的典型案例与缔约方联合解释实践需按 ICSID 与条约机构资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

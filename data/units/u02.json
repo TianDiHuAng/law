@@ -3589,6 +3589,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-adjudication-remedy",
+      "title": "行政裁决的救济",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政裁决",
+      "definition": "行政裁决是行政机关依职权对与行政管理活动密切相关的民事纠纷作出裁断的行为，如土地权属争议、知识产权侵权赔偿数额争议等。",
+      "summary": "当事人对行政裁决不服的，一般可提起行政诉讼；行政裁决并不排除当事人就原民事争议另行通过民事诉讼解决，具体依法律规定确定。",
+      "related": [
+        "admin-act",
+        "proc-admin-litigation",
+        "admin-mediation"
+      ],
+      "sources": [
+        "src-law-admin-litigation",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "行政裁决的范围与救济途径分散于各部门法，需按具体领域规定核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

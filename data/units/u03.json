@@ -4995,6 +4995,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-independent-guarantee",
+      "title": "独立保证",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "民法·担保制度",
+      "definition": "独立保证是保证人与债权人约定，其付款义务独立于主合同关系，仅依约定单据或条件履行的保证形式，常见于见索即付保函。",
+      "summary": "独立保证突破从属性原则，但我国司法实践对独立担保的效力认定较为严格，国内交易中一般依从属性保证处理，涉外见索即付保函依约定与国际惯例。",
+      "related": [
+        "civil-guarantee",
+        "civil-joint-guarantee",
+        "intl-commercial-arbitration"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "独立保证的效力认定与见索即付保函的司法态度需按最高人民法院裁判规则核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
