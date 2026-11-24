@@ -190,6 +190,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 20,
+      "date": "2026-11-24",
+      "methods": [
+        "体检：死链0、过期0、重复0、孤儿0、近重复0",
+        "待核实清单：复核9案例与32未核验来源",
+        "深度缺口：行政确认、个人信息可携带权、湿地保护升级L2"
+      ],
+      "gaps_found": 3,
+      "new_entries": 0,
+      "upgrades": 3,
+      "remaining_backlog": 8
     }
   ]
 }
