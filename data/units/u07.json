@@ -3428,6 +3428,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-data-space",
+      "title": "数据空间",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "数据法·数据基础设施",
+      "definition": "数据空间是面向特定行业或领域，以数据可信流通与共享为目标的基础设施与治理机制，强调数据主权、互操作与可控共享。",
+      "summary": "数据空间建设涉及数据目录、身份认证、使用控制与安全审计等技术标准与治理规则；中国相关实践以行业数据空间与地方试点为主。",
+      "related": [
+        "data-data-governance",
+        "data-factor-market",
+        "data-cross-border"
+      ],
+      "sources": [
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "数据空间相关标准与试点政策需按国家数据局及行业主管部门官方文件核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

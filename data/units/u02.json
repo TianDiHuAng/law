@@ -3335,6 +3335,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-license-renewal",
+      "title": "行政许可的有效期与延续",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·行政许可",
+      "definition": "行政许可的有效期是许可决定所确定的效力存续期间；被许可人需要延续有效期的，应在期限届满前依法提出延续申请。",
+      "summary": "法律、法规、规章未规定期限的，行政机关应根据事项性质确定期限；行政机关应在有效期届满前作出是否准予延续的决定，逾期未决定的视为准予延续。",
+      "related": [
+        "admin-license",
+        "admin-license-revocation",
+        "admin-principles"
+      ],
+      "sources": [
+        "src-law-admin-license",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
