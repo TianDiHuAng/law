@@ -926,7 +926,70 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国民法典》第五百零九条至第五百一十一条（版本：2020年通过，核对日期：2026-11-24）。",
+        "elements": [
+          "全面履行",
+          "适当履行",
+          "诚信履行",
+          "协作履行"
+        ],
+        "conditions": [
+          "合同有效成立",
+          "履行期届至或条件成就",
+          "当事人具有履行能力"
+        ],
+        "effects": [
+          "债务人应按约定全面履行义务",
+          "债权人应协助履行",
+          "不履行或履行不符合约定可能构成违约"
+        ],
+        "exceptions": [
+          "同时履行抗辩权",
+          "先履行抗辩权",
+          "不安抗辩权",
+          "不可抗力"
+        ],
+        "cases": [
+          "case-carlill",
+          "case-hadley"
+        ],
+        "controversies": [
+          {
+            "issue": "情势变更与商业风险的界限",
+            "views": [
+              {
+                "holder": "严格适用说",
+                "basis": "情势变更须为当事人订约时无法预见、非商业风险且继续履行明显不公平"
+              },
+              {
+                "holder": "灵活调整说（部分学者）",
+                "basis": "应适当扩大情势变更适用，缓解交易僵局"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "合同变更",
+            "difference": "履行是按约完成义务，变更是改变合同内容"
+          },
+          {
+            "with": "违约责任",
+            "difference": "履行是义务的实现，违约责任是不履行的后果"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "合同签订后可以随意不履行",
+            "correction": "依法成立的合同具有约束力，不履行可能承担违约责任"
+          },
+          {
+            "claim": "对方违约就可以不履行自己的义务",
+            "correction": "是否可中止履行须依抗辩权规则判断"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -938,7 +1001,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1862,6 +1925,79 @@
         "civil-contract",
         "civil-ownership",
         "proc-civil-mediation"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-personality-injunction",
+      "title": "人格权侵害禁令",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·人格权保护",
+      "definition": "人格权侵害禁令是民事主体有证据证明行为人正在实施或者即将实施侵害其人格权的违法行为，不及时制止将使其合法权益受到难以弥补的损害时，依法请求人民法院责令行为人停止有关行为的措施。",
+      "summary": "人格权侵害禁令是民法典人格权编的重要救济方式，适用于名誉、隐私、个人信息等人格权益受侵害或有受侵害之虞的情形。",
+      "related": [
+        "civil-personality",
+        "civil-privacy",
+        "civil-tort"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk",
+        "src-wiki-civil-code"
+      ],
+      "needs_verification": true,
+      "pending_notes": "人格权侵害禁令的司法解释与典型案例需按最高人民法院现行文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-construction-contract",
+      "title": "建设工程合同",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·典型合同",
+      "definition": "建设工程合同是承包人进行工程建设，发包人支付价款的合同，包括工程勘察、设计、施工合同。",
+      "summary": "建设工程合同应当采用书面形式；承包人应具备相应资质，违法转包、分包可能影响合同效力并产生行政责任。",
+      "related": [
+        "civil-contract",
+        "civil-contract-liability",
+        "civil-property"
       ],
       "sources": [
         "src-law-civil-code",

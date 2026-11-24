@@ -79,7 +79,7 @@
 | admin-administrative-agreement | 行政协议 | 概念制度 | 重要 | A、C | 中国 |
 | admin-government-info | 政府信息公开 | 概念制度 | 重要 | A、C | 中国 |
 
-### U03 民法（33 条）
+### U03 民法（35 条）
 
 民法典体系与民事权利义务
 
@@ -118,6 +118,8 @@
 | civil-medical | 医疗损害责任 | 概念制度 | 重要 | A、C | 中国 |
 | civil-guarantee | 保证合同 | 概念制度 | 重要 | A、C | 中国 |
 | civil-property-service | 物业服务合同 | 概念制度 | 重要 | A、C | 中国 |
+| civil-personality-injunction | 人格权侵害禁令 | 概念制度 | 重要 | A、C | 中国 |
+| civil-construction-contract | 建设工程合同 | 概念制度 | 重要 | A、C | 中国 |
 
 ### U04 刑法与刑事程序（25 条）
 
@@ -170,7 +172,7 @@
 | proc-civil-preservation | 财产保全 | 概念制度 | 重要 | A、C | 中国 |
 | proc-civil-mediation | 法院调解 | 概念制度 | 重要 | A、C | 中国 |
 
-### U06 商法与社会法（22 条）
+### U06 商法与社会法（24 条）
 
 公司、破产、证券与劳动保障
 
@@ -198,6 +200,8 @@
 | social-protection | 社会救助与社会保障 | 概念制度 | 补充 | A、C | 中国 |
 | com-partnership | 合伙企业法 | 概念制度 | 重要 | A、C | 中国 |
 | com-trust | 信托法 | 概念制度 | 重要 | A、C | 中国 |
+| com-bill-defense | 票据抗辩与追索 | 概念制度 | 重要 | A、C | 中国 |
+| com-bankruptcy-avoidance | 破产撤销权 | 概念制度 | 重要 | A、C | 中国 |
 
 ### U07 知识产权、环境与数据法（18 条）
 
@@ -224,7 +228,7 @@
 | ip-geographical-indication | 地理标志 | 概念制度 | 重要 | A、C | 中国 |
 | data-critical-infrastructure | 关键信息基础设施保护 | 概念制度 | 重要 | A、C | 中国 |
 
-### U08 比较法与国际法（20 条）
+### U08 比较法与国际法（21 条）
 
 普通法、大陆法、欧盟法与国际规则
 
@@ -250,6 +254,7 @@
 | intl-law-of-sea | 海洋法 | 概念制度 | 补充 | A、C | 国际 |
 | intl-international-criminal | 国际刑法 | 概念制度 | 补充 | A、C | 国际 |
 | intl-organization-law | 国际组织法 | 概念制度 | 补充 | A、C | 国际 |
+| intl-sea-dispute | 国际海洋争端解决 | 概念制度 | 补充 | A、C | 国际 |
 
 ### U09 经典案例（20 条）
 
@@ -318,6 +323,6 @@
 
 ## 五、覆盖统计
 
-- 总条目：211
-- L1：155；L2：53；L3：3
+- 总条目：216
+- L1：155；L2：58；L3：3
 - 核心条目全部达到 L2 及以上的单元：10/11

@@ -9,8 +9,10 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 sys.path.insert(0, os.path.join(ROOT, "content"))
 from extras import EXTRAS  # noqa: E402
 from extras_r07 import EXTRAS_R07  # noqa: E402
+from extras_r08 import EXTRAS_R08  # noqa: E402
 from upgrades import UPGRADES  # noqa: E402
 from upgrades_r07 import UPGRADES_R07  # noqa: E402
+from upgrades_r08 import UPGRADES_R08  # noqa: E402
 
 
 def main():
@@ -21,16 +23,16 @@ def main():
     sources = {s["id"]: s for s in json.load(open(os.path.join(ROOT, "sources.json"), encoding="utf-8"))["sources"]}
     changed = []
     seen = set()
-    for uid, es in EXTRAS_R07.items():
+    for uid, es in EXTRAS_R08.items():
         for e in es:
             if e["id"] not in seen:
                 changed.append(e["id"]); seen.add(e["id"])
-    for eid in UPGRADES_R07:
+    for eid in UPGRADES_R08:
         if eid not in seen:
             changed.append(eid); seen.add(eid)
     rng = random.Random(20261124)
     sample = rng.sample(changed, min(5, len(changed)))
-    lines = ["# SPOTCHECK — R07 本轮抽检\n", f"> 日期：2026-11-24；本轮新增/升级 {len(changed)} 条，抽检 {len(sample)} 条（约 10%，至少 3 条）。\n",
+    lines = ["# SPOTCHECK — R08 本轮抽检\n", f"> 日期：2026-11-24；本轮新增/升级 {len(changed)} 条，抽检 {len(sample)} 条（约 10%，至少 3 条）。\n",
              "| 条目 | 类型 | 来源数 | 已核验 | 待核实标注 | 结论 |", "|---|---|---|---|---|---|"]
     fail = 0
     for eid in sample:
@@ -44,8 +46,7 @@ def main():
         ok = v >= 2 or (v >= 1 and e.get("needs_verification") and e.get("pending_notes"))
         if not ok:
             fail += 1
-        new_ids = {x['id'] for es in EXTRAS.values() for x in es} | {x['id'] for es in EXTRAS_R07.values() for x in es}
-        lines.append(f"| {eid} | {'新增' if eid in new_ids else '升级'} | {len(srcs)} | {v} | {'是' if e.get('needs_verification') else '否'} | {'通过' if ok else '不合格'} |")
+        lines.append(f"| {eid} | {'新增' if eid in {x['id'] for es in EXTRAS_R08.values() for x in es} else '升级'} | {len(srcs)} | {v} | {'是' if e.get('needs_verification') else '否'} | {'通过' if ok else '不合格'} |")
     lines.append("")
     lines.append(f"**结论：抽检 {len(sample)} 条，0 不合格**" if fail == 0 else f"**结论：不合格 {fail} 条，需整批返工**")
     open(os.path.join(ROOT, "SPOTCHECK.md"), "w", encoding="utf-8").write("\n".join(lines) + "\n")

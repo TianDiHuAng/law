@@ -841,7 +841,68 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《ICSID公约》及国际投资协定实践（核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "外国投资者",
+          "投资",
+          "东道国",
+          "投资条约保护",
+          "争端解决"
+        ],
+        "conditions": [
+          "存在受保护的投资",
+          "投资者具有条约规定的国籍",
+          "东道国违反条约义务",
+          "用尽当地救济或符合条约约定的例外"
+        ],
+        "effects": [
+          "东道国承担赔偿或其他救济责任",
+          "投资者可提起 ISDS 仲裁",
+          "仲裁裁决可依法承认与执行"
+        ],
+        "exceptions": [
+          "国家安全例外",
+          "根本安全利益例外",
+          "税收、金融审慎措施等特别例外"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "ISDS 机制的正当性",
+            "views": [
+              {
+                "holder": "投资保护说",
+                "basis": "ISDS 为外国投资者提供中立、去政治化的争端解决渠道"
+              },
+              {
+                "holder": "主权质疑说",
+                "basis": "ISDS 可能限制东道国公共政策空间，应加强改革与透明度"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "国际贸易法",
+            "difference": "投资法保护投资与投资者，贸易法规范货物、服务与知识产权贸易"
+          },
+          {
+            "with": "国际商事仲裁",
+            "difference": "ISDS 一方为东道国，涉及条约义务而非普通商事合同"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "任何外国投资争议都可以提交 ICSID",
+            "correction": "须满足条约同意、投资者资格与投资定义等条件"
+          },
+          {
+            "claim": "ISDS 裁决自动执行",
+            "correction": "裁决须依《ICSID公约》或相关公约在成员国承认与执行"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -853,7 +914,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1024,6 +1085,43 @@
       ],
       "needs_verification": true,
       "pending_notes": "各国际组织的基本文件与特权豁免公约需按组织官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-sea-dispute",
+      "title": "国际海洋争端解决",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·海洋法",
+      "definition": "国际海洋争端解决是依据《联合国海洋法公约》第十五部分等机制，通过谈判、调解、仲裁、国际法院或国际海洋法法庭解决海洋权益争端的制度。",
+      "summary": "公约设置强制争端解决程序，但允许缔约国对特定争端作出保留或选择例外；中国已依法作出相关声明，具体范围以官方文本为准。",
+      "related": [
+        "intl-law-of-sea",
+        "intl-sources",
+        "intl-treaty"
+      ],
+      "sources": [
+        "src-un-charter",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "《联合国海洋法公约》争端解决条款与中国相关声明需按联合国及外交部官方文本核对。",
       "l2": null,
       "l3": null,
       "case": null,
