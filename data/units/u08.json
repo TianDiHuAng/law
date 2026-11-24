@@ -1618,6 +1618,43 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-space-law",
+      "title": "外层空间法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·外层空间",
+      "definition": "外层空间法是规范外层空间探索、利用与天体活动的国际法分支，核心渊源包括《外层空间条约》《责任公约》《登记公约》等。",
+      "summary": "外层空间法确立外层空间不得据为己有、和平利用、国际合作、国家责任与空间物体登记等原则。",
+      "related": [
+        "intl-sources",
+        "intl-treaty",
+        "intl-organization-law"
+      ],
+      "sources": [
+        "src-un-charter",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "外层空间条约体系与各国空间立法需按联合国外空事务厅官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

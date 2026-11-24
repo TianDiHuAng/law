@@ -1632,6 +1632,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-government-procurement",
+      "title": "政府采购",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "行政法学·政府采购",
+      "definition": "政府采购是各级国家机关、事业单位和团体组织使用财政性资金采购依法制定的集中采购目录以内的或者采购限额标准以上的货物、工程和服务的行为。",
+      "summary": "政府采购遵循公开透明、公平竞争、公正和诚实信用原则，采购方式包括公开招标、邀请招标、竞争性谈判、单一来源采购、询价等。",
+      "related": [
+        "admin-act",
+        "admin-license",
+        "admin-principles"
+      ],
+      "sources": [
+        "src-gov-cn",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "政府采购法及其实施条例的具体条文与最新修订需按官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

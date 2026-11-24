@@ -138,6 +138,19 @@
       "new_entries": 0,
       "upgrades": 2,
       "remaining_backlog": 8
+    },
+    {
+      "round": 16,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02行政法、U03继承、U07海洋环境、U08外空法补强",
+        "权威大纲再对照：发现政府采购、遗产管理人、海洋环境保护、外层空间法缺口",
+        "深度缺口：公司治理、工时、工资、社会保险仍为L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

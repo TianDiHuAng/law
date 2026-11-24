@@ -49,7 +49,7 @@
 | theory-natural-positive | 自然法与实证法 | 概念制度 | 补充 | A、C | 西方 |
 | theory-legal-norm | 法律规范 | 概念制度 | 补充 | A、C | 中国 |
 
-### U02 宪法与行政法（25 条）
+### U02 宪法与行政法（26 条）
 
 国家权力结构、基本权利与行政法治
 
@@ -80,8 +80,9 @@
 | admin-government-info | 政府信息公开 | 概念制度 | 重要 | A、C | 中国 |
 | admin-hearing | 行政听证 | 概念制度 | 重要 | A、C | 中国 |
 | admin-administrative-adjudication | 行政裁决 | 概念制度 | 补充 | A、C | 中国 |
+| admin-government-procurement | 政府采购 | 概念制度 | 重要 | A、C | 中国 |
 
-### U03 民法（38 条）
+### U03 民法（39 条）
 
 民法典体系与民事权利义务
 
@@ -125,6 +126,7 @@
 | civil-legacy-support | 遗赠扶养协议 | 概念制度 | 重要 | A、C | 中国 |
 | civil-adoption | 收养制度 | 概念制度 | 重要 | A、C | 中国 |
 | civil-name | 姓名权 | 概念制度 | 重要 | A、C | 中国 |
+| civil-estate-administrator | 遗产管理人制度 | 概念制度 | 重要 | A、C | 中国 |
 
 ### U04 刑法与刑事程序（25 条）
 
@@ -208,7 +210,7 @@
 | com-bill-defense | 票据抗辩与追索 | 概念制度 | 重要 | A、C | 中国 |
 | com-bankruptcy-avoidance | 破产撤销权 | 概念制度 | 重要 | A、C | 中国 |
 
-### U07 知识产权、环境与数据法（27 条）
+### U07 知识产权、环境与数据法（28 条）
 
 创新保护、生态治理与数字规则
 
@@ -241,8 +243,9 @@
 | env-solid-waste | 固体废物污染环境防治 | 概念制度 | 补充 | A、C | 中国 |
 | env-air-pollution | 大气污染防治 | 概念制度 | 重要 | A、C | 中国 |
 | data-cybersecurity-review | 网络安全审查 | 概念制度 | 重要 | A、C | 中国 |
+| env-marine-pollution | 海洋环境保护 | 概念制度 | 补充 | A、C | 中国 |
 
-### U08 比较法与国际法（26 条）
+### U08 比较法与国际法（27 条）
 
 普通法、大陆法、欧盟法与国际规则
 
@@ -274,6 +277,7 @@
 | intl-diplomatic-law | 外交关系法 | 概念制度 | 补充 | A、C | 国际 |
 | intl-icc | 国际刑事法院 | 概念制度 | 补充 | A、C | 国际 |
 | intl-icj | 国际法院 | 概念制度 | 补充 | A、C | 国际 |
+| intl-space-law | 外层空间法 | 概念制度 | 补充 | A、C | 国际 |
 
 ### U09 经典案例（20 条）
 
@@ -345,6 +349,6 @@
 
 ## 五、覆盖统计
 
-- 总条目：238
-- L1：149；L2：86；L3：3
+- 总条目：242
+- L1：149；L2：90；L3：3
 - 核心条目全部达到 L2 及以上的单元：10/11
