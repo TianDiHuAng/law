@@ -158,7 +158,7 @@ def main():
     lines.append(f"| B | {OUTLINE_B} | 法律职业资格考试部门法范围 | [来源](https://www.moj.gov.cn/pub/sfbgw/gwxw/xwyw/202505/t20250515_519393.html) |")
     lines.append(f"| C | {OUTLINE_C} | 法学学科分支与概念体系 | [来源](https://www.zgbk.com/) |")
     lines.append(f"| D | {OUTLINE_D} | 现行法律分类与法规名称 | [来源](https://flk.npc.gov.cn/) |")
-    lines.append("\n> 说明：表中的 A/B/C/D 表示该条目所属知识领域在对应大纲/目录中有对应分类，不表示逐字同名条目；层级为编辑投入优先级。\n")
+    lines.append("\n> 说明：表中的 A/B/C/D 表示该条目所属知识领域在对应大纲/目录中有对应分类，不表示逐字同名条目；层级为编辑投入优先级。本清单不是任何单一教材的目录复制，而是按四份来源的共同知识领域取并集后整理；教材、百科与评注有版权，未逐字复制其结构。\n")
     lines.append("\n## 二、层级说明\n")
     lines.append("- **核心**：法学体系的主干制度或基础范畴，优先升 L2，个别升 L3。")
     lines.append("- **重要**：理解主干所必需的制度、程序或案例，保持 L1，条件成熟再升级。")

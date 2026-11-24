@@ -333,8 +333,9 @@ def render_law(e, by_id, source_map):
     amendments = "".join(f"<li>{esc(x)}</li>" for x in l.get("amendments", []))
     interp = "".join(f"<li>{esc(x)}</li>" for x in l.get("interpretations", []))
     meta = f"""<div class="law-meta"><span>状态：{esc(l.get('status',''))}</span><span>版本：{esc(l.get('version',''))}</span><span>施行：{esc(l.get('effective_date',''))}</span><span>核对：{esc(l.get('checked_date',''))}</span></div>"""
-    diagram = layered_svg(f"{e['title']} · 结构图", [(x.get("name", ""), []) for x in l.get("structure", [])[:6]]) if l.get("structure") else ""
-    body = f"""<div class="page-head"><p class="kicker">{esc(e['_unit']['title'])} · 法律文本导读</p><h1>{esc(e['title'])}</h1><div class="badges">{badge(e)}</div><p class="lead">{esc(e['definition'])}</p>{meta}</div>
+    diagram = layered_svg(f"{e['title']} · 结构图", [(x.get("name", ""), [str(x.get("content", ""))[:18] + ("…" if len(str(x.get("content", ""))) > 18 else "")]) for x in l.get("structure", [])[:6]]) if l.get("structure") else ""
+    kicker = e['_unit']['title'] if e['_unit']['title'] == "法律文本导读" else f"{e['_unit']['title']} · 法律文本导读"
+    body = f"""<div class="page-head"><p class="kicker">{esc(kicker)}</p><h1>{esc(e['title'])}</h1><div class="badges">{badge(e)}</div><p class="lead">{esc(e['definition'])}</p>{meta}</div>
 <article class="prose">
 <section><h2>立法背景</h2><p>{esc(l.get('background',''))}</p></section>
 <section><h2>结构</h2><table class="data-table compact">{structure}</table></section>
