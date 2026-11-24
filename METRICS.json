@@ -217,6 +217,24 @@
         "L3": 3
       },
       "notes": "R17：新增重要数据、生态保护红线、国际服务贸易、合同保全；升级用益物权、量刑、工伤保险、信息披露制度至 L2。"
+    },
+    {
+      "round": 18,
+      "date": "2026-11-24",
+      "new_entries": 4,
+      "upgrades": 4,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 90,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 250,
+      "levels": {
+        "L1": 149,
+        "L2": 98,
+        "L3": 3
+      },
+      "notes": "R18：新增数据泄露通知、碳排放权交易、国际商事仲裁、诚信原则；升级应对气候变化、国际组织法、未成年人刑事程序、审判监督程序至 L2。"
     }
   ]
 }

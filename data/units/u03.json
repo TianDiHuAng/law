@@ -2553,6 +2553,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-good-faith",
+      "title": "诚信原则",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·基本原则",
+      "definition": "诚信原则是民事主体从事民事活动应当秉持诚实、恪守承诺的原则，要求当事人善意行使权利、履行义务。",
+      "summary": "诚信原则贯穿民事活动的全过程，可用于解释法律行为、补充合同漏洞、限制权利滥用，是民法典的基本原则之一。",
+      "related": [
+        "civil-general",
+        "civil-act",
+        "civil-contract"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

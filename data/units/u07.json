@@ -1246,7 +1246,66 @@
       ],
       "needs_verification": true,
       "pending_notes": "气候变化专门立法进展与碳市场规则需按官方最新文件核对。",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国环境保护法》及国家应对气候变化相关政策和立法（核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "减缓",
+          "适应",
+          "碳排放控制",
+          "碳市场",
+          "气候风险"
+        ],
+        "conditions": [
+          "国家确定应对气候变化目标",
+          "重点行业与企业承担减排责任",
+          "地方制定适应气候变化措施"
+        ],
+        "effects": [
+          "国家履行温室气体排放控制义务",
+          "企业参与碳市场与披露",
+          "气候风险纳入规划与投资决策"
+        ],
+        "exceptions": [
+          "国家自主贡献目标调整须依国际承诺与国内程序",
+          "特殊行业可获差别化安排"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "气候变化诉讼的可诉性",
+            "views": [
+              {
+                "holder": "司法能动说",
+                "basis": "法院应受理气候变化相关诉讼，督促政府与企业履行减排义务"
+              },
+              {
+                "holder": "政策裁量说（部分观点）",
+                "basis": "气候政策属于立法与行政裁量，司法应保持克制"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "环境保护法",
+            "difference": "一般环境保护制度"
+          },
+          {
+            "with": "能源法",
+            "difference": "能源开发利用与能源安全"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "气候变化只是国际问题",
+            "correction": "国内法也规定减排、适应与碳市场等义务"
+          },
+          {
+            "claim": "碳交易只是金融投资",
+            "correction": "碳市场是减排政策工具，服务于温室气体控制目标"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -1258,7 +1317,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1812,6 +1871,79 @@
       ],
       "needs_verification": true,
       "pending_notes": "生态保护红线划定与管控规则需按自然资源部、生态环境部官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-data-breach",
+      "title": "数据泄露通知",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "数据法·个人信息保护",
+      "definition": "数据泄露通知是个人信息处理者在发生或者可能发生个人信息泄露、篡改、丢失时，应当立即采取补救措施并通知履行个人信息保护职责的部门和个人。",
+      "summary": "通知应说明泄露信息的种类、原因、可能造成的危害、已采取的补救措施以及个人可采取的减轻危害的措施；无法逐一通知的应公告。",
+      "related": [
+        "data-personal",
+        "data-security",
+        "data-important-data"
+      ],
+      "sources": [
+        "src-law-personal-info-2",
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "数据泄露通知的具体时限与报告格式需按国家网信部门官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "env-carbon-market",
+      "title": "碳排放权交易",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "环境法·碳市场",
+      "definition": "碳排放权交易是通过市场机制配置碳排放配额，促使企业减排的制度；政府确定排放总量与配额分配，重点排放单位在碳市场买卖配额。",
+      "summary": "中国已建立全国碳排放权交易市场，覆盖发电等重点行业，并逐步扩大行业范围；碳市场监管规则以生态环境部官方文本为准。",
+      "related": [
+        "env-climate",
+        "env-law",
+        "env-ecological"
+      ],
+      "sources": [
+        "src-law-environment",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "全国碳市场扩围与交易规则需按生态环境部最新文件核对。",
       "l2": null,
       "l3": null,
       "case": null,

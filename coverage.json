@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 246,
+  "total": 250,
   "levels": {
     "L1": 149,
-    "L2": 94,
+    "L2": 98,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -88,19 +88,19 @@
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 40,
-          "合计": 40
+          "概念制度": 41,
+          "合计": 41
         }
       },
       "by_type": {
-        "概念制度": 40
+        "概念制度": 41
       },
       "cross": {
         "中国": {
-          "概念制度": 40
+          "概念制度": 41
         }
       },
-      "total": 40
+      "total": 41
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 30,
-          "合计": 30
+          "概念制度": 32,
+          "合计": 32
         }
       },
       "by_type": {
-        "概念制度": 30
+        "概念制度": 32
       },
       "cross": {
         "中国": {
-          "概念制度": 30
+          "概念制度": 32
         }
       },
-      "total": 30
+      "total": 32
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 18,
-          "合计": 18
+          "概念制度": 19,
+          "合计": 19
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 28
+        "概念制度": 29
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 18
+          "概念制度": 19
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 28
+      "total": 29
     },
     "u09": {
       "title": "经典案例",
@@ -1530,6 +1530,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "civil-good-faith",
+      "title": "诚信原则",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "crim-legality",
       "title": "罪刑法定原则",
       "unit": "u04",
@@ -1829,7 +1843,7 @@
       "unit": "u04",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -1969,7 +1983,7 @@
       "unit": "u05",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2599,7 +2613,7 @@
       "unit": "u07",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2801,6 +2815,34 @@
       "verified_source_count": 2,
       "unverified_count": 1,
       "pending_notes": "生态保护红线划定与管控规则需按自然资源部、生态环境部官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "data-data-breach",
+      "title": "数据泄露通知",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "数据泄露通知的具体时限与报告格式需按国家网信部门官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "env-carbon-market",
+      "title": "碳排放权交易",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "全国碳市场扩围与交易规则需按生态环境部最新文件核对。",
       "last_updated": "2026-11-24"
     },
     {
@@ -3075,7 +3117,7 @@
       "unit": "u08",
       "type": "概念制度",
       "importance": "补充",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -3193,6 +3235,20 @@
       "verified_source_count": 2,
       "unverified_count": 1,
       "pending_notes": "GATS具体承诺与我国服务贸易开放措施需按WTO与商务部官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-commercial-arbitration",
+      "title": "国际商事仲裁",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 3,
+      "verified_source_count": 3,
+      "unverified_count": 1,
+      "pending_notes": "《纽约公约》适用与主要仲裁机构规则需按联合国及仲裁机构官方文本核对。",
       "last_updated": "2026-11-24"
     },
     {

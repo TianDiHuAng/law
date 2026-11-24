@@ -1263,7 +1263,66 @@
       ],
       "needs_verification": true,
       "pending_notes": "各国际组织的基本文件与特权豁免公约需按组织官方文本核对。",
-      "l2": null,
+      "l2": {
+        "definition_source": "《联合国宪章》及国际组织基本文件（核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "国际组织",
+          "基本文件",
+          "组织机构",
+          "决策程序",
+          "特权与豁免"
+        ],
+        "conditions": [
+          "依条约设立",
+          "具有独立国际法律人格",
+          "成员国授予职权"
+        ],
+        "effects": [
+          "国际组织享有特权与豁免",
+          "国际组织决议对成员国的效力依基本文件确定",
+          "国际组织承担国际责任"
+        ],
+        "exceptions": [
+          "联合国安理会依《宪章》第七章的决议具有强制力",
+          "国际组织职能受成员国授权范围限制"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "国际组织决议的拘束力",
+            "views": [
+              {
+                "holder": "条约授权说",
+                "basis": "决议效力来源于成员国在条约中的授权"
+              },
+              {
+                "holder": "组织自主说（部分学者）",
+                "basis": "国际组织可依实践发展出独立意志与规范效力"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "国际组织",
+            "difference": "政府间组织"
+          },
+          {
+            "with": "非政府组织",
+            "difference": "非政府间组织，不具有国际法主体资格"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "国际组织可以凌驾于国家主权之上",
+            "correction": "国际组织权力来自成员国授权，受基本文件约束"
+          },
+          {
+            "claim": "联合国大会决议都是国际法",
+            "correction": "大会决议多为建议性，安理会特定决议具有强制力"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -1275,7 +1334,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1676,6 +1735,43 @@
       ],
       "needs_verification": true,
       "pending_notes": "GATS具体承诺与我国服务贸易开放措施需按WTO与商务部官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-commercial-arbitration",
+      "title": "国际商事仲裁",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际私法·国际商事仲裁",
+      "definition": "国际商事仲裁是当事人依仲裁协议将具有涉外因素的商事争议提交仲裁机构或临时仲裁庭审理并作出裁决的制度。",
+      "summary": "国际商事仲裁以《纽约公约》为承认与执行的核心框架，具有一裁终局、程序灵活、保密性强等特点。",
+      "related": [
+        "proc-arbitration",
+        "intl-private",
+        "intl-investment"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "《纽约公约》适用与主要仲裁机构规则需按联合国及仲裁机构官方文本核对。",
       "l2": null,
       "l3": null,
       "case": null,

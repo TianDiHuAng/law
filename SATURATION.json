@@ -164,6 +164,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 18,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U03诚信原则、U07数据/碳市场、U08国际仲裁补强",
+        "权威大纲再对照：发现数据泄露通知、碳交易、国际商事仲裁、诚信原则缺口",
+        "深度缺口：气候变化、国际组织法、未成年人程序、审判监督仍为L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }
