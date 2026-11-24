@@ -147,6 +147,60 @@ def entry_card(e):
 </article>"""
 
 
+def unit_bar_svg(units):
+    """各单元条目数横向条形图（L2/L3 堆叠），纯 SVG。"""
+    rowh, left, right, top = 30, 190, 60, 16
+    maxn = max(len(u['entries']) for u in units) or 1
+    w = 760
+    barw = w - left - right
+    h = top * 2 + rowh * len(units) + 28
+    out = [f'<svg class="chart" viewBox="0 0 {w} {h}" role="img" aria-label="各单元条目数与深度分布" xmlns="http://www.w3.org/2000/svg">']
+    for i, u in enumerate(units):
+        y = top + i * rowh
+        n2 = sum(1 for e in u['entries'] if e.get('status') == 'L2')
+        n3 = sum(1 for e in u['entries'] if e.get('status') == 'L3')
+        n1 = len(u['entries']) - n2 - n3
+        x = left
+        out.append(f'<text x="{left-10}" y="{y+17}" text-anchor="end" class="chart-label">{esc(u["title"])}</text>')
+        for cnt, cls in ((n3, 'seg-l3'), (n2, 'seg-l2'), (n1, 'seg-l1')):
+            if cnt:
+                sw = barw * cnt / maxn
+                out.append(f'<rect x="{x:.1f}" y="{y+4}" width="{sw:.1f}" height="20" class="{cls}"><title>{cnt}</title></rect>')
+                x += sw
+        out.append(f'<text x="{x+6:.1f}" y="{y+19}" class="chart-num">{len(u["entries"])}</text>')
+    ly = h - 14
+    for j, (cls, lab) in enumerate((('seg-l3', 'L3 深度研读'), ('seg-l2', 'L2 标准'), ('seg-l1', 'L1 骨架'))):
+        lx = left + j * 150
+        out.append(f'<rect x="{lx}" y="{ly-10}" width="12" height="12" class="{cls}"/><text x="{lx+18}" y="{ly}" class="chart-label">{lab}</text>')
+    out.append('</svg>')
+    return ''.join(out)
+
+
+def level_donut_svg(coverage):
+    """L1/L2/L3 占比环形图，纯 SVG。"""
+    import math
+    lv = coverage['levels']
+    total = sum(lv.values()) or 1
+    cx, cy, r, sw = 110, 110, 80, 36
+    circ = 2 * math.pi * r
+    out = ['<svg class="chart donut" viewBox="0 0 360 220" role="img" aria-label="条目深度占比" xmlns="http://www.w3.org/2000/svg">']
+    off = 0.0
+    for key, cls in (('L3', 'ring-l3'), ('L2', 'ring-l2'), ('L1', 'ring-l1')):
+        v = lv.get(key, 0)
+        if not v:
+            continue
+        ln = circ * v / total
+        out.append(f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke-width="{sw}" class="{cls}" stroke-dasharray="{ln:.2f} {circ-ln:.2f}" stroke-dashoffset="{-off:.2f}" transform="rotate(-90 {cx} {cy})"/>')
+        off += ln
+    out.append(f'<text x="{cx}" y="{cy+2}" text-anchor="middle" class="chart-big">{total}</text><text x="{cx}" y="{cy+22}" text-anchor="middle" class="chart-label">条目</text>')
+    for j, (key, cls) in enumerate((('L3', 'seg-l3'), ('L2', 'seg-l2'), ('L1', 'seg-l1'))):
+        v = lv.get(key, 0)
+        y = 70 + j * 32
+        out.append(f'<rect x="230" y="{y-12}" width="14" height="14" class="{cls}"/><text x="252" y="{y}" class="chart-label">{key}　{v}（{v*100/total:.0f}%）</text>')
+    out.append('</svg>')
+    return ''.join(out)
+
+
 def render_index(units, entries, sources, coverage):
     lv = coverage["levels"]
     core = [e for e in entries if e["importance"] == "核心"]
@@ -176,6 +230,10 @@ def render_index(units, entries, sources, coverage):
 <section class="section">
   <div class="section-head"><h2>部门法地图</h2><p>按法学知识体系划分，先骨架后深写。</p></div>
   <div class="unit-grid">{unit_cards}</div>
+</section>
+<section class="section">
+  <div class="section-head"><h2>规模一览</h2><p>各单元条目数与深度分布（纯 SVG，无脚本）。</p></div>
+  <div class="chart-row"><div class="chart-box">{unit_bar_svg(units)}</div><div class="chart-box small">{level_donut_svg(coverage)}</div></div>
 </section>
 <section class="section">
   <div class="section-head"><h2>核心条目</h2><p>全部核心条目已达到 L2 及以上；其中少量条目进入 L3 深度研读。</p></div>
@@ -409,6 +467,7 @@ def render_coverage(coverage, units):
         m = matrix[u["unit_id"]]["by_jurisdiction"]
         juris_rows.append(f"<tr><td>{esc(u['title'])}</td><td>{esc('、'.join(f'{k} {sum(v.values())}' for k,v in m.items()))}</td></tr>")
     body = f"""<div class="page-head"><p class="kicker">覆盖矩阵</p><h1>覆盖与进度</h1><p>总条目 {coverage['total']}；L1 {lv.get('L1',0)}、L2 {lv.get('L2',0)}、L3 {lv.get('L3',0)}。核心条目全部达到 L2 及以上的单元：{sum(1 for v in coverage['core_l2_coverage'].values() if v)}/{sum(1 for v in coverage['core_l2_coverage'].values() if v is not None)}。</p></div>
+<h2>深度分布</h2><div class="chart-row"><div class="chart-box">{unit_bar_svg(units)}</div><div class="chart-box small">{level_donut_svg(coverage)}</div></div>
 <h2>部门法 × 页面类型</h2>
 <table class="data-table"><thead><tr><th>单元</th>{head}<th>合计</th><th>核心 L2</th></tr></thead><tbody>{''.join(rows)}</tbody></table>
 <h2>部门法 × 辖区</h2>
@@ -580,6 +639,16 @@ a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
 .citation{font-size:13px;color:var(--muted)}
 @media(max-width:820px){.hero{grid-template-columns:1fr;padding-top:36px}.two-col{grid-template-columns:1fr}.section-head{display:block}.main-nav{gap:2px}.main-nav a{font-size:13px;padding:6px 8px}}
 @media print{.site-header,.hero-actions,.main-nav{display:none}.diagram svg{min-width:0}}
+
+.chart{width:100%;height:auto;display:block}
+.chart-row{display:flex;flex-wrap:wrap;gap:1.2rem;align-items:flex-start}
+.chart-box{flex:2 1 420px;background:var(--paper,#fffdf8);border:1px solid #d9cdb4;border-radius:6px;padding:.8rem}
+.chart-box.small{flex:1 1 260px}
+.chart-label{font-size:13px;fill:#3a3226}
+.chart-num{font-size:12px;fill:#6b5d45}
+.chart-big{font-size:30px;font-weight:700;fill:#3a3226}
+.seg-l1{fill:#cfc4aa}.seg-l2{fill:#8a6d3b}.seg-l3{fill:#7a1f2b}
+.ring-l1{stroke:#cfc4aa}.ring-l2{stroke:#8a6d3b}.ring-l3{stroke:#7a1f2b}
 """
     with open(os.path.join(SITE, "style.css"), "w", encoding="utf-8") as f:
         f.write(css)
