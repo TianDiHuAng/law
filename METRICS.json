@@ -2182,6 +2182,24 @@
         "L3": 101
       },
       "notes": "R125 维护模式（饱和中）：票据抗辩与追索、破产撤销权升级 L3（L3 突破 100 达 101 条）；缺口复检无新缺口，维持饱和。"
+    },
+    {
+      "round": 126,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 1,
+      "pending_total": 184,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 379,
+      "levels": {
+        "L1": 0,
+        "L2": 276,
+        "L3": 103
+      },
+      "notes": "R126 维护模式（饱和中）：个人信息可携带权、生物多样性保护升级 L3（L3 达 103 条）；修复 1 处格式；缺口复检无新缺口，维持饱和。"
     }
   ]
 }

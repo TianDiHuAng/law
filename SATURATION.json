@@ -1632,6 +1632,20 @@
       "saturated": true,
       "no_gap_streak": 49,
       "note": "维持饱和（第49轮无新缺口）"
+    },
+    {
+      "round": 126,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：个人信息可携带权、生物多样性保护升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 50,
+      "note": "维持饱和（第50轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1649,8 +1663,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 278,
-      "L3": 101
+      "L2": 276,
+      "L3": 103
     },
     "sources": 144,
     "verified": 122
