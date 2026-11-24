@@ -1574,6 +1574,21 @@
       "saturated": true,
       "no_gap_streak": 45,
       "note": "维持饱和（第45轮无新缺口）"
+    },
+    {
+      "round": 122,
+      "date": "2026-11-24",
+      "methods": [
+        "体检：死链0、过期0、重复0、孤儿0、近重复0",
+        "深度化：法人人格否认、公司解散清算升 L3"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "saturated": true,
+      "no_gap_streak": 46,
+      "note": "维持饱和（第46轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1591,8 +1606,8 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 286,
-      "L3": 93
+      "L2": 284,
+      "L3": 95
     },
     "sources": 144,
     "verified": 122
