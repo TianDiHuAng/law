@@ -151,6 +151,19 @@
       "new_entries": 4,
       "upgrades": 4,
       "remaining_backlog": 8
+    },
+    {
+      "round": 17,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U03合同、U07数据/环境、U08服务贸易补强",
+        "权威大纲再对照：发现重要数据、生态红线、服务贸易、合同保全缺口",
+        "深度缺口：用益物权、量刑、工伤保险、信息披露仍为L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

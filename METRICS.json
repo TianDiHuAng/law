@@ -199,6 +199,24 @@
         "L3": 3
       },
       "notes": "R16：新增政府采购、遗产管理人制度、海洋环境保护、外层空间法；升级公司治理、工时与休息休假、工资制度、社会保险法至 L2。"
+    },
+    {
+      "round": 17,
+      "date": "2026-11-24",
+      "new_entries": 4,
+      "upgrades": 4,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 87,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 0,
+      "total_entries": 246,
+      "levels": {
+        "L1": 149,
+        "L2": 94,
+        "L3": 3
+      },
+      "notes": "R17：新增重要数据、生态保护红线、国际服务贸易、合同保全；升级用益物权、量刑、工伤保险、信息披露制度至 L2。"
     }
   ]
 }

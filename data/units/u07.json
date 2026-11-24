@@ -1755,6 +1755,78 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "data-important-data",
+      "title": "重要数据",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "数据法·数据安全",
+      "definition": "重要数据是指一旦遭到篡改、破坏、泄露或者非法获取、非法利用，可能危害国家安全、公共利益的数据，其具体范围由行业主管部门依法确定。",
+      "summary": "重要数据处理者应明确数据安全负责人与管理机构，开展风险评估，并向主管部门报送风险评估报告；重要数据出境须依法进行安全评估。",
+      "related": [
+        "data-classification",
+        "data-cross-border",
+        "data-security"
+      ],
+      "sources": [
+        "src-law-data-security",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "重要数据目录与识别指南需按国家网信部门及行业主管部门官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "env-ecological-redline",
+      "title": "生态保护红线",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "环境法·生态空间",
+      "definition": "生态保护红线是在生态空间范围内具有特殊重要生态功能、必须强制性严格保护的区域，是保障国家生态安全的底线。",
+      "summary": "生态保护红线划定后应严格保护，禁止不符合主体功能定位的各类开发建设活动；红线调整须依法定程序。",
+      "related": [
+        "env-law",
+        "env-ecological",
+        "env-eia"
+      ],
+      "sources": [
+        "src-law-environment",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "生态保护红线划定与管控规则需按自然资源部、生态环境部官方文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u07",
+      "unit_title": "知识产权、环境与数据法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

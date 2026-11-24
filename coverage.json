@@ -1,9 +1,9 @@
 {
   "generated": "2026-11-24",
-  "total": 242,
+  "total": 246,
   "levels": {
     "L1": 149,
-    "L2": 90,
+    "L2": 94,
     "L3": 3
   },
   "core_l2_coverage": {
@@ -88,19 +88,19 @@
       "title": "民法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 39,
-          "合计": 39
+          "概念制度": 40,
+          "合计": 40
         }
       },
       "by_type": {
-        "概念制度": 39
+        "概念制度": 40
       },
       "cross": {
         "中国": {
-          "概念制度": 39
+          "概念制度": 40
         }
       },
-      "total": 39
+      "total": 40
     },
     "u04": {
       "title": "刑法与刑事程序",
@@ -160,19 +160,19 @@
       "title": "知识产权、环境与数据法",
       "by_jurisdiction": {
         "中国": {
-          "概念制度": 28,
-          "合计": 28
+          "概念制度": 30,
+          "合计": 30
         }
       },
       "by_type": {
-        "概念制度": 28
+        "概念制度": 30
       },
       "cross": {
         "中国": {
-          "概念制度": 28
+          "概念制度": 30
         }
       },
-      "total": 28
+      "total": 30
     },
     "u08": {
       "title": "比较法与国际法",
@@ -202,8 +202,8 @@
           "合计": 2
         },
         "国际": {
-          "概念制度": 17,
-          "合计": 17
+          "概念制度": 18,
+          "合计": 18
         },
         "中国": {
           "概念制度": 1,
@@ -211,7 +211,7 @@
         }
       },
       "by_type": {
-        "概念制度": 27
+        "概念制度": 28
       },
       "cross": {
         "英国": {
@@ -233,13 +233,13 @@
           "概念制度": 2
         },
         "国际": {
-          "概念制度": 17
+          "概念制度": 18
         },
         "中国": {
           "概念制度": 1
         }
       },
-      "total": 27
+      "total": 28
     },
     "u09": {
       "title": "经典案例",
@@ -1087,7 +1087,7 @@
       "unit": "u03",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 4,
       "verified_source_count": 4,
@@ -1516,6 +1516,20 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "civil-contract-preservation",
+      "title": "合同保全",
+      "unit": "u03",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 0,
+      "pending_notes": "",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "crim-legality",
       "title": "罪刑法定原则",
       "unit": "u04",
@@ -1647,7 +1661,7 @@
       "unit": "u04",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2179,7 +2193,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 2,
       "verified_source_count": 2,
@@ -2263,7 +2277,7 @@
       "unit": "u06",
       "type": "概念制度",
       "importance": "重要",
-      "level": "L1",
+      "level": "L2",
       "status": "done",
       "source_count": 3,
       "verified_source_count": 3,
@@ -2762,6 +2776,34 @@
       "last_updated": "2026-11-24"
     },
     {
+      "id": "data-important-data",
+      "title": "重要数据",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "重要",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "重要数据目录与识别指南需按国家网信部门及行业主管部门官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "env-ecological-redline",
+      "title": "生态保护红线",
+      "unit": "u07",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "生态保护红线划定与管控规则需按自然资源部、生态环境部官方文本核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
       "id": "comp-common-law",
       "title": "英国普通法的形成",
       "unit": "u08",
@@ -3137,6 +3179,20 @@
       "verified_source_count": 3,
       "unverified_count": 1,
       "pending_notes": "外层空间条约体系与各国空间立法需按联合国外空事务厅官方资料核对。",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "id": "intl-trade-services",
+      "title": "国际服务贸易",
+      "unit": "u08",
+      "type": "概念制度",
+      "importance": "补充",
+      "level": "L1",
+      "status": "done",
+      "source_count": 2,
+      "verified_source_count": 2,
+      "unverified_count": 1,
+      "pending_notes": "GATS具体承诺与我国服务贸易开放措施需按WTO与商务部官方文本核对。",
       "last_updated": "2026-11-24"
     },
     {

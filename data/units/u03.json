@@ -617,7 +617,66 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国民法典》第三百二十三条至第三百六十二条（版本：2020年通过，核对日期：2026-11-24）。",
+        "elements": [
+          "土地承包经营权",
+          "建设用地使用权",
+          "宅基地使用权",
+          "居住权",
+          "地役权"
+        ],
+        "conditions": [
+          "依法取得用益物权",
+          "标的物为他人所有的不动产或动产",
+          "在法定或约定范围内占有、使用、收益"
+        ],
+        "effects": [
+          "用益物权人依法享有占有、使用和收益的权利",
+          "所有权人不得妨碍用益物权行使",
+          "用益物权可依法流转（法律规定除外）"
+        ],
+        "exceptions": [
+          "土地承包经营权、宅基地使用权的主体与流转受法律特别限制",
+          "公共利益需要可依法征收征用并补偿"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "宅基地使用权能否向集体经济组织外流转",
+            "views": [
+              {
+                "holder": "严格限制说（现行法）",
+                "basis": "宅基地具有社会保障功能，流转限于本集体经济组织内部"
+              },
+              {
+                "holder": "改革试点说（部分观点）",
+                "basis": "应探索宅基地使用权有偿退出与跨集体流转"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "用益物权",
+            "difference": "支配物的使用价值"
+          },
+          {
+            "with": "担保物权",
+            "difference": "支配物的交换价值"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "用益物权是所有权",
+            "correction": "用益物权是在他人所有物上设定的限制物权"
+          },
+          {
+            "claim": "所有用益物权都可以自由转让",
+            "correction": "土地承包经营权、宅基地使用权等流转受法律限制"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -629,7 +688,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -2439,6 +2498,42 @@
       "sources": [
         "src-law-civil-code",
         "src-jd-civil-inheritance",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-contract-preservation",
+      "title": "合同保全",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·合同保全",
+      "definition": "合同保全是法律为防止债务人财产不当减少而损害债权人利益，允许债权人行使代位权与撤销权的制度。",
+      "summary": "代位权针对债务人怠于行使其到期债权或与债权有关的从权利；撤销权针对债务人无偿处分财产、以明显不合理价格交易等损害债权的行为。",
+      "related": [
+        "civil-contract",
+        "civil-contract-liability",
+        "proc-civil-enforcement"
+      ],
+      "sources": [
+        "src-law-civil-code",
         "src-zgbk"
       ],
       "needs_verification": false,
