@@ -593,6 +593,19 @@
       "new_entries": 0,
       "upgrades": 2,
       "remaining_backlog": 8
+    },
+    {
+      "round": 51,
+      "date": "2026-11-24",
+      "methods": [
+        "覆盖矩阵：U02柔性监管、U03权利质权、U07经纪人责任、U08体育上诉补强",
+        "权威大纲再对照：发现行政约谈、债权质权、经纪人责任、体育上诉缺口",
+        "深度缺口：数据治理/入表/要素市场/收益分配仍为 L1"
+      ],
+      "gaps_found": 8,
+      "new_entries": 4,
+      "upgrades": 4,
+      "remaining_backlog": 8
     }
   ]
 }

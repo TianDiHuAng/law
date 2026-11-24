@@ -3517,6 +3517,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-administrative-interview",
+      "title": "行政约谈",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "中国",
+      "era": "行政法学·柔性监管",
+      "definition": "行政约谈是行政机关为督促相关主体履行法定义务、整改问题，通过约见谈话方式进行提醒、告诫与指导的柔性监管方式。",
+      "summary": "行政约谈一般不直接产生强制法律效果，但可能成为后续处罚或信用惩戒的考量因素；约谈应依法定职责范围进行并留存记录。",
+      "related": [
+        "admin-inspection",
+        "admin-penalty",
+        "admin-principles"
+      ],
+      "sources": [
+        "src-law-admin-penalty",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "行政约谈缺乏统一立法，各部门规章中的规定不一，需按具体领域规定核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }

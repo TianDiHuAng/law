@@ -3412,6 +3412,42 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-sports-appeal",
+      "title": "国际体育仲裁的上诉机制",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际私法·体育仲裁",
+      "definition": "国际体育仲裁的上诉机制是当事人对体育组织纪律决定不服，向国际体育仲裁院上诉仲裁庭提起上诉并请求撤销或变更决定的程序。",
+      "summary": "上诉仲裁庭可对事实与法律进行重新审查；裁决可依瑞士法向瑞士联邦最高法院申请有限审查，但撤销理由极为有限。",
+      "related": [
+        "intl-sports-arbitration",
+        "intl-sports-law",
+        "intl-award-setting-aside"
+      ],
+      "sources": [
+        "src-un-treaty",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "国际体育仲裁院上诉程序与瑞士联邦最高法院审查实践需按其官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
