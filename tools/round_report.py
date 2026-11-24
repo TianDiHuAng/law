@@ -35,7 +35,7 @@ def main():
                  f"已核验来源 {verified}/{len(sources)}；待核实条目 {pending}；来源总数 {len(sources)}")
     lines.append(f"4. **质量**：`tools/check.py` → {m['check']}；本轮抽检见 `SPOTCHECK.md`；无回滚或降级批次")
     lines.append("5. **缺口发现摘要**：本轮使用 5 种方法（权威大纲再对照、覆盖矩阵、悬空引用、读者问题清单、深度缺口），"
-                 f"发现 {saturation['history'][-1]['gaps_found']} 个缺口；已执行 14 条新增与 6 条 L2 升级，其余进入 BACKLOG。")
+                 f"发现 {saturation['history'][-1]['gaps_found']} 个缺口；已执行 {m['new_entries']} 条新增与 {m['upgrades']} 条 L2 升级，其余进入 BACKLOG。")
     lines.append(f"6. **覆盖矩阵仍空白格子（最多 20 个）**：{blank_text}。结构性空白说明见 `coverage.html`。")
     lines.append("7. **需要人关注的事项**：无。")
     lines.append("")

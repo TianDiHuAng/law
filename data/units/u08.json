@@ -635,7 +635,67 @@
       ],
       "needs_verification": true,
       "pending_notes": "中国对条约法公约的保留与适用情况需按外交部官方资料核对。",
-      "l2": null,
+      "l2": {
+        "definition_source": "《维也纳条约法公约》（1969年）及联合国条约集资料（核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "条约的缔结",
+          "生效",
+          "保留",
+          "解释",
+          "终止与无效"
+        ],
+        "conditions": [
+          "缔约主体具有缔约能力",
+          "表示同意受条约拘束",
+          "条约依法生效",
+          "不违反强行法"
+        ],
+        "effects": [
+          "条约对当事国具有拘束力，须善意履行",
+          "条约不得违反强行法",
+          "条约解释依通常意义、上下文与目的宗旨"
+        ],
+        "exceptions": [
+          "条约保留在允许范围内可排除或变更条款效力",
+          "情势根本变更、重大违约等可依法终止或暂停施行"
+        ],
+        "cases": [],
+        "controversies": [
+          {
+            "issue": "条约与习惯国际法的关系",
+            "views": [
+              {
+                "holder": "条约优先说（部分实务观点）",
+                "basis": "特别法优于一般法，条约应优先适用"
+              },
+              {
+                "holder": "相互补充说（主流）",
+                "basis": "条约与习惯法相互补充，冲突时依特别法、后法原则处理"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "国际习惯",
+            "difference": "条约以明示同意为基础，习惯以国家实践与法律确信为基础"
+          },
+          {
+            "with": "国内法",
+            "difference": "条约是国际法渊源，国内适用须依宪法与法律规定"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "条约可以随意退出",
+            "correction": "退出须依条约规定或经缔约国同意，并受国际法约束"
+          },
+          {
+            "claim": "条约与国内法无关",
+            "correction": "条约在国内的适用方式由各国宪法与法律规定"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -647,7 +707,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -927,6 +987,43 @@
       ],
       "needs_verification": true,
       "pending_notes": "《罗马规约》缔约国范围与国际刑事法院案例需按官方资料核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u08",
+      "unit_title": "比较法与国际法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "intl-organization-law",
+      "title": "国际组织法",
+      "type": "concept",
+      "importance": "补充",
+      "jurisdiction": "国际",
+      "era": "国际公法·国际组织",
+      "definition": "国际组织法是规范政府间国际组织的法律地位、组织机构、职权、决策程序及其与成员国关系的国际法分支。",
+      "summary": "国际组织依条约设立，具有独立的国际法律人格与特权豁免；联合国是当今最具普遍性的政府间国际组织。",
+      "related": [
+        "intl-sources",
+        "intl-treaty",
+        "intl-human-rights"
+      ],
+      "sources": [
+        "src-un-charter",
+        "src-icj",
+        "src-zgbk"
+      ],
+      "needs_verification": true,
+      "pending_notes": "各国际组织的基本文件与特权豁免公约需按组织官方文本核对。",
       "l2": null,
       "l3": null,
       "case": null,

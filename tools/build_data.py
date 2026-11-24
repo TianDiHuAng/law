@@ -10,7 +10,9 @@ from datetime import date
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 sys.path.insert(0, os.path.join(ROOT, "content"))
 from extras import EXTRAS  # noqa: E402
+from extras_r07 import EXTRAS_R07  # noqa: E402
 from upgrades import UPGRADES  # noqa: E402
+from upgrades_r07 import UPGRADES_R07  # noqa: E402
 
 TODAY = "2026-11-24"
 OUTLINE_A = "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）"
@@ -41,10 +43,13 @@ def main():
     # 挂载本轮新增条目与升级内容
     for unit in units:
         unit["entries"].extend(EXTRAS.get(unit["unit_id"], []))
+        unit["entries"].extend(EXTRAS_R07.get(unit["unit_id"], []))
     for unit in units:
         for e in unit["entries"]:
             if e["id"] in UPGRADES:
                 e["l2"] = UPGRADES[e["id"]]
+            if e["id"] in UPGRADES_R07:
+                e["l2"] = UPGRADES_R07[e["id"]]
 
     ids, titles = {}, {}
     entries_all = []

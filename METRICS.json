@@ -11,8 +11,30 @@
       "check": "CHECK_OK (errors=0 warnings=0)",
       "new_sources": 0,
       "total_entries": 205,
-      "levels": {"L1": 153, "L2": 49, "L3": 3},
+      "levels": {
+        "L1": 153,
+        "L2": 49,
+        "L3": 3
+      },
       "notes": "R06：新增 14 条（基层自治、行政协议、居住权、租赁、医疗损害、单位犯罪、数罪并罚、缓刑、财产保全、法院调解、地理标志、关键信息基础设施、海洋法、国际刑法）；升级 6 条重要条目至 L2。"
+    },
+    {
+      "round": 7,
+      "date": "2026-11-24",
+      "new_entries": 6,
+      "upgrades": 4,
+      "reviews": 0,
+      "fixes": 0,
+      "pending_total": 64,
+      "check": "CHECK_OK (errors=0 warnings=0)",
+      "new_sources": 3,
+      "total_entries": 211,
+      "levels": {
+        "L1": 155,
+        "L2": 53,
+        "L3": 3
+      },
+      "notes": "R07：新增政府信息公开、保证合同、物业服务合同、合伙企业法、信托法、国际组织法；升级行政行为、合同订立、刑事强制措施、条约法至 L2。"
     }
   ]
 }

@@ -829,7 +829,69 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "《中华人民共和国民法典》第四百七十一条至第五百零一条（版本：2020年通过，核对日期：2026-11-24）。",
+        "elements": [
+          "要约",
+          "承诺",
+          "合同成立",
+          "合同形式"
+        ],
+        "conditions": [
+          "要约内容具体确定",
+          "受要约人作出承诺",
+          "承诺生效时合同成立",
+          "法律要求书面形式的已具备书面形式"
+        ],
+        "effects": [
+          "合同成立并可能生效",
+          "当事人受合同约束",
+          "违反先合同义务可能承担缔约过失责任"
+        ],
+        "exceptions": [
+          "要约邀请不构成要约",
+          "承诺对要约内容作出实质性变更的为新要约",
+          "法律、行政法规规定应当办理批准手续的，依照规定"
+        ],
+        "cases": [
+          "case-carlill"
+        ],
+        "controversies": [
+          {
+            "issue": "格式条款的订入与效力",
+            "views": [
+              {
+                "holder": "消费者保护说",
+                "basis": "提供格式条款一方应履行提示说明义务，不合理免责条款无效"
+              },
+              {
+                "holder": "交易效率说（部分实务观点）",
+                "basis": "应尊重商业惯例，避免过度干预标准化交易"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "预约合同",
+            "difference": "预约约定将来订立本约，本约直接产生履行义务"
+          },
+          {
+            "with": "缔约过失责任",
+            "difference": "合同成立前的信赖利益责任，与违约责任不同"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "合同必须书面才成立",
+            "correction": "除法律另有规定外，合同可采用书面、口头或其他形式"
+          },
+          {
+            "claim": "要约可以随时撤回",
+            "correction": "撤回要约的通知应在要约到达受要约人前或同时到达"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -841,7 +903,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1728,6 +1790,78 @@
         "civil-tort",
         "civil-tort-fault",
         "civil-product"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-guarantee",
+      "title": "保证合同",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·典型合同",
+      "definition": "保证合同是为保障债权的实现，保证人和债权人约定，当债务人不履行到期债务或者发生当事人约定的情形时，保证人履行债务或者承担责任的合同。",
+      "summary": "保证分为一般保证与连带责任保证；保证人承担保证责任后，有权向债务人追偿，但不得损害债权人的利益。",
+      "related": [
+        "civil-contract",
+        "civil-security",
+        "com-bankruptcy"
+      ],
+      "sources": [
+        "src-law-civil-code",
+        "src-zgbk"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u03",
+      "unit_title": "民法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "civil-property-service",
+      "title": "物业服务合同",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "民法·典型合同",
+      "definition": "物业服务合同是物业服务人在物业服务区域内，为业主提供建筑物及其附属设施的维修养护、环境卫生和相关秩序的管理维护等物业服务，业主支付物业费的合同。",
+      "summary": "物业服务合同对业主具有法律约束力；物业服务人不得采取停止供电、供水、供热、供燃气等方式催交物业费。",
+      "related": [
+        "civil-contract",
+        "civil-ownership",
+        "proc-civil-mediation"
       ],
       "sources": [
         "src-law-civil-code",

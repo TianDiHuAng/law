@@ -631,7 +631,69 @@
       ],
       "needs_verification": false,
       "pending_notes": "",
-      "l2": null,
+      "l2": {
+        "definition_source": "行政法学通说；《中华人民共和国行政诉讼法》关于行政行为合法性审查的规定（版本：2017年修正，核对日期：2026-11-24；具体条文号待核实）。",
+        "elements": [
+          "行政主体",
+          "行政职权",
+          "意思表示",
+          "法律效果"
+        ],
+        "conditions": [
+          "由行政机关或其授权组织作出",
+          "在法定职权范围内",
+          "内容与程序合法",
+          "对外产生法律效果"
+        ],
+        "effects": [
+          "行政行为具有公定力、确定力、拘束力与执行力",
+          "相对人可依法申请复议或提起诉讼",
+          "违法行政行为可被撤销、确认违法或责令履行"
+        ],
+        "exceptions": [
+          "行政行为无效情形",
+          "行政机关内部行为原则上不可诉",
+          "事实行为不产生行政法上的法律效果"
+        ],
+        "cases": [
+          "case-yuhuan"
+        ],
+        "controversies": [
+          {
+            "issue": "行政行为公定力的范围",
+            "views": [
+              {
+                "holder": "传统行政法学说",
+                "basis": "行政行为一经作出即推定合法有效，非经法定程序不得否定"
+              },
+              {
+                "holder": "现代法治观点",
+                "basis": "公定力应受合法性审查限制，重大明显违法可认定无效"
+              }
+            ]
+          }
+        ],
+        "distinctions": [
+          {
+            "with": "事实行为",
+            "difference": "事实行为不直接产生法律效果，行政行为以发生法律效果为目的"
+          },
+          {
+            "with": "民事法律行为",
+            "difference": "行政行为由行政主体单方作出并具有公法效力，民事行为以平等自愿为基础"
+          }
+        ],
+        "misconceptions": [
+          {
+            "claim": "行政机关做的任何事都是行政行为",
+            "correction": "只有行使行政职权并产生法律效果的行为才属于行政行为"
+          },
+          {
+            "claim": "行政行为一经作出就不能改变",
+            "correction": "行政机关可依法撤销、变更，相对人也可通过复议、诉讼救济"
+          }
+        ]
+      },
       "l3": null,
       "case": null,
       "law": null,
@@ -643,7 +705,7 @@
         "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
         "《中国大百科全书（第三版）·法学》"
       ],
-      "status": "L1",
+      "status": "L2",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
     },
@@ -1151,6 +1213,43 @@
       ],
       "needs_verification": true,
       "pending_notes": "行政协议司法解释的具体条文与受案范围需按最高人民法院现行文本核对。",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u02",
+      "unit_title": "宪法与行政法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "admin-government-info",
+      "title": "政府信息公开",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "行政法学·政府信息公开",
+      "definition": "政府信息公开是行政机关依法主动公开或者依申请向公民、法人和其他组织提供政府信息的制度。",
+      "summary": "政府信息公开以公开为常态、不公开为例外，遵循公正、公平、合法、便民原则；涉及国家秘密、商业秘密、个人隐私等依法不予公开。",
+      "related": [
+        "admin-act",
+        "admin-litigation",
+        "const-rights"
+      ],
+      "sources": [
+        "src-reg-government-info",
+        "src-zgbk",
+        "src-gov-cn"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
       "l2": null,
       "l3": null,
       "case": null,

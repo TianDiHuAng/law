@@ -49,7 +49,7 @@
 | theory-natural-positive | 自然法与实证法 | 概念制度 | 补充 | A、C | 西方 |
 | theory-legal-norm | 法律规范 | 概念制度 | 补充 | A、C | 中国 |
 
-### U02 宪法与行政法（22 条）
+### U02 宪法与行政法（23 条）
 
 国家权力结构、基本权利与行政法治
 
@@ -77,8 +77,9 @@
 | admin-civil-servant | 公务员制度 | 概念制度 | 补充 | A、C | 中国 |
 | const-local-autonomy | 基层群众自治制度 | 概念制度 | 重要 | A、C | 中国 |
 | admin-administrative-agreement | 行政协议 | 概念制度 | 重要 | A、C | 中国 |
+| admin-government-info | 政府信息公开 | 概念制度 | 重要 | A、C | 中国 |
 
-### U03 民法（31 条）
+### U03 民法（33 条）
 
 民法典体系与民事权利义务
 
@@ -115,6 +116,8 @@
 | civil-residence | 居住权 | 概念制度 | 重要 | A、C | 中国 |
 | civil-lease | 租赁合同 | 概念制度 | 重要 | A、C | 中国 |
 | civil-medical | 医疗损害责任 | 概念制度 | 重要 | A、C | 中国 |
+| civil-guarantee | 保证合同 | 概念制度 | 重要 | A、C | 中国 |
+| civil-property-service | 物业服务合同 | 概念制度 | 重要 | A、C | 中国 |
 
 ### U04 刑法与刑事程序（25 条）
 
@@ -167,7 +170,7 @@
 | proc-civil-preservation | 财产保全 | 概念制度 | 重要 | A、C | 中国 |
 | proc-civil-mediation | 法院调解 | 概念制度 | 重要 | A、C | 中国 |
 
-### U06 商法与社会法（20 条）
+### U06 商法与社会法（22 条）
 
 公司、破产、证券与劳动保障
 
@@ -193,6 +196,8 @@
 | labor-dispute | 劳动争议处理 | 概念制度 | 重要 | A、C | 中国 |
 | social-insurance | 社会保险法 | 概念制度 | 重要 | A、C | 中国 |
 | social-protection | 社会救助与社会保障 | 概念制度 | 补充 | A、C | 中国 |
+| com-partnership | 合伙企业法 | 概念制度 | 重要 | A、C | 中国 |
+| com-trust | 信托法 | 概念制度 | 重要 | A、C | 中国 |
 
 ### U07 知识产权、环境与数据法（18 条）
 
@@ -219,7 +224,7 @@
 | ip-geographical-indication | 地理标志 | 概念制度 | 重要 | A、C | 中国 |
 | data-critical-infrastructure | 关键信息基础设施保护 | 概念制度 | 重要 | A、C | 中国 |
 
-### U08 比较法与国际法（19 条）
+### U08 比较法与国际法（20 条）
 
 普通法、大陆法、欧盟法与国际规则
 
@@ -244,6 +249,7 @@
 | intl-recognition | 外国判决的承认与执行 | 概念制度 | 补充 | A、C | 国际 |
 | intl-law-of-sea | 海洋法 | 概念制度 | 补充 | A、C | 国际 |
 | intl-international-criminal | 国际刑法 | 概念制度 | 补充 | A、C | 国际 |
+| intl-organization-law | 国际组织法 | 概念制度 | 补充 | A、C | 国际 |
 
 ### U09 经典案例（20 条）
 
@@ -312,6 +318,6 @@
 
 ## 五、覆盖统计
 
-- 总条目：205
-- L1：153；L2：49；L3：3
+- 总条目：211
+- L1：155；L2：53；L3：3
 - 核心条目全部达到 L2 及以上的单元：10/11

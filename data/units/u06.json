@@ -957,6 +957,80 @@
       "status": "L1",
       "legal_status": "制度/案例条目（以现行法为背景）",
       "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-partnership",
+      "title": "合伙企业法",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "商法·合伙企业",
+      "definition": "合伙企业是自然人、法人和其他组织依法设立的，由合伙人订立合伙协议，共同出资、合伙经营、共享收益、共担风险的企业组织形式。",
+      "summary": "普通合伙人对合伙企业债务承担无限连带责任，有限合伙人以认缴出资额为限承担责任；合伙企业不具有法人资格。",
+      "related": [
+        "com-company",
+        "com-bankruptcy",
+        "civil-legal-person"
+      ],
+      "sources": [
+        "src-npc",
+        "src-zgbk",
+        "src-wiki-partnership"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
+    },
+    {
+      "id": "com-trust",
+      "title": "信托法",
+      "type": "concept",
+      "importance": "重要",
+      "jurisdiction": "中国",
+      "era": "商法·信托",
+      "definition": "信托是委托人基于对受托人的信任，将其财产权委托给受托人，由受托人按委托人的意愿以自己的名义，为受益人的利益或者特定目的进行管理或者处分的行为。",
+      "summary": "信托财产独立于委托人、受托人和受益人的固有财产；受托人负有忠实义务与谨慎义务。",
+      "related": [
+        "com-company",
+        "civil-contract",
+        "intl-investment"
+      ],
+      "sources": [
+        "src-wiki-trust-law",
+        "src-zgbk",
+        "src-npc"
+      ],
+      "needs_verification": false,
+      "pending_notes": "",
+      "l2": null,
+      "l3": null,
+      "case": null,
+      "law": null,
+      "flow": null,
+      "year": null,
+      "unit_id": "u06",
+      "unit_title": "商法与社会法",
+      "outline_sources": [
+        "教育部《普通高等学校法学类本科专业教学质量国家标准》（2018）",
+        "《中国大百科全书（第三版）·法学》"
+      ],
+      "status": "L1",
+      "legal_status": "制度/案例条目（以现行法为背景）",
+      "checked_date": "2026-11-24"
     }
   ]
 }
