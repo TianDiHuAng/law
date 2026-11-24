@@ -987,6 +987,22 @@
       "saturated": true,
       "no_gap_streak": 4,
       "note": "维持饱和（第4轮无新缺口）"
+    },
+    {
+      "round": 81,
+      "date": "2026-11-24",
+      "methods": [
+        "维护：环境保护法、著作权法导读升 L3",
+        "来源补强：核验 2 条可访问来源"
+      ],
+      "gaps_found": 0,
+      "new_entries": 0,
+      "upgrades": 0,
+      "l3_upgrades": 2,
+      "sources_verified": 2,
+      "saturated": true,
+      "no_gap_streak": 5,
+      "note": "维持饱和（第5轮无新缺口）"
     }
   ],
   "saturated_at": "2026-11-24",
@@ -1004,11 +1020,11 @@
     "entries": 379,
     "levels": {
       "L1": 0,
-      "L2": 368,
-      "L3": 11
+      "L2": 366,
+      "L3": 13
     },
     "sources": 144,
-    "verified": 120
+    "verified": 122
   },
   "residual_items": [
     "部分历史案例案号待核实（CASE_REVIEW）",
